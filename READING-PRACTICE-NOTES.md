@@ -22,9 +22,9 @@ responsive screens. Reading 8's location-answer choices become paragraph numbers
 Paragraph headings and sentence gaps are retained, and passage titles are shown
 only after submission to avoid giving away best-title answers.
 
-Reading 16 question 2 has a documented clarification: the original options A
-and C were both defensible from the passage (piracy as old as sea trade; first
-recorded example 3,400 years ago). The interactive question asks specifically
+Reading 16 question 2 has a documented clarification: the original keyed C confused the first recorded example
+with when piracy first began; A was supported by the passage (piracy as old
+as sea trade). The interactive question asks specifically
 about the first recorded example, with C stating the Mediterranean 3,400 years
 ago. Other supplied answer keys are retained. Scoring checks compare all items
 with the imported key; they do not establish an independent full item audit.
@@ -36,3 +36,5 @@ Checks: imported question and vocabulary counts; four choices per item; all 172
 keys graded correctly; eight images rendered; saved answer/flag/order/deadline;
 automatic expiry after reload; immutable first score across retakes; flashcards,
 Arabic display, word lists; desktop/mobile layout and menu switching.
+
+See READING-AUDIT.md for the subsequent question, key, and formatting review.
