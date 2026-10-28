@@ -592,7 +592,7 @@
             "images": []
           },
           {
-            "text": "Decide after the next weather report.",
+            "text": "Wait to see what the weather is like before deciding.",
             "images": []
           },
           {
@@ -603,18 +603,18 @@
         "answer": 1
       },
       {
-        "stem": "What do the friends talk about keeping fit?",
+        "stem": "What does the speaker who recommends swimming say about it?",
         "options": [
           {
-            "text": "He doesn’t think the woman should try it.",
+            "text": "It is not a good way to keep fit.",
             "images": []
           },
           {
-            "text": "It’s the best form of exercise.",
+            "text": "It is the best way to keep fit.",
             "images": []
           },
           {
-            "text": "The new swimming pool gets crowded.",
+            "text": "The new pool is too crowded.",
             "images": []
           }
         ],
@@ -693,7 +693,8 @@
         "answer": 1
       }
     ],
-    "audio": "audio/1eorH32fgHbaZ3mio2GipygDO1zxIQjEC.mp3"
+    "audio": "audio/1eorH32fgHbaZ3mio2GipygDO1zxIQjEC.mp3",
+    "revision": "20261028"
   },
   {
     "section": "short",
@@ -1106,7 +1107,7 @@
         "stem": "What do the two friends disagree about?",
         "options": [
           {
-            "text": "whether their teacher is being reasonable or not",
+            "text": "whether the boy’s nationality explains his low mark",
             "images": []
           },
           {
@@ -1157,7 +1158,8 @@
         "answer": 1
       }
     ],
-    "audio": "audio/1fmVLB3C8TEZzAMvzRb-X4t23rM2wV0XZ.mp3"
+    "audio": "audio/1fmVLB3C8TEZzAMvzRb-X4t23rM2wV0XZ.mp3",
+    "revision": "20261028"
   },
   {
     "section": "short",
@@ -1317,18 +1319,18 @@
         "answer": 2
       },
       {
-        "stem": "When did the dog begin to feel unwell?",
+        "stem": "How long ago did the dog begin to feel unwell?",
         "options": [
           {
-            "text": "15 minutes beforehand.",
+            "text": "About 15 minutes ago.",
             "images": []
           },
           {
-            "text": "An hour before they went to the vet.",
+            "text": "About an hour ago.",
             "images": []
           },
           {
-            "text": "That afternoon.",
+            "text": "About two hours ago.",
             "images": []
           }
         ],
@@ -1389,7 +1391,8 @@
         "answer": 1
       }
     ],
-    "audio": "audio/12OHvnQ9lhqzuLu6qnpLjowBJhRFz2PO_.mp3"
+    "audio": "audio/12OHvnQ9lhqzuLu6qnpLjowBJhRFz2PO_.mp3",
+    "revision": "20261028"
   },
   {
     "section": "short",
@@ -1513,18 +1516,18 @@
     "number": 14,
     "questions": [
       {
-        "stem": "How does Mum feel about the school report?",
+        "stem": "What does Mum say about Dan’s school report?",
         "options": [
           {
-            "text": "She is unhappy with it.",
+            "text": "Some of his marks are very poor.",
             "images": []
           },
           {
-            "text": "She feels Dan has done well this term.",
+            "text": "All his marks have improved this term.",
             "images": []
           },
           {
-            "text": "She doesn’t think it is fair.",
+            "text": "His teacher is pleased with all his work.",
             "images": []
           }
         ],
@@ -1621,7 +1624,8 @@
         "answer": 0
       }
     ],
-    "audio": "audio/1g8nZv9SMuTrhGGgziz0I-3MJsEftlAEY.mp3"
+    "audio": "audio/1g8nZv9SMuTrhGGgziz0I-3MJsEftlAEY.mp3",
+    "revision": "20261028"
   },
   {
     "section": "short",
@@ -1640,7 +1644,7 @@
             "images": []
           },
           {
-            "text": "Do his homework and studying before he goes out.",
+            "text": "Finish his homework before going out.",
             "images": []
           }
         ],
@@ -1737,7 +1741,8 @@
         "answer": 1
       }
     ],
-    "audio": "audio/1BZX681-U-C6QOsIFZw9w-VzO4X3O7dnS.mp3"
+    "audio": "audio/1BZX681-U-C6QOsIFZw9w-VzO4X3O7dnS.mp3",
+    "revision": "20261028"
   },
   {
     "section": "short",
@@ -1853,7 +1858,8 @@
         "answer": 0
       }
     ],
-    "audio": "audio/1VdW2Cx5Kb3LbWT_J_7JZqosKDSZjpo2d.mp3"
+    "audio": "audio/1VdW2Cx5Kb3LbWT_J_7JZqosKDSZjpo2d.mp3",
+    "revision": "20261028"
   },
   {
     "section": "short",
@@ -2325,7 +2331,7 @@
     "number": 1,
     "questions": [
       {
-        "stem": "The speaker implies that _ _____.",
+        "stem": "The speaker implies that ______.",
         "images": [],
         "options": [
           {
@@ -2344,7 +2350,7 @@
         "answer": 2
       },
       {
-        "stem": "One of the speakers is _ _____.",
+        "stem": "One of the speakers is ______.",
         "images": [],
         "options": [
           {
@@ -2363,7 +2369,7 @@
         "answer": 0
       },
       {
-        "stem": "The speakers are discussing _ _____.",
+        "stem": "The speakers are discussing ______.",
         "images": [],
         "options": [
           {
@@ -2382,7 +2388,7 @@
         "answer": 1
       },
       {
-        "stem": "MOST PROBABLY, the Daily Sun is a _ _____.",
+        "stem": "MOST PROBABLY, the Daily Sun is a ______.",
         "images": [],
         "options": [
           {
@@ -2401,7 +2407,7 @@
         "answer": 2
       },
       {
-        "stem": "The speaker _ _____.",
+        "stem": "The speaker ______.",
         "images": [],
         "options": [
           {
@@ -2420,7 +2426,7 @@
         "answer": 0
       },
       {
-        "stem": "Peter _ _____.",
+        "stem": "Peter ______.",
         "images": [],
         "options": [
           {
@@ -2439,7 +2445,7 @@
         "answer": 1
       },
       {
-        "stem": "MOST PROBABLY, £8 for a cup of coffee is _ _____.",
+        "stem": "MOST PROBABLY, £8 for a cup of coffee is ______.",
         "images": [],
         "options": [
           {
@@ -2458,11 +2464,11 @@
         "answer": 2
       },
       {
-        "stem": "The boy _ _____.",
+        "stem": "The boy ______.",
         "images": [],
         "options": [
           {
-            "text": "found £5 notes totalling £15",
+            "text": "found £15 in cash",
             "images": []
           },
           {
@@ -2477,7 +2483,8 @@
         "answer": 1
       }
     ],
-    "audio": "audio/1r-ZXjMSeHgE3IRyOQ8UGIemZOvJoFIMK.mp3"
+    "audio": "audio/1r-ZXjMSeHgE3IRyOQ8UGIemZOvJoFIMK.mp3",
+    "revision": "20261028"
   },
   {
     "section": "short",
@@ -2485,7 +2492,7 @@
     "number": 2,
     "questions": [
       {
-        "stem": "It is MOST likely that the _ _____.",
+        "stem": "It is MOST likely that the ______.",
         "images": [],
         "options": [
           {
@@ -2504,7 +2511,7 @@
         "answer": 0
       },
       {
-        "stem": "We CANNOT INFER that the speaker’s brother _ _____.",
+        "stem": "We CANNOT INFER that the speaker’s brother ______.",
         "images": [],
         "options": [
           {
@@ -2523,7 +2530,7 @@
         "answer": 2
       },
       {
-        "stem": "The speaker talks about something _ _____.",
+        "stem": "The speaker talks about something ______.",
         "images": [],
         "options": [
           {
@@ -2542,7 +2549,7 @@
         "answer": 0
       },
       {
-        "stem": "It is NOT TRUE that the _ _____.",
+        "stem": "It is NOT TRUE that the ______.",
         "images": [],
         "options": [
           {
@@ -2580,7 +2587,7 @@
         "answer": 1
       },
       {
-        "stem": "The SECOND speaker is BEST described as _ _____.",
+        "stem": "The SECOND speaker is BEST described as ______.",
         "images": [],
         "options": [
           {
@@ -2599,7 +2606,7 @@
         "answer": 0
       },
       {
-        "stem": "We can INFER that the FIRST speaker thinks _ _____.",
+        "stem": "We can INFER that the FIRST speaker thinks ______.",
         "images": [],
         "options": [
           {
@@ -2618,7 +2625,7 @@
         "answer": 0
       },
       {
-        "stem": "The speaker _ _____.",
+        "stem": "The speaker ______.",
         "images": [],
         "options": [
           {
@@ -2637,7 +2644,8 @@
         "answer": 2
       }
     ],
-    "audio": "audio/1cI-tcAXKsEXwL2Lx2zQ2Z_ZNsIhLbziN.mp3"
+    "audio": "audio/1cI-tcAXKsEXwL2Lx2zQ2Z_ZNsIhLbziN.mp3",
+    "revision": "20261028"
   },
   {
     "section": "short",
@@ -2645,7 +2653,7 @@
     "number": 3,
     "questions": [
       {
-        "stem": "The speaker is MOST LIKELY talking about their feelings about something in the _ _____.",
+        "stem": "The speaker is MOST LIKELY talking about their feelings about something in the ______.",
         "images": [],
         "options": [
           {
@@ -2664,7 +2672,7 @@
         "answer": 2
       },
       {
-        "stem": "One of the speakers _ _____.",
+        "stem": "One of the speakers ______.",
         "images": [],
         "options": [
           {
@@ -2683,7 +2691,7 @@
         "answer": 1
       },
       {
-        "stem": "It is MOST LIKELY that the _ _____.",
+        "stem": "It is MOST LIKELY that the ______.",
         "images": [],
         "options": [
           {
@@ -2702,7 +2710,7 @@
         "answer": 0
       },
       {
-        "stem": "The speakers are MOST LIKELY discussing _ _____.",
+        "stem": "The speakers are MOST LIKELY discussing ______.",
         "images": [],
         "options": [
           {
@@ -2721,26 +2729,26 @@
         "answer": 0
       },
       {
-        "stem": "It is MOST LIKELY that the speaker _ _____.",
+        "stem": "Why does the speaker decline the offer of a car?",
         "images": [],
         "options": [
           {
-            "text": "is unable to take the car",
+            "text": "The speaker has already borrowed another car.",
             "images": []
           },
           {
-            "text": "only needs to use the car in the afternoon",
+            "text": "The speaker only needs a car in the morning.",
             "images": []
           },
           {
-            "text": "thinks it would be wrong to take the car",
+            "text": "The owner may need the car that afternoon.",
             "images": []
           }
         ],
         "answer": 2
       },
       {
-        "stem": "We can BEST INFER that _ _____.",
+        "stem": "We can BEST INFER that ______.",
         "images": [],
         "options": [
           {
@@ -2759,7 +2767,7 @@
         "answer": 0
       },
       {
-        "stem": "The speaker _ _____.",
+        "stem": "The speaker ______.",
         "images": [],
         "options": [
           {
@@ -2778,7 +2786,7 @@
         "answer": 1
       },
       {
-        "stem": "The best thing about the job is or are the _ _____.",
+        "stem": "The best thing about the job is or are the ______.",
         "images": [],
         "options": [
           {
@@ -2797,7 +2805,8 @@
         "answer": 2
       }
     ],
-    "audio": "audio/1jTZTNmM0Sa5yqjrz616L1FNDP5U5ly4Z.mp3"
+    "audio": "audio/1jTZTNmM0Sa5yqjrz616L1FNDP5U5ly4Z.mp3",
+    "revision": "20261028"
   },
   {
     "section": "short",
@@ -2805,26 +2814,26 @@
     "number": 4,
     "questions": [
       {
-        "stem": "MOST PROBABLY, the speaker _ _____.",
+        "stem": "Where does the speaker say smoking is allowed?",
         "images": [],
         "options": [
           {
-            "text": "is at work",
+            "text": "Only in the designated area.",
             "images": []
           },
           {
-            "text": "is chatting with a friend",
+            "text": "Anywhere outdoors.",
             "images": []
           },
           {
-            "text": "wants to smoke a cigarette",
+            "text": "Nowhere on the premises.",
             "images": []
           }
         ],
         "answer": 0
       },
       {
-        "stem": "The driver did not see the sign because _ _____.",
+        "stem": "The driver did not see the sign because ______.",
         "images": [],
         "options": [
           {
@@ -2843,7 +2852,7 @@
         "answer": 1
       },
       {
-        "stem": "The speaker is _ _____.",
+        "stem": "The speaker is ______.",
         "images": [],
         "options": [
           {
@@ -2862,7 +2871,7 @@
         "answer": 0
       },
       {
-        "stem": "The speaker is talking about people who are _ _____.",
+        "stem": "The speaker is talking about people who are ______.",
         "images": [],
         "options": [
           {
@@ -2881,7 +2890,7 @@
         "answer": 2
       },
       {
-        "stem": "It is NOT stated or implied that John Travolta has _ _____.",
+        "stem": "It is NOT stated or implied that John Travolta has ______.",
         "images": [],
         "options": [
           {
@@ -2900,7 +2909,7 @@
         "answer": 1
       },
       {
-        "stem": "MOST PROBABLY, the bird _ _____.",
+        "stem": "MOST PROBABLY, the bird ______.",
         "images": [],
         "options": [
           {
@@ -2944,7 +2953,7 @@
         "answer": 2
       },
       {
-        "stem": "We can INFER that the SECOND SPEAKER has just _ _____.",
+        "stem": "We can INFER that the SECOND SPEAKER has just ______.",
         "images": [],
         "options": [
           {
@@ -2963,7 +2972,8 @@
         "answer": 0
       }
     ],
-    "audio": "audio/12_o2IBkSarphXuhdAFisYz8deLjHzvEL.mp3"
+    "audio": "audio/12_o2IBkSarphXuhdAFisYz8deLjHzvEL.mp3",
+    "revision": "20261028"
   },
   {
     "section": "short",
@@ -2971,7 +2981,7 @@
     "number": 5,
     "questions": [
       {
-        "stem": "The speaker asks _ _____.",
+        "stem": "The speaker asks ______.",
         "images": [],
         "options": [
           {
@@ -2990,7 +3000,7 @@
         "answer": 1
       },
       {
-        "stem": "The speaker describes a _ _____.",
+        "stem": "The speaker describes a ______.",
         "images": [],
         "options": [
           {
@@ -3009,7 +3019,7 @@
         "answer": 2
       },
       {
-        "stem": "We can BEST INFER that the speaker _ _____.",
+        "stem": "We can BEST INFER that the speaker ______.",
         "images": [],
         "options": [
           {
@@ -3028,7 +3038,7 @@
         "answer": 0
       },
       {
-        "stem": "The speaker IMPLIES that _ _____.",
+        "stem": "The speaker IMPLIES that ______.",
         "images": [],
         "options": [
           {
@@ -3104,7 +3114,7 @@
         "answer": 0
       },
       {
-        "stem": "Pat is MOST LIKELY _ _____.",
+        "stem": "Pat is MOST LIKELY ______.",
         "images": [],
         "options": [
           {
@@ -3123,7 +3133,8 @@
         "answer": 2
       }
     ],
-    "audio": "audio/14-J7ObLLx2O_5gzlIyIQLDEQCrz_hGqZ.mp3"
+    "audio": "audio/14-J7ObLLx2O_5gzlIyIQLDEQCrz_hGqZ.mp3",
+    "revision": "20261028"
   },
   {
     "section": "short",
@@ -3131,7 +3142,7 @@
     "number": 6,
     "questions": [
       {
-        "stem": "The speaker is MOST likely talking about the _ _____.",
+        "stem": "The speaker is MOST likely talking about the ______.",
         "images": [],
         "options": [
           {
@@ -3150,7 +3161,7 @@
         "answer": 1
       },
       {
-        "stem": "We can BEST INFER that the speaker _ _____.",
+        "stem": "We can BEST INFER that the speaker ______.",
         "images": [],
         "options": [
           {
@@ -3169,7 +3180,7 @@
         "answer": 1
       },
       {
-        "stem": "The speaker _ _____.",
+        "stem": "The speaker ______.",
         "images": [],
         "options": [
           {
@@ -3188,7 +3199,7 @@
         "answer": 1
       },
       {
-        "stem": "The speakers are MOST likely talking about _ _____.",
+        "stem": "The speakers are MOST likely talking about ______.",
         "images": [],
         "options": [
           {
@@ -3207,7 +3218,7 @@
         "answer": 0
       },
       {
-        "stem": "The speaker implies the weather is _ _____.",
+        "stem": "The speaker implies the weather is ______.",
         "images": [],
         "options": [
           {
@@ -3226,7 +3237,7 @@
         "answer": 0
       },
       {
-        "stem": "The speaker _ _____.",
+        "stem": "The speaker ______.",
         "images": [],
         "options": [
           {
@@ -3245,26 +3256,26 @@
         "answer": 0
       },
       {
-        "stem": "We can INFER that _ _____.",
+        "stem": "How long does the speaker say they have been painting the room?",
         "images": [],
         "options": [
           {
-            "text": "it took four hours to finish painting the room",
+            "text": "Four minutes.",
             "images": []
           },
           {
-            "text": "painting the room hasn’t been finished yet",
+            "text": "Four hours.",
             "images": []
           },
           {
-            "text": "the speaker thinks they haven’t been painting long",
+            "text": "Four days.",
             "images": []
           }
         ],
         "answer": 1
       },
       {
-        "stem": "When speaking about her job, the speaker DOES NOT complain about _ ______.",
+        "stem": "When speaking about her job, the speaker DOES NOT complain about _______.",
         "images": [],
         "options": [
           {
@@ -3283,7 +3294,8 @@
         "answer": 2
       }
     ],
-    "audio": "audio/1UcTGT9l4Y5WbnE25er-QDZjqBSo0d7V_.mp3"
+    "audio": "audio/1UcTGT9l4Y5WbnE25er-QDZjqBSo0d7V_.mp3",
+    "revision": "20261028"
   },
   {
     "section": "short",
@@ -3291,7 +3303,7 @@
     "number": 7,
     "questions": [
       {
-        "stem": "The speaker STATES or IMPLIES that _ _____.",
+        "stem": "The speaker STATES or IMPLIES that ______.",
         "images": [],
         "options": [
           {
@@ -3310,7 +3322,7 @@
         "answer": 1
       },
       {
-        "stem": "The speaker IMPLIES that somebody _ _____.",
+        "stem": "The speaker IMPLIES that somebody ______.",
         "images": [],
         "options": [
           {
@@ -3329,7 +3341,7 @@
         "answer": 2
       },
       {
-        "stem": "The RITZ-CARLTON is a _ _____.",
+        "stem": "The RITZ-CARLTON is MOST LIKELY a ______.",
         "images": [],
         "options": [
           {
@@ -3348,7 +3360,7 @@
         "answer": 0
       },
       {
-        "stem": "The speaker feels _ _____.",
+        "stem": "The speaker feels ______.",
         "images": [],
         "options": [
           {
@@ -3367,7 +3379,7 @@
         "answer": 2
       },
       {
-        "stem": "The speaker DOES NOT STATE or IMPLY that John Travolta has _ _____.",
+        "stem": "The speaker DOES NOT STATE or IMPLY that John Travolta has ______.",
         "images": [],
         "options": [
           {
@@ -3386,7 +3398,7 @@
         "answer": 2
       },
       {
-        "stem": "The speaker is MOST LIKELY talking about _ ______.",
+        "stem": "The speaker is MOST LIKELY talking about _______.",
         "images": [],
         "options": [
           {
@@ -3405,7 +3417,7 @@
         "answer": 0
       },
       {
-        "stem": "MOST PROBABLY, the speaker _ _____.",
+        "stem": "MOST PROBABLY, the speaker ______.",
         "images": [],
         "options": [
           {
@@ -3424,7 +3436,7 @@
         "answer": 1
       },
       {
-        "stem": "MOST PROBABLY, the SECOND speaker has just _ ______.",
+        "stem": "MOST PROBABLY, the SECOND speaker has just _______.",
         "images": [],
         "options": [
           {
@@ -3443,7 +3455,8 @@
         "answer": 1
       }
     ],
-    "audio": "audio/1wbCAyxGVlmrDgPE_CY7J2c5Skj-ea9Mw.mp3"
+    "audio": "audio/1wbCAyxGVlmrDgPE_CY7J2c5Skj-ea9Mw.mp3",
+    "revision": "20261028"
   },
   {
     "section": "short",
@@ -3451,7 +3464,7 @@
     "number": 8,
     "questions": [
       {
-        "stem": "The speaker MOST LIKELY is talking about somebody who _ _____.",
+        "stem": "The speaker MOST LIKELY is talking about somebody who ______.",
         "images": [],
         "options": [
           {
@@ -3470,7 +3483,7 @@
         "answer": 0
       },
       {
-        "stem": "When asking about the NEW TEACHER, the speaker asks about their _ _____.",
+        "stem": "When asking about the NEW TEACHER, the speaker asks about their ______.",
         "images": [],
         "options": [
           {
@@ -3489,7 +3502,7 @@
         "answer": 2
       },
       {
-        "stem": "The speaker talks about a teacher _ _____.",
+        "stem": "The speaker talks about a teacher ______.",
         "images": [],
         "options": [
           {
@@ -3508,7 +3521,7 @@
         "answer": 1
       },
       {
-        "stem": "The speaker describes something _ _____.",
+        "stem": "The speaker describes something ______.",
         "images": [],
         "options": [
           {
@@ -3546,19 +3559,19 @@
         "answer": 0
       },
       {
-        "stem": "The speakers are talking about someone whose age was from _ _____.",
+        "stem": "What age range is given for the man?",
         "images": [],
         "options": [
           {
-            "text": "14 to 45",
+            "text": "30–35",
             "images": []
           },
           {
-            "text": "40 to 45",
+            "text": "40–45",
             "images": []
           },
           {
-            "text": "42 to 45",
+            "text": "50–55",
             "images": []
           }
         ],
@@ -3603,7 +3616,8 @@
         "answer": 1
       }
     ],
-    "audio": "audio/1Bg7B09GsV5VolFnjTjX1_Iqn90whmv0v.mp3"
+    "audio": "audio/1Bg7B09GsV5VolFnjTjX1_Iqn90whmv0v.mp3",
+    "revision": "20261028"
   },
   {
     "section": "short",
@@ -3611,7 +3625,7 @@
     "number": 9,
     "questions": [
       {
-        "stem": "The speaker asks somebody about _ _____.",
+        "stem": "The speaker asks somebody about ______.",
         "images": [],
         "options": [
           {
@@ -3630,7 +3644,7 @@
         "answer": 0
       },
       {
-        "stem": "The speaker _ _____.",
+        "stem": "The speaker ______.",
         "images": [],
         "options": [
           {
@@ -3649,7 +3663,7 @@
         "answer": 2
       },
       {
-        "stem": "The speaker is MOST LIKELY telling somebody to _ _____.",
+        "stem": "The speaker is MOST LIKELY telling somebody to ______.",
         "images": [],
         "options": [
           {
@@ -3668,7 +3682,7 @@
         "answer": 0
       },
       {
-        "stem": "We can INFER that _ _____.",
+        "stem": "We can INFER that ______.",
         "images": [],
         "options": [
           {
@@ -3712,7 +3726,7 @@
         "answer": 0
       },
       {
-        "stem": "The speaker has _ _____.",
+        "stem": "The speaker has ______.",
         "images": [],
         "options": [
           {
@@ -3731,7 +3745,7 @@
         "answer": 2
       },
       {
-        "stem": "It is MOST LIKELY that the speaker is _ _____.",
+        "stem": "It is MOST LIKELY that the speaker is ______.",
         "images": [],
         "options": [
           {
@@ -3750,7 +3764,7 @@
         "answer": 1
       },
       {
-        "stem": "BILLY would like to become _ _____.",
+        "stem": "BILLY would like to become ______.",
         "images": [],
         "options": [
           {
@@ -3769,7 +3783,8 @@
         "answer": 2
       }
     ],
-    "audio": "audio/1YVtCFuwK5MZ25W1Sam4PeueQQS_QJYLs.mp3"
+    "audio": "audio/1YVtCFuwK5MZ25W1Sam4PeueQQS_QJYLs.mp3",
+    "revision": "20261028"
   },
   {
     "section": "short",
@@ -3777,7 +3792,7 @@
     "number": 10,
     "questions": [
       {
-        "stem": "This statement is MOST LIKELY made in _ _____.",
+        "stem": "This statement is MOST LIKELY made in ______.",
         "images": [],
         "options": [
           {
@@ -3796,7 +3811,7 @@
         "answer": 0
       },
       {
-        "stem": "We can INFER that _ _____.",
+        "stem": "We can INFER that ______.",
         "images": [],
         "options": [
           {
@@ -3815,7 +3830,7 @@
         "answer": 1
       },
       {
-        "stem": "The speaker is _ _____.",
+        "stem": "The speaker is ______.",
         "images": [],
         "options": [
           {
@@ -3834,7 +3849,7 @@
         "answer": 0
       },
       {
-        "stem": "The speaker’s MOTHER _ _____.",
+        "stem": "The speaker’s MOTHER ______.",
         "images": [],
         "options": [
           {
@@ -3853,7 +3868,7 @@
         "answer": 2
       },
       {
-        "stem": "It is MOST LIKELY that AT THE MOMENT, the small yellow bird is _ _____.",
+        "stem": "It is MOST LIKELY that AT THE MOMENT, the small yellow bird is ______.",
         "images": [],
         "options": [
           {
@@ -3872,7 +3887,7 @@
         "answer": 2
       },
       {
-        "stem": "The speaker who did the MATHS TEST is BEST described as _ _____.",
+        "stem": "The speaker who did the MATHS TEST is BEST described as ______.",
         "images": [],
         "options": [
           {
@@ -3916,7 +3931,7 @@
         "answer": 1
       },
       {
-        "stem": "They think £8 for a cup of coffee is _ _____.",
+        "stem": "They think £8 for a cup of coffee is ______.",
         "images": [],
         "options": [
           {
@@ -3943,7 +3958,7 @@
     "number": 11,
     "questions": [
       {
-        "stem": "The SECOND speaker _ _____.",
+        "stem": "The SECOND speaker ______.",
         "images": [],
         "options": [
           {
@@ -3962,7 +3977,7 @@
         "answer": 0
       },
       {
-        "stem": "The speaker implies she _ _____.",
+        "stem": "The speaker implies she ______.",
         "images": [],
         "options": [
           {
@@ -3981,7 +3996,7 @@
         "answer": 0
       },
       {
-        "stem": "The speaker implies that something _ _____.",
+        "stem": "The speaker implies that something ______.",
         "images": [],
         "options": [
           {
@@ -4025,7 +4040,7 @@
         "answer": 0
       },
       {
-        "stem": "The speaker describes _ _____.",
+        "stem": "The speaker describes ______.",
         "images": [],
         "options": [
           {
@@ -4044,7 +4059,7 @@
         "answer": 2
       },
       {
-        "stem": "The speaker DOES NOT state or imply that _ _____.",
+        "stem": "The speaker DOES NOT state or imply that ______.",
         "images": [],
         "options": [
           {
@@ -4063,7 +4078,7 @@
         "answer": 1
       },
       {
-        "stem": "The speaker states or implies that he _ _____.",
+        "stem": "The speaker states or implies that he ______.",
         "images": [],
         "options": [
           {
@@ -4082,7 +4097,7 @@
         "answer": 2
       },
       {
-        "stem": "The speaker describes something that somebody _ _____.",
+        "stem": "The speaker describes something that somebody ______.",
         "images": [],
         "options": [
           {
@@ -4101,7 +4116,8 @@
         "answer": 2
       }
     ],
-    "audio": "audio/1fwpDwFs9_z4hnwZLcc0EUtqek5FRmqxC.mp3"
+    "audio": "audio/1fwpDwFs9_z4hnwZLcc0EUtqek5FRmqxC.mp3",
+    "revision": "20261028"
   },
   {
     "section": "short",
@@ -4109,7 +4125,7 @@
     "number": 12,
     "questions": [
       {
-        "stem": "The speaker MOST PROBABLY feels _ _____.",
+        "stem": "The speaker MOST PROBABLY feels ______.",
         "images": [],
         "options": [
           {
@@ -4128,7 +4144,7 @@
         "answer": 1
       },
       {
-        "stem": "JANET is a _ _____.",
+        "stem": "JANET is a ______.",
         "images": [],
         "options": [
           {
@@ -4172,7 +4188,7 @@
         "answer": 2
       },
       {
-        "stem": "The speaker implies that she _ ______.",
+        "stem": "The speaker implies that she _______.",
         "images": [],
         "options": [
           {
@@ -4191,7 +4207,7 @@
         "answer": 1
       },
       {
-        "stem": "We can INFER that _ _____.",
+        "stem": "We can INFER that ______.",
         "images": [],
         "options": [
           {
@@ -4210,7 +4226,7 @@
         "answer": 0
       },
       {
-        "stem": "When the doctor gave the speaker bad news, the speaker _ _____.",
+        "stem": "When the doctor gave the speaker bad news, the speaker ______.",
         "images": [],
         "options": [
           {
@@ -4229,7 +4245,7 @@
         "answer": 0
       },
       {
-        "stem": "The speaker asks _ _____.",
+        "stem": "The speaker asks ______.",
         "images": [],
         "options": [
           {
@@ -4248,7 +4264,7 @@
         "answer": 2
       },
       {
-        "stem": "We can INFER that the SECOND speaker _ _____.",
+        "stem": "We can INFER that the SECOND speaker ______.",
         "images": [],
         "options": [
           {
@@ -4275,7 +4291,7 @@
     "number": 13,
     "questions": [
       {
-        "stem": "The speaker _ _____.",
+        "stem": "The speaker ______.",
         "images": [],
         "options": [
           {
@@ -4294,7 +4310,7 @@
         "answer": 0
       },
       {
-        "stem": "The speaker implies that someone is _ _____.",
+        "stem": "The speaker implies that someone is ______.",
         "images": [],
         "options": [
           {
@@ -4313,7 +4329,7 @@
         "answer": 1
       },
       {
-        "stem": "The Daily Sun is a _ _____.",
+        "stem": "The Daily Sun is a ______.",
         "images": [],
         "options": [
           {
@@ -4332,7 +4348,7 @@
         "answer": 2
       },
       {
-        "stem": "The speaker _ _____.",
+        "stem": "The speaker ______.",
         "images": [],
         "options": [
           {
@@ -4370,7 +4386,7 @@
         "answer": 1
       },
       {
-        "stem": "We can INFER that _ _____.",
+        "stem": "We can INFER that ______.",
         "images": [],
         "options": [
           {
@@ -4389,7 +4405,7 @@
         "answer": 0
       },
       {
-        "stem": "It is NOT STATED or IMPLIED that Peter’s house is _ _____.",
+        "stem": "It is NOT STATED or IMPLIED that Peter’s house is ______.",
         "images": [],
         "options": [
           {
@@ -4408,7 +4424,7 @@
         "answer": 2
       },
       {
-        "stem": "We can BEST INFER that one speaker is _ ______.",
+        "stem": "We can BEST INFER that one speaker is _______.",
         "images": [],
         "options": [
           {
@@ -4427,7 +4443,8 @@
         "answer": 1
       }
     ],
-    "audio": "audio/1BgHs4C62_fyCCSNkNIYUEmtyZ1HCbbbP.mp3"
+    "audio": "audio/1BgHs4C62_fyCCSNkNIYUEmtyZ1HCbbbP.mp3",
+    "revision": "20261028"
   },
   {
     "section": "short",
@@ -4435,7 +4452,7 @@
     "number": 14,
     "questions": [
       {
-        "stem": "The speaker still sees _ _____.",
+        "stem": "The speaker still sees ______.",
         "images": [],
         "options": [
           {
@@ -4454,7 +4471,7 @@
         "answer": 2
       },
       {
-        "stem": "The speaker describes something that _ _____.",
+        "stem": "The speaker describes something that ______.",
         "images": [],
         "options": [
           {
@@ -4473,7 +4490,7 @@
         "answer": 1
       },
       {
-        "stem": "The SECOND speaker describes a situation _ _____.",
+        "stem": "The SECOND speaker describes a situation ______.",
         "images": [],
         "options": [
           {
@@ -4536,7 +4553,7 @@
         "answer": 0
       },
       {
-        "stem": "The speaker describes something that somebody _ _____.",
+        "stem": "The speaker describes something that somebody ______.",
         "images": [],
         "options": [
           {
@@ -4574,7 +4591,7 @@
         "answer": 2
       },
       {
-        "stem": "The speaker describes how PAT has _ _____.",
+        "stem": "The speaker describes how PAT has ______.",
         "images": [],
         "options": [
           {
@@ -4593,7 +4610,8 @@
         "answer": 2
       }
     ],
-    "audio": "audio/1aTZpoSmGGReCBX-KOlWuneJd7bO3auga.mp3"
+    "audio": "audio/1aTZpoSmGGReCBX-KOlWuneJd7bO3auga.mp3",
+    "revision": "20261028"
   },
   {
     "section": "short",
@@ -4601,7 +4619,7 @@
     "number": 15,
     "questions": [
       {
-        "stem": "The speaker MOST LIKELY is talking about something in the _ _____.",
+        "stem": "The speaker MOST LIKELY is talking about something in the ______.",
         "images": [],
         "options": [
           {
@@ -4620,7 +4638,7 @@
         "answer": 2
       },
       {
-        "stem": "The speaker implies that Britain is _ _____.",
+        "stem": "The speaker implies that Britain is ______.",
         "images": [],
         "options": [
           {
@@ -4639,7 +4657,7 @@
         "answer": 2
       },
       {
-        "stem": "It is MOST LIKELY that the speakers _ _____.",
+        "stem": "It is MOST LIKELY that the speakers ______.",
         "images": [],
         "options": [
           {
@@ -4658,7 +4676,7 @@
         "answer": 1
       },
       {
-        "stem": "The MAIN PROBLEM is that the SECOND speaker _ _____.",
+        "stem": "The MAIN PROBLEM is that the SECOND speaker ______.",
         "images": [],
         "options": [
           {
@@ -4677,7 +4695,7 @@
         "answer": 2
       },
       {
-        "stem": "The speaker is talking about strawberries she _ _____.",
+        "stem": "The speaker is talking about strawberries she ______.",
         "images": [],
         "options": [
           {
@@ -4696,7 +4714,7 @@
         "answer": 1
       },
       {
-        "stem": "We can INFER that the speaker’s _ _____.",
+        "stem": "We can INFER that the speaker’s ______.",
         "images": [],
         "options": [
           {
@@ -4715,7 +4733,7 @@
         "answer": 2
       },
       {
-        "stem": "We can INFER that the meal was _ _____.",
+        "stem": "We can INFER that the meal was ______.",
         "images": [],
         "options": [
           {
@@ -4734,7 +4752,7 @@
         "answer": 2
       },
       {
-        "stem": "The speaker LEAST IMPLIES that somebody _ _____.",
+        "stem": "The speaker LEAST IMPLIES that somebody ______.",
         "images": [],
         "options": [
           {
@@ -4761,7 +4779,7 @@
     "number": 1,
     "questions": [
       {
-        "stem": "The woman works for _ _________ Estate Agents.",
+        "stem": "The woman works for __________ Estate Agents.",
         "images": [],
         "options": [
           {
@@ -4780,7 +4798,7 @@
         "answer": 2
       },
       {
-        "stem": "The man wants a flat for _ _________.",
+        "stem": "The man wants a flat for __________.",
         "images": [],
         "options": [
           {
@@ -4799,7 +4817,7 @@
         "answer": 0
       },
       {
-        "stem": "The man says that Phil works _ _________.",
+        "stem": "The man says that Phil works __________.",
         "images": [],
         "options": [
           {
@@ -4818,26 +4836,26 @@
         "answer": 2
       },
       {
-        "stem": "The man would probably most like somewhere with _ _________.",
+        "stem": "What is the minimum number of bedrooms the man needs?",
         "images": [],
         "options": [
           {
-            "text": "more than 3 bedrooms",
+            "text": "Three.",
             "images": []
           },
           {
-            "text": "exactly 3 bedrooms",
+            "text": "Two.",
             "images": []
           },
           {
-            "text": "less than 3 bedrooms",
+            "text": "One.",
             "images": []
           }
         ],
         "answer": 0
       },
       {
-        "stem": "The man says that Phil would like to live in the _ _________.",
+        "stem": "The man says that Phil would like to live in the __________.",
         "images": [],
         "options": [
           {
@@ -4856,7 +4874,7 @@
         "answer": 1
       },
       {
-        "stem": "The woman says it is not often that flats on Bridge Street _ _________.",
+        "stem": "The woman says it is not often that flats on Bridge Street __________.",
         "images": [],
         "options": [
           {
@@ -4875,7 +4893,7 @@
         "answer": 1
       },
       {
-        "stem": "The woman says that the rent for the flat on Bridge Street _ _________.",
+        "stem": "The woman says that the rent for the flat on Bridge Street __________.",
         "images": [],
         "options": [
           {
@@ -4894,7 +4912,7 @@
         "answer": 2
       },
       {
-        "stem": "The problem with the flat on Bridge Street is that  _ _________.",
+        "stem": "The problem with the flat on Bridge Street is that  __________.",
         "images": [],
         "options": [
           {
@@ -4913,7 +4931,7 @@
         "answer": 0
       },
       {
-        "stem": "The rent for the second flat is _ _________ per month.",
+        "stem": "The rent for the second flat is __________ per month.",
         "images": [],
         "options": [
           {
@@ -4932,7 +4950,7 @@
         "answer": 2
       },
       {
-        "stem": "This conversation is mainly about _ _________",
+        "stem": "This conversation is mainly about __________",
         "images": [],
         "options": [
           {
@@ -4951,7 +4969,8 @@
         "answer": 1
       }
     ],
-    "audio": "audio/14FO4tb1d-30gwTrjOneoS8tnAqMLnjyV.mp3"
+    "audio": "audio/14FO4tb1d-30gwTrjOneoS8tnAqMLnjyV.mp3",
+    "revision": "20261028"
   },
   {
     "section": "long",
@@ -4959,7 +4978,7 @@
     "number": 2,
     "questions": [
       {
-        "stem": "This conversation is mainly about deciding _ _________.",
+        "stem": "This conversation is mainly about deciding __________.",
         "images": [],
         "options": [
           {
@@ -4978,7 +4997,7 @@
         "answer": 0
       },
       {
-        "stem": "The problem with Traveller’s Lodge is _ _________.",
+        "stem": "The problem with Traveller’s Lodge is __________.",
         "images": [],
         "options": [
           {
@@ -4997,7 +5016,7 @@
         "answer": 2
       },
       {
-        "stem": "The price for a room at Bingley’s is _ _________ per night.",
+        "stem": "The price for a room at Bingley’s is __________ per night.",
         "images": [],
         "options": [
           {
@@ -5016,7 +5035,7 @@
         "answer": 2
       },
       {
-        "stem": "Bingley’s has _ _________ every weekend.",
+        "stem": "Bingley’s has __________ every weekend.",
         "images": [],
         "options": [
           {
@@ -5035,7 +5054,7 @@
         "answer": 1
       },
       {
-        "stem": "Chalet Lodge _ _________.",
+        "stem": "Chalet Lodge __________.",
         "images": [],
         "options": [
           {
@@ -5054,7 +5073,7 @@
         "answer": 2
       },
       {
-        "stem": "To win a skydive, you have to _ _________.",
+        "stem": "To win a skydive, you have to __________.",
         "images": [],
         "options": [
           {
@@ -5073,7 +5092,7 @@
         "answer": 1
       },
       {
-        "stem": "The man suggests that he _ _________ a bungee jump.",
+        "stem": "The man suggests that he __________ a bungee jump.",
         "images": [],
         "options": [
           {
@@ -5092,7 +5111,7 @@
         "answer": 0
       },
       {
-        "stem": "The man suggests that the white-water rafting _ _________.",
+        "stem": "The man suggests that the white-water rafting __________.",
         "images": [],
         "options": [
           {
@@ -5130,7 +5149,7 @@
         "answer": 0
       },
       {
-        "stem": "The man and woman are probably _ ________.",
+        "stem": "The man and woman are probably _________.",
         "images": [],
         "options": [
           {
@@ -5157,7 +5176,7 @@
     "number": 3,
     "questions": [
       {
-        "stem": "The speakers are probably _ _________.",
+        "stem": "The speakers are probably __________.",
         "images": [],
         "options": [
           {
@@ -5176,7 +5195,7 @@
         "answer": 1
       },
       {
-        "stem": "The man says that he would accept _ _____.",
+        "stem": "The man says that he would accept ______.",
         "images": [],
         "options": [
           {
@@ -5195,7 +5214,7 @@
         "answer": 0
       },
       {
-        "stem": "The man’s post code is _ _________.",
+        "stem": "The man’s post code is __________.",
         "images": [],
         "options": [
           {
@@ -5214,7 +5233,7 @@
         "answer": 2
       },
       {
-        "stem": "The man’s contact number is _ _________.",
+        "stem": "The man’s contact number is __________.",
         "images": [],
         "options": [
           {
@@ -5233,7 +5252,7 @@
         "answer": 2
       },
       {
-        "stem": "The man says he has been a student for more than _ _________.",
+        "stem": "The man says he has been a student for more than __________.",
         "images": [],
         "options": [
           {
@@ -5252,7 +5271,7 @@
         "answer": 2
       },
       {
-        "stem": "The man says he wants to start work in _ _________.",
+        "stem": "The man says he wants to start work in __________.",
         "images": [],
         "options": [
           {
@@ -5271,7 +5290,7 @@
         "answer": 2
       },
       {
-        "stem": "The man says that in the past he has worked as a _ _________.",
+        "stem": "The man says that in the past he has worked as a __________.",
         "images": [],
         "options": [
           {
@@ -5290,7 +5309,7 @@
         "answer": 1
       },
       {
-        "stem": "The woman says that the interview for the café job is _ _________.",
+        "stem": "The woman says that the interview for the café job is __________.",
         "images": [],
         "options": [
           {
@@ -5309,7 +5328,7 @@
         "answer": 0
       },
       {
-        "stem": "The man suggests that he _ _________.",
+        "stem": "The man suggests that he __________.",
         "images": [],
         "options": [
           {
@@ -5328,7 +5347,7 @@
         "answer": 0
       },
       {
-        "stem": "The woman says that the department store needs people to _ _________.",
+        "stem": "The woman says that the department store needs people to __________.",
         "images": [],
         "options": [
           {
@@ -5355,7 +5374,7 @@
     "number": 4,
     "questions": [
       {
-        "stem": "This conversation is most likely happening _ _________.",
+        "stem": "This conversation is most likely happening __________.",
         "images": [],
         "options": [
           {
@@ -5374,7 +5393,7 @@
         "answer": 1
       },
       {
-        "stem": "The woman’s name is Selina _ _________.",
+        "stem": "The woman’s name is Selina __________.",
         "images": [],
         "options": [
           {
@@ -5393,7 +5412,7 @@
         "answer": 2
       },
       {
-        "stem": "The woman _ _________ at the moment.",
+        "stem": "The woman __________ at the moment.",
         "images": [],
         "options": [
           {
@@ -5412,7 +5431,7 @@
         "answer": 0
       },
       {
-        "stem": "The woman’s age is most likely _ _________.",
+        "stem": "The woman’s age is most likely __________.",
         "images": [],
         "options": [
           {
@@ -5431,7 +5450,7 @@
         "answer": 0
       },
       {
-        "stem": "The woman has been a member for about _ _________.",
+        "stem": "The woman has been a member for about __________.",
         "images": [],
         "options": [
           {
@@ -5450,7 +5469,7 @@
         "answer": 1
       },
       {
-        "stem": "The woman joined the club because _ _________.",
+        "stem": "The woman joined the club because __________.",
         "images": [],
         "options": [
           {
@@ -5469,7 +5488,7 @@
         "answer": 0
       },
       {
-        "stem": "The woman uses the club about _ _________ per month.",
+        "stem": "The woman uses the club about __________ per month.",
         "images": [],
         "options": [
           {
@@ -5488,7 +5507,7 @@
         "answer": 2
       },
       {
-        "stem": "The woman doesn’t use the tennis courts because she _ _________.",
+        "stem": "The woman doesn’t use the tennis courts because she __________.",
         "images": [],
         "options": [
           {
@@ -5507,7 +5526,7 @@
         "answer": 2
       },
       {
-        "stem": "The woman does NOT say she wants more _ _________.",
+        "stem": "The woman does NOT say she wants more __________.",
         "images": [],
         "options": [
           {
@@ -5526,7 +5545,7 @@
         "answer": 2
       },
       {
-        "stem": "The problem with the restaurant is that it _ _________.",
+        "stem": "The problem with the restaurant is that it __________.",
         "images": [],
         "options": [
           {
@@ -5553,7 +5572,7 @@
     "number": 1,
     "questions": [
       {
-        "stem": "The MAN believes that the most important factor in success in sport is _ _____.",
+        "stem": "The MAN believes that the most important factor in success in sport is ______.",
         "images": [],
         "options": [
           {
@@ -5572,7 +5591,7 @@
         "answer": 1
       },
       {
-        "stem": "The MAN says that OTHER PEOPLE _ _____.",
+        "stem": "The MAN says that OTHER PEOPLE ______.",
         "images": [],
         "options": [
           {
@@ -5591,7 +5610,7 @@
         "answer": 1
       },
       {
-        "stem": "To be great, a footballer MOST needs to _ _____.",
+        "stem": "To be great, a footballer MOST needs to ______.",
         "images": [],
         "options": [
           {
@@ -5635,7 +5654,7 @@
         "answer": 0
       },
       {
-        "stem": "The MAN’s success was PROBABLY MOST because of _ _____.",
+        "stem": "The MAN’s success was PROBABLY MOST because of ______.",
         "images": [],
         "options": [
           {
@@ -5654,7 +5673,7 @@
         "answer": 2
       },
       {
-        "stem": "If people believe EXCELLENCE IS ABOUT EFFORT, when they fail, they are more likely to _ _____.",
+        "stem": "If people believe EXCELLENCE IS ABOUT EFFORT, when they fail, they are more likely to ______.",
         "images": [],
         "options": [
           {
@@ -5673,7 +5692,7 @@
         "answer": 2
       },
       {
-        "stem": "To be an excellent coach, the MOST IMPORTANT thing is to _ _____.",
+        "stem": "To be an excellent coach, the MOST IMPORTANT thing is to ______.",
         "images": [],
         "options": [
           {
@@ -5692,7 +5711,7 @@
         "answer": 1
       },
       {
-        "stem": "The speaker suggests people assume that some sports stars WERE BORN BRILLIANT because they _ _____.",
+        "stem": "The speaker suggests people assume that some sports stars WERE BORN BRILLIANT because they ______.",
         "images": [],
         "options": [
           {
@@ -5711,7 +5730,7 @@
         "answer": 1
       },
       {
-        "stem": "CHOKING is _ _____.",
+        "stem": "CHOKING is ______.",
         "images": [],
         "options": [
           {
@@ -5730,7 +5749,7 @@
         "answer": 0
       },
       {
-        "stem": "The MAIN SUBJECT of this listening is _ _____.",
+        "stem": "The MAIN SUBJECT of this listening is ______.",
         "images": [],
         "options": [
           {
@@ -5757,7 +5776,7 @@
     "number": 2,
     "questions": [
       {
-        "stem": "The speaker is talking to people who _ _____.",
+        "stem": "The speaker is talking to people who ______.",
         "images": [],
         "options": [
           {
@@ -5795,7 +5814,7 @@
         "answer": 0
       },
       {
-        "stem": "Compared to the past, NOWADAYS there are _ _____.",
+        "stem": "Compared to the past, NOWADAYS there are ______.",
         "images": [],
         "options": [
           {
@@ -5814,7 +5833,7 @@
         "answer": 1
       },
       {
-        "stem": "In the past, there were rooms _ _____.",
+        "stem": "In the past, there were rooms ______.",
         "images": [],
         "options": [
           {
@@ -5833,7 +5852,7 @@
         "answer": 0
       },
       {
-        "stem": "The theatre _ _____.",
+        "stem": "The theatre ______.",
         "images": [],
         "options": [
           {
@@ -5852,7 +5871,7 @@
         "answer": 1
       },
       {
-        "stem": "The ROOMS WHICH WILL BE DECORATED NEXT MONTH will NOT be used for _ _____.",
+        "stem": "Which use is NOT mentioned for the rooms that will be decorated next month?",
         "images": [],
         "options": [
           {
@@ -5871,7 +5890,7 @@
         "answer": 2
       },
       {
-        "stem": "The theatre doesn’t RUN COURSES IN ACTING yet because _ _____.",
+        "stem": "The theatre doesn’t RUN COURSES IN ACTING yet because ______.",
         "images": [],
         "options": [
           {
@@ -5890,7 +5909,7 @@
         "answer": 1
       },
       {
-        "stem": "The PUPPET-MAKING WORKSHOP _ _____.",
+        "stem": "The PUPPET-MAKING WORKSHOP ______.",
         "images": [],
         "options": [
           {
@@ -5909,7 +5928,7 @@
         "answer": 0
       },
       {
-        "stem": "On the GROUND FLOOR, the rooms are lit by _ _____.",
+        "stem": "On the GROUND FLOOR, the rooms are lit by ______.",
         "images": [],
         "options": [
           {
@@ -5928,7 +5947,7 @@
         "answer": 1
       },
       {
-        "stem": "The BOX OFFICE is _ _____.",
+        "stem": "The BOX OFFICE is ______.",
         "images": [],
         "options": [
           {
@@ -5947,7 +5966,8 @@
         "answer": 2
       }
     ],
-    "audio": "audio/17TVfbCZs4NGIcK1KVZS2dgekmdCpzR2X.mp3"
+    "audio": "audio/17TVfbCZs4NGIcK1KVZS2dgekmdCpzR2X.mp3",
+    "revision": "20261028"
   },
   {
     "section": "long",
@@ -5955,7 +5975,7 @@
     "number": 3,
     "questions": [
       {
-        "stem": "The MAN first thought about visiting space when he was _ _____.",
+        "stem": "The MAN first thought about visiting space when he was ______.",
         "images": [],
         "options": [
           {
@@ -5974,7 +5994,7 @@
         "answer": 1
       },
       {
-        "stem": "MOST PROBABLY, for applicants, the SELECTION PROCESS was very _ _____.",
+        "stem": "MOST PROBABLY, for applicants, the SELECTION PROCESS was very ______.",
         "images": [],
         "options": [
           {
@@ -5993,7 +6013,7 @@
         "answer": 0
       },
       {
-        "stem": "How many applicants were INVITED FOR THE FIRST ROUND OF TESTS?",
+        "stem": "What percentage of applicants were INVITED FOR THE FIRST ROUND OF TESTS?",
         "images": [],
         "options": [
           {
@@ -6012,7 +6032,7 @@
         "answer": 0
       },
       {
-        "stem": "The MAN suggests that, when he moved to the training centre, he _ _____.",
+        "stem": "The MAN suggests that, when he moved to the training centre, he ______.",
         "images": [],
         "options": [
           {
@@ -6031,7 +6051,7 @@
         "answer": 1
       },
       {
-        "stem": "The MAN needed to speak RUSSIAN so that he _ _____.",
+        "stem": "The MAN needed to speak RUSSIAN so that he ______.",
         "images": [],
         "options": [
           {
@@ -6050,7 +6070,7 @@
         "answer": 2
       },
       {
-        "stem": "The MAN’S MOST dangerous experience in space was PROBABLY a _ _____.",
+        "stem": "The MAN’S MOST dangerous experience in space was PROBABLY a ______.",
         "images": [],
         "options": [
           {
@@ -6069,7 +6089,7 @@
         "answer": 2
       },
       {
-        "stem": "When in space, the MAN _ _____.",
+        "stem": "When in space, the MAN ______.",
         "images": [],
         "options": [
           {
@@ -6107,7 +6127,7 @@
         "answer": 0
       },
       {
-        "stem": "The man’s WIFE _ _____.",
+        "stem": "The man’s WIFE ______.",
         "images": [],
         "options": [
           {
@@ -6126,7 +6146,7 @@
         "answer": 1
       },
       {
-        "stem": "The MAN does NOT suggest he will _ _____.",
+        "stem": "The MAN does NOT suggest he will ______.",
         "images": [],
         "options": [
           {
@@ -6145,7 +6165,8 @@
         "answer": 1
       }
     ],
-    "audio": "audio/1erHrlnmAd33khjQI0hg6MEI7eNtmA2uO.mp3"
+    "audio": "audio/1erHrlnmAd33khjQI0hg6MEI7eNtmA2uO.mp3",
+    "revision": "20261028"
   },
   {
     "section": "long",
@@ -6153,7 +6174,7 @@
     "number": 4,
     "questions": [
       {
-        "stem": "It is NOT SAID that AISHA HUSSEIN _ _____.",
+        "stem": "It is NOT SAID that AISHA HUSSEIN ______.",
         "images": [],
         "options": [
           {
@@ -6172,7 +6193,7 @@
         "answer": 2
       },
       {
-        "stem": "The competition she took part in was MOST special for Aisha because she _ _____.",
+        "stem": "The competition she took part in was MOST special for Aisha because she ______.",
         "images": [],
         "options": [
           {
@@ -6191,7 +6212,7 @@
         "answer": 2
       },
       {
-        "stem": "Aisha became a member at her local swimming club _ _____.",
+        "stem": "Aisha became a member at her local swimming club ______.",
         "images": [],
         "options": [
           {
@@ -6210,7 +6231,7 @@
         "answer": 0
       },
       {
-        "stem": "Aisha took part in a sports day and _ _____.",
+        "stem": "Aisha took part in a sports day and ______.",
         "images": [],
         "options": [
           {
@@ -6229,7 +6250,7 @@
         "answer": 1
       },
       {
-        "stem": "Aisha trains for as much as _ _____.",
+        "stem": "Aisha trains for as much as ______.",
         "images": [],
         "options": [
           {
@@ -6248,7 +6269,7 @@
         "answer": 0
       },
       {
-        "stem": "Aisha says that her training routine _ _____.",
+        "stem": "Aisha says that her training routine ______.",
         "images": [],
         "options": [
           {
@@ -6267,7 +6288,7 @@
         "answer": 1
       },
       {
-        "stem": "As well as training, Aisha _ _____.",
+        "stem": "As well as training, Aisha ______.",
         "images": [],
         "options": [
           {
@@ -6286,7 +6307,7 @@
         "answer": 0
       },
       {
-        "stem": "Aisha most likes to swim in the _ _____.",
+        "stem": "Aisha most likes to swim in the ______.",
         "images": [],
         "options": [
           {
@@ -6305,7 +6326,7 @@
         "answer": 2
       },
       {
-        "stem": "Aisha MOST advises other swimmers to _ _____.",
+        "stem": "Aisha MOST advises other swimmers to ______.",
         "images": [],
         "options": [
           {
@@ -6324,7 +6345,7 @@
         "answer": 1
       },
       {
-        "stem": "Aisha _ _____.",
+        "stem": "Aisha ______.",
         "images": [],
         "options": [
           {
@@ -6351,7 +6372,7 @@
     "number": 5,
     "questions": [
       {
-        "stem": "The GALLERY is _ _____.",
+        "stem": "The GALLERY is ______.",
         "images": [],
         "options": [
           {
@@ -6370,7 +6391,7 @@
         "answer": 1
       },
       {
-        "stem": "The WOMAN _ _____.",
+        "stem": "The WOMAN ______.",
         "images": [],
         "options": [
           {
@@ -6389,7 +6410,7 @@
         "answer": 0
       },
       {
-        "stem": "The MOST COMMON reason for work to be UNSUITABLE is that it _ _____.",
+        "stem": "The MOST COMMON reason for work to be UNSUITABLE is that it ______.",
         "images": [],
         "options": [
           {
@@ -6446,7 +6467,7 @@
         "answer": 0
       },
       {
-        "stem": "The CATALOGUE _ _____.",
+        "stem": "The CATALOGUE ______.",
         "images": [],
         "options": [
           {
@@ -6465,7 +6486,7 @@
         "answer": 0
       },
       {
-        "stem": "The COMMENTARY is written by the _ _____.",
+        "stem": "The COMMENTARY is written by the ______.",
         "images": [],
         "options": [
           {
@@ -6484,7 +6505,7 @@
         "answer": 2
       },
       {
-        "stem": "The catalogues are POSTED by the _ _____.",
+        "stem": "The catalogues are POSTED by the ______.",
         "images": [],
         "options": [
           {
@@ -6503,7 +6524,7 @@
         "answer": 1
       },
       {
-        "stem": "LARGE COMPANIES are sometimes VISITED by _ _____.",
+        "stem": "LARGE COMPANIES are sometimes VISITED by ______.",
         "images": [],
         "options": [
           {
@@ -6522,7 +6543,7 @@
         "answer": 1
       },
       {
-        "stem": "For the WOMAN, the BEST thing about her job is PROBABLY _ _____.",
+        "stem": "For the WOMAN, the BEST thing about her job is PROBABLY ______.",
         "images": [],
         "options": [
           {
@@ -6549,7 +6570,7 @@
     "number": 6,
     "questions": [
       {
-        "stem": "After LEAVING HOME, the woman PROBABLY began to do more drawings of _ _____.",
+        "stem": "After LEAVING HOME, the woman PROBABLY began to do more drawings of ______.",
         "images": [],
         "options": [
           {
@@ -6568,7 +6589,7 @@
         "answer": 1
       },
       {
-        "stem": "The WOMAN decided to become an architect _ _____.",
+        "stem": "The WOMAN decided to become an architect ______.",
         "images": [],
         "options": [
           {
@@ -6587,7 +6608,7 @@
         "answer": 2
       },
       {
-        "stem": "In AUSTRALIA, a CHIMNEY is put in to _ _____.",
+        "stem": "In AUSTRALIA, a CHIMNEY is put in to ______.",
         "images": [],
         "options": [
           {
@@ -6606,7 +6627,7 @@
         "answer": 2
       },
       {
-        "stem": "The ORCHARD SHOPPING MALL is in _ _____.",
+        "stem": "The ORCHARD SHOPPING MALL is in ______.",
         "images": [],
         "options": [
           {
@@ -6625,7 +6646,7 @@
         "answer": 2
       },
       {
-        "stem": "In Japan, a RECYCLING CENTRE was built _ _____.",
+        "stem": "In Japan, a RECYCLING CENTRE was built ______.",
         "images": [],
         "options": [
           {
@@ -6644,7 +6665,7 @@
         "answer": 0
       },
       {
-        "stem": "The WOMAN suggests that, in Russia, an UNDERGROUND CITY, _ ____.",
+        "stem": "The WOMAN suggests that, in Russia, an UNDERGROUND CITY, _____.",
         "images": [],
         "options": [
           {
@@ -6663,7 +6684,7 @@
         "answer": 1
       },
       {
-        "stem": "A result of building homes underground might be that _ _____.",
+        "stem": "A result of building homes underground might be that ______.",
         "images": [],
         "options": [
           {
@@ -6682,7 +6703,7 @@
         "answer": 0
       },
       {
-        "stem": "PYRAMIDS were built in Mexico in the _ _____.",
+        "stem": "PYRAMIDS were built in Mexico in the ______.",
         "images": [],
         "options": [
           {
@@ -6701,7 +6722,7 @@
         "answer": 0
       },
       {
-        "stem": "In the TOP TEN STOREYS, there will be _ _____.",
+        "stem": "In the TOP TEN STOREYS, there will be ______.",
         "images": [],
         "options": [
           {
@@ -6720,7 +6741,7 @@
         "answer": 1
       },
       {
-        "stem": "The WOMAN suggests that _ _____.",
+        "stem": "The WOMAN suggests that ______.",
         "images": [],
         "options": [
           {
@@ -6747,7 +6768,7 @@
     "number": 7,
     "questions": [
       {
-        "stem": "At college, the speaker studied _ _____.",
+        "stem": "At college, the speaker studied ______.",
         "images": [],
         "options": [
           {
@@ -6766,7 +6787,7 @@
         "answer": 2
       },
       {
-        "stem": "After he left college, the speaker had to develop new skills working with _ _____.",
+        "stem": "After he left college, the speaker had to develop new skills working with ______.",
         "images": [],
         "options": [
           {
@@ -6785,7 +6806,7 @@
         "answer": 2
       },
       {
-        "stem": "The speaker compares his job to that of _ _____.",
+        "stem": "The speaker compares his job to that of ______.",
         "images": [],
         "options": [
           {
@@ -6823,7 +6844,7 @@
         "answer": 1
       },
       {
-        "stem": "The speaker gives his instructions for his models to be displayed using ELECTRIC LIGHT because _ _____.",
+        "stem": "The speaker gives his instructions for his models to be displayed using ELECTRIC LIGHT because ______.",
         "images": [],
         "options": [
           {
@@ -6842,7 +6863,7 @@
         "answer": 0
       },
       {
-        "stem": "MARNIE HOUSE had been _ _____.",
+        "stem": "MARNIE HOUSE had been ______.",
         "images": [],
         "options": [
           {
@@ -6861,7 +6882,7 @@
         "answer": 2
       },
       {
-        "stem": "The model of MARNIE HOUSE was _ _____.",
+        "stem": "The model of MARNIE HOUSE was ______.",
         "images": [],
         "options": [
           {
@@ -6880,7 +6901,7 @@
         "answer": 1
       },
       {
-        "stem": "While working on MARNIE HOUSE, the speaker sometimes thought he _ _____.",
+        "stem": "While working on MARNIE HOUSE, the speaker sometimes thought he ______.",
         "images": [],
         "options": [
           {
@@ -6899,7 +6920,7 @@
         "answer": 1
       },
       {
-        "stem": "The speaker spent a long time on the colours for the EXACT REPRODUCTION of the _ _____.",
+        "stem": "The speaker spent a long time on the colours for the EXACT REPRODUCTION of the ______.",
         "images": [],
         "options": [
           {
@@ -6918,7 +6939,7 @@
         "answer": 2
       },
       {
-        "stem": "The speaker washes the outside of his models with watercolours to make sure they look _ _____.",
+        "stem": "The speaker washes the outside of his models with watercolours to make sure they look ______.",
         "images": [],
         "options": [
           {
@@ -6945,7 +6966,7 @@
     "number": 8,
     "questions": [
       {
-        "stem": "Which sentence is NOT TRUE? The writer _ _____.",
+        "stem": "Which sentence is NOT TRUE? The writer ______.",
         "images": [],
         "options": [
           {
@@ -6964,7 +6985,7 @@
         "answer": 2
       },
       {
-        "stem": "MOST PROBABLY The speaker _ _____.",
+        "stem": "MOST PROBABLY The speaker ______.",
         "images": [],
         "options": [
           {
@@ -6983,7 +7004,7 @@
         "answer": 2
       },
       {
-        "stem": "Since the creator of James Bond died, writing James Bond books has normally been done by _ _____.",
+        "stem": "Since the creator of James Bond died, writing James Bond books has normally been done by ______.",
         "images": [],
         "options": [
           {
@@ -7002,7 +7023,7 @@
         "answer": 2
       },
       {
-        "stem": "The creator of James Bond was born in _ _____.",
+        "stem": "The creator of James Bond was born in ______.",
         "images": [],
         "options": [
           {
@@ -7021,7 +7042,7 @@
         "answer": 0
       },
       {
-        "stem": "The speaker’s OWN novel will NOT _ _____.",
+        "stem": "The speaker’s OWN novel will NOT ______.",
         "images": [],
         "options": [
           {
@@ -7040,7 +7061,7 @@
         "answer": 0
       },
       {
-        "stem": "The speaker is PROBABLY about _ _____.",
+        "stem": "The speaker is PROBABLY about ______.",
         "images": [],
         "options": [
           {
@@ -7059,7 +7080,7 @@
         "answer": 2
       },
       {
-        "stem": "The speaker read a lot as a child because her _ _____.",
+        "stem": "The speaker read a lot as a child because her ______.",
         "images": [],
         "options": [
           {
@@ -7078,7 +7099,7 @@
         "answer": 2
       },
       {
-        "stem": "The speaker’s FATHER was _ _____.",
+        "stem": "The speaker’s FATHER was ______.",
         "images": [],
         "options": [
           {
@@ -7097,7 +7118,7 @@
         "answer": 0
       },
       {
-        "stem": "The speaker strongly suggests that people who want to be writers should _ _____.",
+        "stem": "The speaker strongly suggests that people who want to be writers should ______.",
         "images": [],
         "options": [
           {
@@ -7116,7 +7137,7 @@
         "answer": 1
       },
       {
-        "stem": "The plots in the writer’s stories _ _____.",
+        "stem": "The plots in the writer’s stories ______.",
         "images": [],
         "options": [
           {
@@ -7143,7 +7164,7 @@
     "number": 9,
     "questions": [
       {
-        "stem": "The MAN’s MAIN reason for going to South America was to _ _____.",
+        "stem": "The MAN’s MAIN reason for going to South America was to ______.",
         "images": [],
         "options": [
           {
@@ -7162,7 +7183,7 @@
         "answer": 1
       },
       {
-        "stem": "The AGENCY the man found PROBABLY sends people _ _____.",
+        "stem": "The AGENCY the man found PROBABLY sends people ______.",
         "images": [],
         "options": [
           {
@@ -7181,7 +7202,7 @@
         "answer": 1
       },
       {
-        "stem": "The MAN DIDN’T CONTINUE with one PROJECT because he _ _____.",
+        "stem": "The MAN DIDN’T CONTINUE with one PROJECT because he ______.",
         "images": [],
         "options": [
           {
@@ -7200,7 +7221,7 @@
         "answer": 1
       },
       {
-        "stem": "The VILLAGE was very _ _____.",
+        "stem": "The VILLAGE was very ______.",
         "images": [],
         "options": [
           {
@@ -7219,7 +7240,7 @@
         "answer": 2
       },
       {
-        "stem": "At the village, the MAN _ _____.",
+        "stem": "At the village, the MAN ______.",
         "images": [],
         "options": [
           {
@@ -7238,7 +7259,7 @@
         "answer": 1
       },
       {
-        "stem": "The MAN suggests his project manager _ _____.",
+        "stem": "The MAN suggests his project manager ______.",
         "images": [],
         "options": [
           {
@@ -7257,7 +7278,7 @@
         "answer": 0
       },
       {
-        "stem": "The MAN stayed for six months because _ _____.",
+        "stem": "The MAN stayed for six months because ______.",
         "images": [],
         "options": [
           {
@@ -7276,7 +7297,7 @@
         "answer": 0
       },
       {
-        "stem": "The MAN suggests his FOOD AND LODGING was _ _____.",
+        "stem": "The MAN suggests his FOOD AND LODGING was ______.",
         "images": [],
         "options": [
           {
@@ -7295,7 +7316,7 @@
         "answer": 0
       },
       {
-        "stem": "The PROBLEM with the course in INDIGENOUS WOMEN’s LIVES is MOST LIKELY to be that the man _ _____.",
+        "stem": "The PROBLEM with the course in INDIGENOUS WOMEN’s LIVES is MOST LIKELY to be that the man ______.",
         "images": [],
         "options": [
           {
@@ -7314,7 +7335,7 @@
         "answer": 2
       },
       {
-        "stem": "The WOMAN is MOST PROBABLY the MAN’s _ _____.",
+        "stem": "The WOMAN is MOST PROBABLY the MAN’s ______.",
         "images": [],
         "options": [
           {
@@ -7333,7 +7354,8 @@
         "answer": 0
       }
     ],
-    "audio": "audio/1nlhKbDUtMIycgV7PpsvkNm--KaZQMPhK.mp3"
+    "audio": "audio/1nlhKbDUtMIycgV7PpsvkNm--KaZQMPhK.mp3",
+    "revision": "20261028"
   },
   {
     "section": "long",
@@ -7341,7 +7363,7 @@
     "number": 10,
     "questions": [
       {
-        "stem": "The WOMAN, Adele Bea, _ _____.",
+        "stem": "The WOMAN, Adele Bea, ______.",
         "images": [],
         "options": [
           {
@@ -7360,7 +7382,7 @@
         "answer": 1
       },
       {
-        "stem": "The WOMAN became interested in stone-carving _ _____.",
+        "stem": "The WOMAN became interested in stone-carving ______.",
         "images": [],
         "options": [
           {
@@ -7379,7 +7401,7 @@
         "answer": 0
       },
       {
-        "stem": "The WOMAN is now living _ _____.",
+        "stem": "The WOMAN is now living ______.",
         "images": [],
         "options": [
           {
@@ -7398,7 +7420,7 @@
         "answer": 1
       },
       {
-        "stem": "The WOMAN _ _____.",
+        "stem": "The WOMAN ______.",
         "images": [],
         "options": [
           {
@@ -7417,7 +7439,7 @@
         "answer": 1
       },
       {
-        "stem": "At the moment, the WOMAN is _ _____.",
+        "stem": "At the moment, the WOMAN is ______.",
         "images": [],
         "options": [
           {
@@ -7436,7 +7458,7 @@
         "answer": 0
       },
       {
-        "stem": "The WOMAN LEAST often has to _ _____.",
+        "stem": "The WOMAN LEAST often has to ______.",
         "images": [],
         "options": [
           {
@@ -7455,7 +7477,7 @@
         "answer": 1
       },
       {
-        "stem": "A MALLET is used to _ _____.",
+        "stem": "A MALLET is used to ______.",
         "images": [],
         "options": [
           {
@@ -7474,7 +7496,7 @@
         "answer": 2
       },
       {
-        "stem": "In the past, unmarked stones were signs of wealth because they showed that the employer could pay _ ______.",
+        "stem": "In the past, unmarked stones were signs of wealth because they showed that the employer could pay _______.",
         "images": [],
         "options": [
           {
@@ -7493,7 +7515,7 @@
         "answer": 0
       },
       {
-        "stem": "In the past, stone masons got paid according to _ _____.",
+        "stem": "In the past, stone masons got paid according to ______.",
         "images": [],
         "options": [
           {
@@ -7512,7 +7534,7 @@
         "answer": 0
       },
       {
-        "stem": "The WOMAN’S telephone number BEGINS with _ _____.",
+        "stem": "The WOMAN’S telephone number BEGINS with ______.",
         "images": [],
         "options": [
           {
@@ -7539,7 +7561,7 @@
     "number": 1,
     "questions": [
       {
-        "stem": "Money will be donated to the charity as long as the participants _ _____.",
+        "stem": "Money will be donated to the charity as long as the participants ______.",
         "images": [],
         "options": [
           {
@@ -7558,7 +7580,7 @@
         "answer": 2
       },
       {
-        "stem": "$3,200 is _ _____.",
+        "stem": "$3,200 is ______.",
         "images": [],
         "options": [
           {
@@ -7577,7 +7599,7 @@
         "answer": 2
       },
       {
-        "stem": "LAST YEAR, the charity trained _ _____.",
+        "stem": "LAST YEAR, the charity trained ______.",
         "images": [],
         "options": [
           {
@@ -7596,7 +7618,7 @@
         "answer": 2
       },
       {
-        "stem": "It is necessary to see your doctor if you are more than _ ____.",
+        "stem": "It is necessary to see your doctor if you are more than _____.",
         "images": [],
         "options": [
           {
@@ -7615,7 +7637,7 @@
         "answer": 1
       },
       {
-        "stem": "The speaker says that ALL participants will need to _ _____.",
+        "stem": "The speaker says that ALL participants will need to ______.",
         "images": [],
         "options": [
           {
@@ -7634,7 +7656,7 @@
         "answer": 0
       },
       {
-        "stem": "How does the speaker describe the tops of the mountains? He says they are _ _____.",
+        "stem": "How does the speaker describe the tops of the mountains? He says they are ______.",
         "images": [],
         "options": [
           {
@@ -7653,7 +7675,7 @@
         "answer": 0
       },
       {
-        "stem": "For hundreds of years, the area has been well-known for its _ _____.",
+        "stem": "For hundreds of years, the area has been well-known for its ______.",
         "images": [],
         "options": [
           {
@@ -7672,7 +7694,7 @@
         "answer": 1
       },
       {
-        "stem": "The number of participants is kept small in order to avoid _ _____.",
+        "stem": "The number of participants is kept small in order to avoid ______.",
         "images": [],
         "options": [
           {
@@ -7762,7 +7784,7 @@
         "answer": 1
       },
       {
-        "stem": "People around the world think that British weather is _ _____.",
+        "stem": "People around the world think that British weather is ______.",
         "images": [],
         "options": [
           {
@@ -7781,7 +7803,7 @@
         "answer": 2
       },
       {
-        "stem": "What does the WOMAN think about British weather? It is _ _____.",
+        "stem": "What does the WOMAN think about British weather? It is ______.",
         "images": [],
         "options": [
           {
@@ -7800,7 +7822,7 @@
         "answer": 1
       },
       {
-        "stem": "If a country has a TEMPERATE CLIMATE, it _ _____.",
+        "stem": "If a country has a TEMPERATE CLIMATE, it ______.",
         "images": [],
         "options": [
           {
@@ -7819,7 +7841,7 @@
         "answer": 1
       },
       {
-        "stem": "The MAN says that in Britain, you _ _____.",
+        "stem": "The MAN says that in Britain, you ______.",
         "images": [],
         "options": [
           {
@@ -7838,7 +7860,7 @@
         "answer": 0
       },
       {
-        "stem": "People sometimes say that, in one day, there can be _ _____.",
+        "stem": "People sometimes say that, in one day, there can be ______.",
         "images": [],
         "options": [
           {
@@ -7857,7 +7879,7 @@
         "answer": 0
       },
       {
-        "stem": "The WOMAN says that, because the weather changes a lot, people _ _____.",
+        "stem": "The WOMAN says that, because the weather changes a lot, people ______.",
         "images": [],
         "options": [
           {
@@ -7876,7 +7898,7 @@
         "answer": 2
       },
       {
-        "stem": "The WOMAN thinks that British weather is _ _____ the weather in other northern European countries.",
+        "stem": "The WOMAN thinks that British weather is ______ the weather in other northern European countries.",
         "images": [],
         "options": [
           {
@@ -7895,7 +7917,7 @@
         "answer": 1
       },
       {
-        "stem": "The MAN probably _ _____.",
+        "stem": "The MAN probably ______.",
         "images": [],
         "options": [
           {
@@ -7914,7 +7936,7 @@
         "answer": 0
       },
       {
-        "stem": "The WOMAN says that the countryside _ ______.",
+        "stem": "The WOMAN says that the countryside _______.",
         "images": [],
         "options": [
           {
@@ -7941,7 +7963,7 @@
     "number": 3,
     "questions": [
       {
-        "stem": "The series is about _ ____.",
+        "stem": "The series is about _____.",
         "images": [],
         "options": [
           {
@@ -7960,7 +7982,7 @@
         "answer": 1
       },
       {
-        "stem": "The lump of tanzanite was found at a depth of _ _____.",
+        "stem": "The lump of tanzanite was found at a depth of ______.",
         "images": [],
         "options": [
           {
@@ -7979,7 +8001,7 @@
         "answer": 2
       },
       {
-        "stem": "Tanzanite is valuable because of its _ _____.",
+        "stem": "Tanzanite is valuable because of its ______.",
         "images": [],
         "options": [
           {
@@ -7998,7 +8020,7 @@
         "answer": 0
       },
       {
-        "stem": "Tanzanite _ _____.",
+        "stem": "Tanzanite ______.",
         "images": [],
         "options": [
           {
@@ -8017,7 +8039,7 @@
         "answer": 1
       },
       {
-        "stem": "Tanzanite is only found in a place in Tanzania that is _ _____.",
+        "stem": "Tanzanite is only found in a place in Tanzania that is ______.",
         "images": [],
         "options": [
           {
@@ -8036,7 +8058,7 @@
         "answer": 0
       },
       {
-        "stem": "The piece of tanzanite was found by _ _____.",
+        "stem": "The piece of tanzanite was found by ______.",
         "images": [],
         "options": [
           {
@@ -8055,7 +8077,7 @@
         "answer": 0
       },
       {
-        "stem": "When talking about its size, the MAN compares the piece of tanzanite to a _ _____.",
+        "stem": "When talking about its size, the MAN compares the piece of tanzanite to a ______.",
         "images": [],
         "options": [
           {
@@ -8074,7 +8096,7 @@
         "answer": 0
       },
       {
-        "stem": "When tanzanite was first found, it had been turned blue by _ _____.",
+        "stem": "When tanzanite was first found, it had been turned blue by ______.",
         "images": [],
         "options": [
           {
@@ -8093,7 +8115,7 @@
         "answer": 0
       },
       {
-        "stem": "The tanzanite _ _____.",
+        "stem": "The tanzanite ______.",
         "images": [],
         "options": [
           {
@@ -8112,7 +8134,7 @@
         "answer": 1
       },
       {
-        "stem": "The piece of tanzanite was named after _ _____.",
+        "stem": "The piece of tanzanite was named after ______.",
         "images": [],
         "options": [
           {
@@ -8139,7 +8161,7 @@
     "number": 4,
     "questions": [
       {
-        "stem": "Bob Green is presenting ANOTHER EDITION of a program called Wild _ _____.",
+        "stem": "Bob Green is presenting ANOTHER EDITION of a program called Wild ______.",
         "images": [],
         "options": [
           {
@@ -8158,7 +8180,7 @@
         "answer": 1
       },
       {
-        "stem": "The WOMAN says that ACCIDENTS in mountain-climbing _ ______.",
+        "stem": "The WOMAN says that ACCIDENTS in mountain-climbing _______.",
         "images": [],
         "options": [
           {
@@ -8234,7 +8256,7 @@
         "answer": 2
       },
       {
-        "stem": "When she started mountain-climbing, the WOMAN’S PARENTS _ _____.",
+        "stem": "When she started mountain-climbing, the WOMAN’S PARENTS ______.",
         "images": [],
         "options": [
           {
@@ -8272,7 +8294,7 @@
         "answer": 2
       },
       {
-        "stem": "The WOMAN says it can get dangerous for experienced climbers when they _ _____.",
+        "stem": "The WOMAN says it can get dangerous for experienced climbers when they ______.",
         "images": [],
         "options": [
           {
@@ -8291,7 +8313,7 @@
         "answer": 1
       },
       {
-        "stem": "When they got lost in a storm, the WOMAN and her friend had to stay on the mountain _ _____.",
+        "stem": "When they got lost in a storm, the WOMAN and her friend had to stay on the mountain ______.",
         "images": [],
         "options": [
           {
@@ -8310,7 +8332,7 @@
         "answer": 0
       },
       {
-        "stem": "When they were lost on the mountainside, the two climbers were probably very _ _____.",
+        "stem": "When they were lost on the mountainside, the two climbers were probably very ______.",
         "images": [],
         "options": [
           {
@@ -8337,7 +8359,7 @@
     "number": 5,
     "questions": [
       {
-        "stem": "BARFORD is the name of a _ _____.",
+        "stem": "BARFORD is the name of a ______.",
         "images": [],
         "options": [
           {
@@ -8356,7 +8378,7 @@
         "answer": 2
       },
       {
-        "stem": "People use buses less frequently now MOST PROBABLY because _ _____.",
+        "stem": "People use buses less frequently now MOST PROBABLY because ______.",
         "images": [],
         "options": [
           {
@@ -8375,7 +8397,7 @@
         "answer": 0
       },
       {
-        "stem": "There are now _ _____.",
+        "stem": "There are now ______.",
         "images": [],
         "options": [
           {
@@ -8394,7 +8416,7 @@
         "answer": 0
       },
       {
-        "stem": "In the TOWN CENTRE, there are a lot of _ _____.",
+        "stem": "In the TOWN CENTRE, there are a lot of ______.",
         "images": [],
         "options": [
           {
@@ -8413,7 +8435,7 @@
         "answer": 2
       },
       {
-        "stem": "The town’s HOSPITAL _ _____.",
+        "stem": "The town’s HOSPITAL ______.",
         "images": [],
         "options": [
           {
@@ -8432,7 +8454,7 @@
         "answer": 0
       },
       {
-        "stem": "The biggest EMPLOYMENT SECTOR is _ _____.",
+        "stem": "The biggest EMPLOYMENT SECTOR is ______.",
         "images": [],
         "options": [
           {
@@ -8451,7 +8473,7 @@
         "answer": 1
       },
       {
-        "stem": "The RAILWAY COMPANY wants _ _____.",
+        "stem": "The RAILWAY COMPANY wants ______.",
         "images": [],
         "options": [
           {
@@ -8470,7 +8492,7 @@
         "answer": 0
       },
       {
-        "stem": "MOST PROBABLY, workers _ _____.",
+        "stem": "MOST PROBABLY, workers ______.",
         "images": [],
         "options": [
           {
@@ -8489,7 +8511,7 @@
         "answer": 0
       },
       {
-        "stem": "The indoor market building has closed because it was SHABBY and _ _____.",
+        "stem": "The indoor market building has closed because it was SHABBY and ______.",
         "images": [],
         "options": [
           {
@@ -8508,7 +8530,7 @@
         "answer": 2
       },
       {
-        "stem": "It is NOT SAID that the library _ _____.",
+        "stem": "It is NOT SAID that the library ______.",
         "images": [],
         "options": [
           {
@@ -8535,7 +8557,7 @@
     "number": 6,
     "questions": [
       {
-        "stem": "The astronaut is MOST famous for _ _____.",
+        "stem": "The astronaut is MOST famous for ______.",
         "images": [],
         "options": [
           {
@@ -8554,7 +8576,7 @@
         "answer": 2
       },
       {
-        "stem": "The astronaut was watched by millions on television _ _____.",
+        "stem": "The astronaut was watched by millions on television ______.",
         "images": [],
         "options": [
           {
@@ -8573,7 +8595,7 @@
         "answer": 0
       },
       {
-        "stem": "It is MOST LIKELY that the astronaut’s team went into space to _ _____.",
+        "stem": "It is MOST LIKELY that the astronaut’s team went into space to ______.",
         "images": [],
         "options": [
           {
@@ -8617,7 +8639,7 @@
         "answer": 0
       },
       {
-        "stem": "The TILES were a serious problem because they _ _____.",
+        "stem": "The TILES were a serious problem because they ______.",
         "images": [],
         "options": [
           {
@@ -8636,7 +8658,7 @@
         "answer": 1
       },
       {
-        "stem": "What did the astronaut think about his spacewalk? He _ _____.",
+        "stem": "What did the astronaut think about his spacewalk? He ______.",
         "images": [],
         "options": [
           {
@@ -8655,7 +8677,7 @@
         "answer": 1
       },
       {
-        "stem": "The robotic arm was _ _____.",
+        "stem": "The robotic arm was ______.",
         "images": [],
         "options": [
           {
@@ -8674,7 +8696,7 @@
         "answer": 2
       },
       {
-        "stem": "The astronaut was careful about touching the Space Shuttle because he might _ ____.",
+        "stem": "The astronaut was careful about touching the Space Shuttle because he might _____.",
         "images": [],
         "options": [
           {
@@ -8693,7 +8715,7 @@
         "answer": 1
       },
       {
-        "stem": "The SIX-HOUR SPACEWALK also involved _ _____.",
+        "stem": "The SIX-HOUR SPACEWALK also involved ______.",
         "images": [],
         "options": [
           {
@@ -8712,7 +8734,7 @@
         "answer": 1
       },
       {
-        "stem": "The astronaut’s COLLEAGUE probably thought the astronaut _ _____.",
+        "stem": "The astronaut’s COLLEAGUE probably thought the astronaut ______.",
         "images": [],
         "options": [
           {
@@ -8739,7 +8761,7 @@
     "number": 7,
     "questions": [
       {
-        "stem": "The speakers _ _____.",
+        "stem": "The speakers ______.",
         "images": [],
         "options": [
           {
@@ -8758,7 +8780,7 @@
         "answer": 2
       },
       {
-        "stem": "When talking about IMPACTS on HEALTH, the MAN implies that, what is MOST important, is _ _____.",
+        "stem": "When talking about IMPACTS on HEALTH, the MAN implies that, what is MOST important, is ______.",
         "images": [],
         "options": [
           {
@@ -8777,7 +8799,7 @@
         "answer": 1
       },
       {
-        "stem": "The WOMAN says that bike-sharing has HAD LESS OF AN IMPACT on reducing the _ _____",
+        "stem": "The WOMAN says that bike-sharing has HAD LESS OF AN IMPACT on reducing the ______",
         "images": [],
         "options": [
           {
@@ -8796,7 +8818,7 @@
         "answer": 1
       },
       {
-        "stem": "When talking about bike technology, the speakers IMPLY that it _ _____.",
+        "stem": "When talking about bike technology, the speakers IMPLY that it ______.",
         "images": [],
         "options": [
           {
@@ -8815,7 +8837,7 @@
         "answer": 1
       },
       {
-        "stem": "When talking about COMPETING COMPANIES OFFERING SEPARATE BIKE-SHARING SCHEMES, the MAN implies that _ _____.",
+        "stem": "When talking about COMPETING COMPANIES OFFERING SEPARATE BIKE-SHARING SCHEMES, the MAN implies that ______.",
         "images": [],
         "options": [
           {
@@ -8834,7 +8856,7 @@
         "answer": 0
       },
       {
-        "stem": "The MAN implies that people won’t stop using their cars if they _ _____.",
+        "stem": "The MAN implies that people won’t stop using their cars if they ______.",
         "images": [],
         "options": [
           {
@@ -8853,7 +8875,7 @@
         "answer": 1
       },
       {
-        "stem": "When speaking about the scheme in AMSTERDAM, the speakers say _ _____.",
+        "stem": "When speaking about the scheme in AMSTERDAM, the speakers say ______.",
         "images": [],
         "options": [
           {
@@ -8872,7 +8894,7 @@
         "answer": 0
       },
       {
-        "stem": "The MAN implies that the scheme in DUBLIN is successful because _ _____.",
+        "stem": "The MAN implies that the scheme in DUBLIN is successful because ______.",
         "images": [],
         "options": [
           {
@@ -8891,7 +8913,7 @@
         "answer": 0
       },
       {
-        "stem": "The problem with the scheme in London is that _ _____.",
+        "stem": "The problem with the scheme in London is that ______.",
         "images": [],
         "options": [
           {
@@ -8937,7 +8959,7 @@
     "number": 8,
     "questions": [
       {
-        "stem": "The BOY is speaking to the WOMAN because he is _ _____.",
+        "stem": "The BOY is speaking to the WOMAN because he is ______.",
         "images": [],
         "options": [
           {
@@ -8956,7 +8978,7 @@
         "answer": 2
       },
       {
-        "stem": "The WOMAN suggests the Internet _ _____.",
+        "stem": "The WOMAN suggests the Internet ______.",
         "images": [],
         "options": [
           {
@@ -8975,7 +8997,7 @@
         "answer": 0
       },
       {
-        "stem": "The BEST amount of sleep per night is MOST PROBABLY _ _____.",
+        "stem": "The BEST amount of sleep per night is MOST PROBABLY ______.",
         "images": [],
         "options": [
           {
@@ -8994,7 +9016,7 @@
         "answer": 1
       },
       {
-        "stem": "The factor MOST important for the development of modern sleep patterns has been _ ____.",
+        "stem": "The factor MOST important for the development of modern sleep patterns has been _____.",
         "images": [],
         "options": [
           {
@@ -9013,7 +9035,7 @@
         "answer": 2
       },
       {
-        "stem": "When TEENAGERS do not get enough sleep, this _ _____.",
+        "stem": "When TEENAGERS do not get enough sleep, this ______.",
         "images": [],
         "options": [
           {
@@ -9032,7 +9054,7 @@
         "answer": 0
       },
       {
-        "stem": "There is CLEAR evidence that a lack of sleep _ _____.",
+        "stem": "There is CLEAR evidence that a lack of sleep ______.",
         "images": [],
         "options": [
           {
@@ -9051,7 +9073,7 @@
         "answer": 1
       },
       {
-        "stem": "A lack of sleep is something that affects teenagers _ _____.",
+        "stem": "A lack of sleep is something that affects teenagers ______.",
         "images": [],
         "options": [
           {
@@ -9070,7 +9092,7 @@
         "answer": 0
       },
       {
-        "stem": "If you want to get to sleep, it is best to _ _____.",
+        "stem": "If you want to get to sleep, it is best to ______.",
         "images": [],
         "options": [
           {
@@ -9089,7 +9111,7 @@
         "answer": 2
       },
       {
-        "stem": "The WOMAN suggests it would be a GOOD IDEA if schools _ _____.",
+        "stem": "The WOMAN suggests it would be a GOOD IDEA if schools ______.",
         "images": [],
         "options": [
           {
@@ -9108,7 +9130,7 @@
         "answer": 1
       },
       {
-        "stem": "The WOMAN says that while we sleep, our brains _ _____.",
+        "stem": "The WOMAN says that while we sleep, our brains ______.",
         "images": [],
         "options": [
           {
@@ -9135,7 +9157,7 @@
     "number": 9,
     "questions": [
       {
-        "stem": "MOST PROBABLY, the MAN graduated from university with a degree in _ _____.",
+        "stem": "MOST PROBABLY, the MAN graduated from university with a degree in ______.",
         "images": [],
         "options": [
           {
@@ -9154,7 +9176,7 @@
         "answer": 2
       },
       {
-        "stem": "When he graduated from university, the MAN _ _____.",
+        "stem": "When he graduated from university, the MAN ______.",
         "images": [],
         "options": [
           {
@@ -9173,7 +9195,7 @@
         "answer": 1
       },
       {
-        "stem": "DAN is the MAN’s _ _____.",
+        "stem": "DAN is the MAN’s ______.",
         "images": [],
         "options": [
           {
@@ -9192,7 +9214,7 @@
         "answer": 0
       },
       {
-        "stem": "When the MAN talks about COLOMBIA, he is talking about a _ _____.",
+        "stem": "When the MAN talks about COLOMBIA, he is talking about a ______.",
         "images": [],
         "options": [
           {
@@ -9211,7 +9233,7 @@
         "answer": 1
       },
       {
-        "stem": "The MAN DOES NOT imply he spent his time on the farm _ _____.",
+        "stem": "The MAN DOES NOT imply he spent his time on the farm ______.",
         "images": [],
         "options": [
           {
@@ -9230,7 +9252,7 @@
         "answer": 0
       },
       {
-        "stem": "The machine that was INVESTED IN _ _____.",
+        "stem": "The machine that was INVESTED IN ______.",
         "images": [],
         "options": [
           {
@@ -9249,7 +9271,7 @@
         "answer": 0
       },
       {
-        "stem": "It is MOST LIKELY that the farm was in a _ _____.",
+        "stem": "It is MOST LIKELY that the farm was in a ______.",
         "images": [],
         "options": [
           {
@@ -9268,7 +9290,7 @@
         "answer": 2
       },
       {
-        "stem": "Robusta beans are slightly _ _____.",
+        "stem": "Robusta beans are slightly ______.",
         "images": [],
         "options": [
           {
@@ -9287,7 +9309,7 @@
         "answer": 2
       },
       {
-        "stem": "The MAN implies that the skill in roasting beans lies in _ _____.",
+        "stem": "The MAN implies that the skill in roasting beans lies in ______.",
         "images": [],
         "options": [
           {
@@ -9306,7 +9328,7 @@
         "answer": 1
       },
       {
-        "stem": "The GARAGE is _ _____.",
+        "stem": "The GARAGE is ______.",
         "images": [],
         "options": [
           {
@@ -9333,7 +9355,7 @@
     "number": 10,
     "questions": [
       {
-        "stem": "The competition is called a SPELLING _ _____.",
+        "stem": "The competition is called a SPELLING ______.",
         "images": [],
         "options": [
           {
@@ -9352,7 +9374,7 @@
         "answer": 0
       },
       {
-        "stem": "Something SIMILAR to the modern competition was held in _ _____.",
+        "stem": "Something SIMILAR to the modern competition was held in ______.",
         "images": [],
         "options": [
           {
@@ -9371,7 +9393,7 @@
         "answer": 1
       },
       {
-        "stem": "KENTUCKY is a _ _____.",
+        "stem": "KENTUCKY is a ______.",
         "images": [],
         "options": [
           {
@@ -9428,7 +9450,7 @@
         "answer": 2
       },
       {
-        "stem": "The deaf person did not win the competition because _ _____.",
+        "stem": "The deaf person did not win the competition because ______.",
         "images": [],
         "options": [
           {
@@ -9447,7 +9469,7 @@
         "answer": 2
       },
       {
-        "stem": "During competition, contestants are NOT ALLOWED to _ _____.",
+        "stem": "During competition, contestants are NOT ALLOWED to ______.",
         "images": [],
         "options": [
           {
@@ -9466,7 +9488,7 @@
         "answer": 1
       },
       {
-        "stem": "When preparing for the competition, the MAN finds it MOST useful to _ _____.",
+        "stem": "When preparing for the competition, the MAN finds it MOST useful to ______.",
         "images": [],
         "options": [
           {
@@ -9485,7 +9507,7 @@
         "answer": 1
       },
       {
-        "stem": "The MAN says that the competitions _ _____.",
+        "stem": "The MAN says that the competitions ______.",
         "images": [],
         "options": [
           {
@@ -9504,7 +9526,7 @@
         "answer": 2
       },
       {
-        "stem": "When giving advice to LISTENERS THINKING OF ENTERING, the MAN DOES NOT say it’s important they _ _____.",
+        "stem": "When giving advice to LISTENERS THINKING OF ENTERING, the MAN DOES NOT say it’s important they ______.",
         "images": [],
         "options": [
           {
@@ -9523,7 +9545,8 @@
         "answer": 0
       }
     ],
-    "audio": "audio/1DDWoQTB7uLZHx-zu9h8qZeoV-SK2vkWp.mp3"
+    "audio": "audio/1DDWoQTB7uLZHx-zu9h8qZeoV-SK2vkWp.mp3",
+    "revision": "20261028"
   },
   {
     "section": "long",
@@ -9556,7 +9579,7 @@
         "answer": 2
       },
       {
-        "stem": "The FIRST bottle the man found had been dropped into the sea near _ _____.",
+        "stem": "The FIRST bottle the man found had been dropped into the sea near ______.",
         "images": [],
         "options": [
           {
@@ -9575,7 +9598,7 @@
         "answer": 2
       },
       {
-        "stem": "The FIRST bottle the man found _ _____.",
+        "stem": "The FIRST bottle the man found ______.",
         "images": [],
         "options": [
           {
@@ -9594,7 +9617,7 @@
         "answer": 2
       },
       {
-        "stem": "The man contacted the senders of the bottle by _ _____.",
+        "stem": "The man contacted the senders of the bottle by ______.",
         "images": [],
         "options": [
           {
@@ -9613,7 +9636,7 @@
         "answer": 2
       },
       {
-        "stem": "The senders of the FIRST bottle were possibly disappointed that _ _____.",
+        "stem": "The senders of the FIRST bottle were possibly disappointed that ______.",
         "images": [],
         "options": [
           {
@@ -9632,7 +9655,7 @@
         "answer": 0
       },
       {
-        "stem": "The MAN found a message _ _____.",
+        "stem": "The MAN found a message ______.",
         "images": [],
         "options": [
           {
@@ -9676,7 +9699,7 @@
         "answer": 1
       },
       {
-        "stem": "The issue with MEETING UP with SENDERS is that _ _____.",
+        "stem": "The issue with MEETING UP with SENDERS is that ______.",
         "images": [],
         "options": [
           {
@@ -9695,7 +9718,7 @@
         "answer": 0
       },
       {
-        "stem": "The bottles at the NATIONAL MUSEUM had been _ _____.",
+        "stem": "The bottles at the NATIONAL MUSEUM had been ______.",
         "images": [],
         "options": [
           {
@@ -9714,7 +9737,7 @@
         "answer": 2
       },
       {
-        "stem": "AT THE MUSEUM, some of the bottles had been thrown into the water by researchers to _ _____.",
+        "stem": "AT THE MUSEUM, some of the bottles had been thrown into the water by researchers to ______.",
         "images": [],
         "options": [
           {
@@ -9741,7 +9764,7 @@
     "number": 1,
     "questions": [
       {
-        "stem": "The speaker will leave the States when he _ _____.",
+        "stem": "The speaker will leave the States when he ______.",
         "images": [],
         "options": [
           {
@@ -9760,7 +9783,7 @@
         "answer": 2
       },
       {
-        "stem": "The speaker thinks that in the future _ _____.",
+        "stem": "The speaker thinks that in the future ______.",
         "images": [],
         "options": [
           {
@@ -9779,7 +9802,7 @@
         "answer": 0
       },
       {
-        "stem": "The speaker talks about _ ____.",
+        "stem": "The speaker talks about _____.",
         "images": [],
         "options": [
           {
@@ -9823,7 +9846,7 @@
         "answer": 1
       },
       {
-        "stem": "The speaker says that _ _____.",
+        "stem": "The speaker says that ______.",
         "images": [],
         "options": [
           {
@@ -9867,7 +9890,7 @@
         "answer": 2
       },
       {
-        "stem": "The speaker is _ _____.",
+        "stem": "The speaker is ______.",
         "images": [],
         "options": [
           {
@@ -9886,7 +9909,7 @@
         "answer": 0
       },
       {
-        "stem": "The speaker is asking _ _____.",
+        "stem": "The speaker is asking ______.",
         "images": [],
         "options": [
           {
@@ -9905,7 +9928,7 @@
         "answer": 1
       },
       {
-        "stem": "RAY POTTER _ _____.",
+        "stem": "RAY POTTER ______.",
         "images": [],
         "options": [
           {
@@ -9924,7 +9947,7 @@
         "answer": 1
       },
       {
-        "stem": "Tanya Perry and her family left London in _ _____.",
+        "stem": "Tanya Perry and her family left London in ______.",
         "images": [],
         "options": [
           {
@@ -9943,7 +9966,7 @@
         "answer": 2
       },
       {
-        "stem": "MOST PROBABLY, David Thomson _ ____.",
+        "stem": "MOST PROBABLY, David Thomson _____.",
         "images": [],
         "options": [
           {
@@ -9962,7 +9985,7 @@
         "answer": 0
       },
       {
-        "stem": "PROBABLY, Tanya Peters did not go to university because _ _____.",
+        "stem": "PROBABLY, Tanya Peters did not go to university because ______.",
         "images": [],
         "options": [
           {
@@ -9981,7 +10004,7 @@
         "answer": 1
       },
       {
-        "stem": "Tanya Peters PROBABLY stopped working as a waitress because she _ _____.",
+        "stem": "Tanya Peters PROBABLY stopped working as a waitress because she ______.",
         "images": [],
         "options": [
           {
@@ -10000,7 +10023,7 @@
         "answer": 2
       },
       {
-        "stem": "The MAN does NOT suggest that they go to the _ _____.",
+        "stem": "The MAN does NOT suggest that they go to the ______.",
         "images": [],
         "options": [
           {
@@ -10019,7 +10042,7 @@
         "answer": 1
       },
       {
-        "stem": "For the WOMAN, the problem with the ITALIAN FILM will PROBABLY be that she _ _____.",
+        "stem": "For the WOMAN, the problem with the ITALIAN FILM will PROBABLY be that she ______.",
         "images": [],
         "options": [
           {
@@ -10038,7 +10061,7 @@
         "answer": 1
       },
       {
-        "stem": "For the WOMAN, the problem with watching a ROBERT DE NIRO film is that she does not _ ____.",
+        "stem": "For the WOMAN, the problem with watching a ROBERT DE NIRO film is that she does not _____.",
         "images": [],
         "options": [
           {
@@ -10057,7 +10080,7 @@
         "answer": 2
       },
       {
-        "stem": "The MAN offers to _ _____.",
+        "stem": "The MAN offers to ______.",
         "images": [],
         "options": [
           {
@@ -10076,7 +10099,7 @@
         "answer": 2
       },
       {
-        "stem": "The MAN will cook something _ _____.",
+        "stem": "The MAN will cook something ______.",
         "images": [],
         "options": [
           {
@@ -10103,7 +10126,7 @@
     "number": 2,
     "questions": [
       {
-        "stem": "MOST PROBABLY, the man _ _____.",
+        "stem": "MOST PROBABLY, the man ______.",
         "images": [],
         "options": [
           {
@@ -10122,7 +10145,7 @@
         "answer": 2
       },
       {
-        "stem": "The speaker DOES NOT say that Kirsty _ _____.",
+        "stem": "The speaker DOES NOT say that Kirsty ______.",
         "images": [],
         "options": [
           {
@@ -10141,7 +10164,7 @@
         "answer": 0
       },
       {
-        "stem": "The MAORI _ _____.",
+        "stem": "The MAORI ______.",
         "images": [],
         "options": [
           {
@@ -10160,7 +10183,7 @@
         "answer": 2
       },
       {
-        "stem": "The speaker’s country _ _____.",
+        "stem": "The speaker’s country ______.",
         "images": [],
         "options": [
           {
@@ -10179,7 +10202,7 @@
         "answer": 1
       },
       {
-        "stem": "I went to bed because I _ _____.",
+        "stem": "I went to bed because I ______.",
         "images": [],
         "options": [
           {
@@ -10198,7 +10221,7 @@
         "answer": 0
       },
       {
-        "stem": "The speaker _ _____.",
+        "stem": "The speaker ______.",
         "images": [],
         "options": [
           {
@@ -10236,7 +10259,7 @@
         "answer": 2
       },
       {
-        "stem": "The conversation takes place in a _ _____.",
+        "stem": "The conversation takes place in a ______.",
         "images": [],
         "options": [
           {
@@ -10255,7 +10278,7 @@
         "answer": 2
       },
       {
-        "stem": "The man will travel _ _____.",
+        "stem": "The man will travel ______.",
         "images": [],
         "options": [
           {
@@ -10299,7 +10322,7 @@
         "answer": 0
       },
       {
-        "stem": "For his ticket, the man will pay _ _____.",
+        "stem": "For his ticket, the man will pay ______.",
         "images": [],
         "options": [
           {
@@ -10318,7 +10341,7 @@
         "answer": 2
       },
       {
-        "stem": "On the train, _ _____.",
+        "stem": "On the train, ______.",
         "images": [],
         "options": [
           {
@@ -10337,7 +10360,7 @@
         "answer": 2
       },
       {
-        "stem": "The man will buy his ticket at 22 _ _____.",
+        "stem": "The man will buy his ticket at 22 ______.",
         "images": [],
         "options": [
           {
@@ -10356,7 +10379,7 @@
         "answer": 1
       },
       {
-        "stem": "The WOMAN will probably get a job as a _ _____.",
+        "stem": "The WOMAN will probably get a job as a ______.",
         "images": [],
         "options": [
           {
@@ -10375,7 +10398,7 @@
         "answer": 1
       },
       {
-        "stem": "The WOMAN will probably work _ _____.",
+        "stem": "The WOMAN will probably work ______.",
         "images": [],
         "options": [
           {
@@ -10394,7 +10417,7 @@
         "answer": 1
       },
       {
-        "stem": "To get the job, you need to be AT LEAST _ _____.",
+        "stem": "To get the job, you need to be AT LEAST ______.",
         "images": [],
         "options": [
           {
@@ -10413,7 +10436,7 @@
         "answer": 0
       },
       {
-        "stem": "The WOMAN will probably start work on the _ _____.",
+        "stem": "The WOMAN will probably start work on the ______.",
         "images": [],
         "options": [
           {
@@ -10432,7 +10455,7 @@
         "answer": 2
       },
       {
-        "stem": "At work, the woman MUST wear WHITE _ _____.",
+        "stem": "At work, the woman MUST wear WHITE ______.",
         "images": [],
         "options": [
           {
@@ -10459,7 +10482,7 @@
     "number": 3,
     "questions": [
       {
-        "stem": "The speaker’s HUSBAND is PROBABLY called _ _____.",
+        "stem": "The speaker’s HUSBAND is PROBABLY called ______.",
         "images": [],
         "options": [
           {
@@ -10478,7 +10501,7 @@
         "answer": 0
       },
       {
-        "stem": "MOST PROBABLY, the speaker _ _____.",
+        "stem": "MOST PROBABLY, the speaker ______.",
         "images": [],
         "options": [
           {
@@ -10497,7 +10520,7 @@
         "answer": 2
       },
       {
-        "stem": "The speaker’s OLD car was _ _____.",
+        "stem": "The speaker’s OLD car was ______.",
         "images": [],
         "options": [
           {
@@ -10516,7 +10539,7 @@
         "answer": 0
       },
       {
-        "stem": "The speakers are PROBABLY _ _____.",
+        "stem": "The speakers are PROBABLY ______.",
         "images": [],
         "options": [
           {
@@ -10554,7 +10577,7 @@
         "answer": 1
       },
       {
-        "stem": "Olga _ _____.",
+        "stem": "Olga ______.",
         "images": [],
         "options": [
           {
@@ -10573,7 +10596,7 @@
         "answer": 0
       },
       {
-        "stem": "The man DOES NOT say that he _ _____.",
+        "stem": "The man DOES NOT say that he ______.",
         "images": [],
         "options": [
           {
@@ -10592,7 +10615,7 @@
         "answer": 1
       },
       {
-        "stem": "The speaker advises people to _ _____.",
+        "stem": "The speaker advises people to ______.",
         "images": [],
         "options": [
           {
@@ -10611,7 +10634,7 @@
         "answer": 2
       },
       {
-        "stem": "The MAN has come to the Garden Centre because he wants to _ _____.",
+        "stem": "The MAN has come to the Garden Centre because he wants to ______.",
         "images": [],
         "options": [
           {
@@ -10649,7 +10672,7 @@
         "answer": 0
       },
       {
-        "stem": "You need to CUT the flowers BEFORE _ _____.",
+        "stem": "You need to CUT the flowers BEFORE ______.",
         "images": [],
         "options": [
           {
@@ -10668,7 +10691,7 @@
         "answer": 2
       },
       {
-        "stem": "IN TWO OR THREE YEARS’ TIME, the flower will grow to _ _____.",
+        "stem": "IN TWO OR THREE YEARS’ TIME, the flower will grow to ______.",
         "images": [],
         "options": [
           {
@@ -10687,7 +10710,7 @@
         "answer": 1
       },
       {
-        "stem": "The man will pay _ _____.",
+        "stem": "The man will pay ______.",
         "images": [],
         "options": [
           {
@@ -10706,7 +10729,7 @@
         "answer": 0
       },
       {
-        "stem": "The WOMAN phones the MAN because she wants to _ _____.",
+        "stem": "The WOMAN phones the MAN because she wants to ______.",
         "images": [],
         "options": [
           {
@@ -10725,7 +10748,7 @@
         "answer": 2
       },
       {
-        "stem": "AT THE FARM, workers eat at _ _____.",
+        "stem": "AT THE FARM, workers eat at ______.",
         "images": [],
         "options": [
           {
@@ -10744,7 +10767,7 @@
         "answer": 2
       },
       {
-        "stem": "The man DOES NOT say the WOMAN needs to be _ _____.",
+        "stem": "The man DOES NOT say the WOMAN needs to be ______.",
         "images": [],
         "options": [
           {
@@ -10763,7 +10786,7 @@
         "answer": 1
       },
       {
-        "stem": "The money is LESS in THIS JOB because _ _____.",
+        "stem": "The money is LESS in THIS JOB because ______.",
         "images": [],
         "options": [
           {
@@ -10782,7 +10805,7 @@
         "answer": 1
       },
       {
-        "stem": "The MAN will tell the WOMAN if she has the job _ _____.",
+        "stem": "The MAN will tell the WOMAN if she has the job ______.",
         "images": [],
         "options": [
           {
@@ -10809,7 +10832,7 @@
     "number": 4,
     "questions": [
       {
-        "stem": "The speaker talks about _ _____.",
+        "stem": "The speaker talks about ______.",
         "images": [],
         "options": [
           {
@@ -10828,7 +10851,7 @@
         "answer": 1
       },
       {
-        "stem": "The reservation is NOT for _ _____.",
+        "stem": "The reservation is NOT for ______.",
         "images": [],
         "options": [
           {
@@ -10847,7 +10870,7 @@
         "answer": 1
       },
       {
-        "stem": "The Titanic _ _____.",
+        "stem": "The Titanic ______.",
         "images": [],
         "options": [
           {
@@ -10866,7 +10889,7 @@
         "answer": 0
       },
       {
-        "stem": "The speaker is _ _____.",
+        "stem": "The speaker is ______.",
         "images": [],
         "options": [
           {
@@ -10885,7 +10908,7 @@
         "answer": 2
       },
       {
-        "stem": "MOST PROBABLY, William Wrigley _ _____.",
+        "stem": "MOST PROBABLY, William Wrigley ______.",
         "images": [],
         "options": [
           {
@@ -10904,7 +10927,7 @@
         "answer": 2
       },
       {
-        "stem": "The woman advises the man to _ _____.",
+        "stem": "The woman advises the man to ______.",
         "images": [],
         "options": [
           {
@@ -10923,7 +10946,7 @@
         "answer": 0
       },
       {
-        "stem": "The MAN _ _____.",
+        "stem": "The MAN ______.",
         "images": [],
         "options": [
           {
@@ -10942,7 +10965,7 @@
         "answer": 0
       },
       {
-        "stem": "The conversation takes place in a _ _____.",
+        "stem": "The conversation takes place in a ______.",
         "images": [],
         "options": [
           {
@@ -10961,7 +10984,7 @@
         "answer": 1
       },
       {
-        "stem": "The WOMAN got her concert ticket _ _____.",
+        "stem": "The WOMAN got her concert ticket ______.",
         "images": [],
         "options": [
           {
@@ -10980,7 +11003,7 @@
         "answer": 1
       },
       {
-        "stem": "The WOMAN’S plane ticket cost _ _____.",
+        "stem": "The WOMAN’S plane ticket cost ______.",
         "images": [],
         "options": [
           {
@@ -10999,7 +11022,7 @@
         "answer": 0
       },
       {
-        "stem": "The WOMAN stayed _ _____.",
+        "stem": "The WOMAN stayed ______.",
         "images": [],
         "options": [
           {
@@ -11037,7 +11060,7 @@
         "answer": 0
       },
       {
-        "stem": "The WOMAN spent MOST time _ _____.",
+        "stem": "The WOMAN spent MOST time ______.",
         "images": [],
         "options": [
           {
@@ -11075,7 +11098,7 @@
         "answer": 2
       },
       {
-        "stem": "The hotel is called the _ _____.",
+        "stem": "The hotel is called the ______.",
         "images": [],
         "options": [
           {
@@ -11144,7 +11167,7 @@
         "answer": 1
       },
       {
-        "stem": "You will know if you have won on _ _____.",
+        "stem": "You will know if you have won on ______.",
         "images": [],
         "options": [
           {
@@ -11171,7 +11194,7 @@
     "number": 5,
     "questions": [
       {
-        "stem": "The speaker _ _____.",
+        "stem": "The speaker ______.",
         "images": [],
         "options": [
           {
@@ -11190,7 +11213,7 @@
         "answer": 1
       },
       {
-        "stem": "The speaker is at a _ _____.",
+        "stem": "The speaker is at a ______.",
         "images": [],
         "options": [
           {
@@ -11209,7 +11232,7 @@
         "answer": 2
       },
       {
-        "stem": "The speaker is asking somebody _ _____.",
+        "stem": "The speaker is asking somebody ______.",
         "images": [],
         "options": [
           {
@@ -11228,7 +11251,7 @@
         "answer": 1
       },
       {
-        "stem": "MOST PROBABLY, as part of her job, the WOMAN _ _____.",
+        "stem": "MOST PROBABLY, as part of her job, the WOMAN ______.",
         "images": [],
         "options": [
           {
@@ -11266,7 +11289,7 @@
         "answer": 2
       },
       {
-        "stem": "MOST PROBABLY, the speaker _ _____.",
+        "stem": "MOST PROBABLY, the speaker ______.",
         "images": [],
         "options": [
           {
@@ -11285,7 +11308,7 @@
         "answer": 2
       },
       {
-        "stem": "The sweater the woman buys  _ _____.",
+        "stem": "The sweater the woman buys  ______.",
         "images": [],
         "options": [
           {
@@ -11304,7 +11327,7 @@
         "answer": 0
       },
       {
-        "stem": "The cheque was for _ _____.",
+        "stem": "The cheque was for ______.",
         "images": [],
         "options": [
           {
@@ -11348,7 +11371,7 @@
         "answer": 1
       },
       {
-        "stem": "The woman is _ _____.",
+        "stem": "The woman is ______.",
         "images": [],
         "options": [
           {
@@ -11367,7 +11390,7 @@
         "answer": 0
       },
       {
-        "stem": "The MAIN reason for the trip was to _ _____.",
+        "stem": "The MAIN reason for the trip was to ______.",
         "images": [],
         "options": [
           {
@@ -11386,7 +11409,7 @@
         "answer": 1
       },
       {
-        "stem": "The WOMAN says that because she is growing older she _ _____.",
+        "stem": "The WOMAN says that because she is growing older she ______.",
         "images": [],
         "options": [
           {
@@ -11405,7 +11428,7 @@
         "answer": 0
       },
       {
-        "stem": "The woman’s HUSBAND did not go on the trip because he _ _____.",
+        "stem": "The woman’s HUSBAND did not go on the trip because he ______.",
         "images": [],
         "options": [
           {
@@ -11424,7 +11447,7 @@
         "answer": 0
       },
       {
-        "stem": "The WOMAN became friends with her flying teacher _ _____.",
+        "stem": "The WOMAN became friends with her flying teacher ______.",
         "images": [],
         "options": [
           {
@@ -11443,7 +11466,7 @@
         "answer": 1
       },
       {
-        "stem": "The WOMAN’s flying test _ _____.",
+        "stem": "The WOMAN’s flying test ______.",
         "images": [],
         "options": [
           {
@@ -11462,7 +11485,7 @@
         "answer": 2
       },
       {
-        "stem": "The WOMAN spent two days in Thailand to _ _____.",
+        "stem": "The WOMAN spent two days in Thailand to ______.",
         "images": [],
         "options": [
           {
@@ -11481,7 +11504,7 @@
         "answer": 0
       },
       {
-        "stem": "The WOMAN does NOT say _ ____.",
+        "stem": "The WOMAN does NOT say _____.",
         "images": [],
         "options": [
           {
@@ -11500,7 +11523,7 @@
         "answer": 2
       },
       {
-        "stem": "A bad thing about the journey was that the WOMAN could not _ _____",
+        "stem": "A bad thing about the journey was that the WOMAN could not ______",
         "images": [],
         "options": [
           {
@@ -11519,7 +11542,8 @@
         "answer": 1
       }
     ],
-    "audio": "audio/1pqbkZuHpTSSACqC7zQzEw5Lrve0tzGbY.mp3"
+    "audio": "audio/1pqbkZuHpTSSACqC7zQzEw5Lrve0tzGbY.mp3",
+    "revision": "20261028"
   },
   {
     "section": "full",
@@ -11527,7 +11551,7 @@
     "number": 6,
     "questions": [
       {
-        "stem": "Recently, the speaker has _ _____.",
+        "stem": "Recently, the speaker has ______.",
         "images": [],
         "options": [
           {
@@ -11546,7 +11570,7 @@
         "answer": 1
       },
       {
-        "stem": "MOST PROBABLY, the speaker _ _____.",
+        "stem": "MOST PROBABLY, the speaker ______.",
         "images": [],
         "options": [
           {
@@ -11565,7 +11589,7 @@
         "answer": 2
       },
       {
-        "stem": "The speaker asks _ _____.",
+        "stem": "The speaker asks ______.",
         "images": [],
         "options": [
           {
@@ -11584,7 +11608,7 @@
         "answer": 1
       },
       {
-        "stem": "Dubai is NOT the most _ _____.",
+        "stem": "Dubai is NOT the most ______.",
         "images": [],
         "options": [
           {
@@ -11603,7 +11627,7 @@
         "answer": 0
       },
       {
-        "stem": "The speaker _ _____.",
+        "stem": "The speaker ______.",
         "images": [],
         "options": [
           {
@@ -11622,7 +11646,7 @@
         "answer": 1
       },
       {
-        "stem": "The speaker has been a racing driver for _ _____.",
+        "stem": "The speaker has been a racing driver for ______.",
         "images": [],
         "options": [
           {
@@ -11641,7 +11665,7 @@
         "answer": 1
       },
       {
-        "stem": "As part of this diet, you need to _ _____.",
+        "stem": "As part of this diet, you need to ______.",
         "images": [],
         "options": [
           {
@@ -11660,7 +11684,7 @@
         "answer": 1
       },
       {
-        "stem": "The speaker DOES NOT talk about _ _____.",
+        "stem": "The speaker DOES NOT talk about ______.",
         "images": [],
         "options": [
           {
@@ -11679,7 +11703,7 @@
         "answer": 0
       },
       {
-        "stem": "The astronaut they will speak to _ _____.",
+        "stem": "The astronaut they will speak to ______.",
         "images": [],
         "options": [
           {
@@ -11698,7 +11722,7 @@
         "answer": 2
       },
       {
-        "stem": "The speaker DOES NOT say they will speak to the astronaut _ _____.",
+        "stem": "The speaker DOES NOT say they will speak to the astronaut ______.",
         "images": [],
         "options": [
           {
@@ -11717,7 +11741,7 @@
         "answer": 1
       },
       {
-        "stem": "To become an astronaut, Harry Burton prepared for _ _____.",
+        "stem": "To become an astronaut, Harry Burton prepared for ______.",
         "images": [],
         "options": [
           {
@@ -11736,7 +11760,7 @@
         "answer": 2
       },
       {
-        "stem": "The astronaut is doing research into _ _____.",
+        "stem": "The astronaut is doing research into ______.",
         "images": [],
         "options": [
           {
@@ -11755,7 +11779,7 @@
         "answer": 1
       },
       {
-        "stem": "An average school lesson lasts _ _____.",
+        "stem": "An average school lesson lasts ______.",
         "images": [],
         "options": [
           {
@@ -11774,7 +11798,7 @@
         "answer": 1
       },
       {
-        "stem": "The talks will be _ _____.",
+        "stem": "The talks will be ______.",
         "images": [],
         "options": [
           {
@@ -11793,7 +11817,7 @@
         "answer": 2
       },
       {
-        "stem": "Now, Ellie Brown _ _____.",
+        "stem": "Now, Ellie Brown ______.",
         "images": [],
         "options": [
           {
@@ -11856,7 +11880,7 @@
         "answer": 2
       },
       {
-        "stem": "In BOOKSHOPS, Harry Fowler’s book costs _ _____.",
+        "stem": "In BOOKSHOPS, Harry Fowler’s book costs ______.",
         "images": [],
         "options": [
           {
@@ -11883,7 +11907,7 @@
     "number": 7,
     "questions": [
       {
-        "stem": "The speaker plans to do some shopping _ _____.",
+        "stem": "The speaker plans to do some shopping ______.",
         "images": [],
         "options": [
           {
@@ -11902,7 +11926,7 @@
         "answer": 2
       },
       {
-        "stem": "The reservation is for _ _____.",
+        "stem": "The reservation is for ______.",
         "images": [],
         "options": [
           {
@@ -11921,7 +11945,7 @@
         "answer": 1
       },
       {
-        "stem": "When he was young, the speaker _ _____.",
+        "stem": "When he was young, the speaker ______.",
         "images": [],
         "options": [
           {
@@ -11940,7 +11964,7 @@
         "answer": 2
       },
       {
-        "stem": "It took an hour to START GETTING THE LIFEBOATS OUT because _ _____.",
+        "stem": "It took an hour to START GETTING THE LIFEBOATS OUT because ______.",
         "images": [],
         "options": [
           {
@@ -11959,7 +11983,7 @@
         "answer": 0
       },
       {
-        "stem": "The ancient Greeks chewed mastica because _ _____.",
+        "stem": "The ancient Greeks chewed mastica because ______.",
         "images": [],
         "options": [
           {
@@ -12003,7 +12027,7 @@
         "answer": 1
       },
       {
-        "stem": "The speaker is _ _____.",
+        "stem": "The speaker is ______.",
         "images": [],
         "options": [
           {
@@ -12022,7 +12046,7 @@
         "answer": 2
       },
       {
-        "stem": "The wedding is _ _____.",
+        "stem": "The wedding is ______.",
         "images": [],
         "options": [
           {
@@ -12041,7 +12065,7 @@
         "answer": 0
       },
       {
-        "stem": "The train _ _____.",
+        "stem": "The train ______.",
         "images": [],
         "options": [
           {
@@ -12060,7 +12084,7 @@
         "answer": 2
       },
       {
-        "stem": "In Oldsville, the OIL business is NOW _ _____.",
+        "stem": "In Oldsville, the OIL business is NOW ______.",
         "images": [],
         "options": [
           {
@@ -12079,7 +12103,7 @@
         "answer": 0
       },
       {
-        "stem": "During the journey, in the DAYTIME, outside the train you can see _ _____.",
+        "stem": "During the journey, in the DAYTIME, outside the train you can see ______.",
         "images": [],
         "options": [
           {
@@ -12098,7 +12122,7 @@
         "answer": 1
       },
       {
-        "stem": "The bridge _ _____.",
+        "stem": "The bridge ______.",
         "images": [],
         "options": [
           {
@@ -12117,7 +12141,7 @@
         "answer": 0
       },
       {
-        "stem": "The people who ride on the train are PROBABLY MOSTLY _ _____.",
+        "stem": "The people who ride on the train are PROBABLY MOSTLY ______.",
         "images": [],
         "options": [
           {
@@ -12164,7 +12188,7 @@
         "answer": 2
       },
       {
-        "stem": "The stadium _ _____",
+        "stem": "The stadium ______",
         "images": [],
         "options": [
           {
@@ -12183,7 +12207,7 @@
         "answer": 2
       },
       {
-        "stem": "The speaker DOES NOT say that KIRSTY LEYLAND _ _____.",
+        "stem": "The speaker DOES NOT say that KIRSTY LEYLAND ______.",
         "images": [],
         "options": [
           {
@@ -12202,7 +12226,7 @@
         "answer": 0
       },
       {
-        "stem": "The tennis tournament is _ _____.",
+        "stem": "The tennis tournament is ______.",
         "images": [],
         "options": [
           {
@@ -12221,7 +12245,7 @@
         "answer": 2
       },
       {
-        "stem": "The speaker advises people to take the bus because _ _____.",
+        "stem": "The speaker advises people to take the bus because ______.",
         "images": [],
         "options": [
           {
@@ -12240,7 +12264,8 @@
         "answer": 0
       }
     ],
-    "audio": "audio/1AeZsD9nrwzzCt7dSFZ77jslvGkUQK1Fl.mp3"
+    "audio": "audio/1AeZsD9nrwzzCt7dSFZ77jslvGkUQK1Fl.mp3",
+    "revision": "20261028"
   },
   {
     "section": "full",
@@ -12248,7 +12273,7 @@
     "number": 8,
     "questions": [
       {
-        "stem": "The speaker is phoning the hotel to _ _____.",
+        "stem": "The speaker is phoning the hotel to ______.",
         "images": [],
         "options": [
           {
@@ -12267,7 +12292,7 @@
         "answer": 0
       },
       {
-        "stem": "The speaker wants to _ _____.",
+        "stem": "The speaker wants to ______.",
         "images": [],
         "options": [
           {
@@ -12305,7 +12330,7 @@
         "answer": 1
       },
       {
-        "stem": "The fitness centre is NOT _ _____.",
+        "stem": "The fitness centre is NOT ______.",
         "images": [],
         "options": [
           {
@@ -12324,7 +12349,7 @@
         "answer": 1
       },
       {
-        "stem": "The man’s visa card number BEGINS with _ _____.",
+        "stem": "The man’s visa card number BEGINS with ______.",
         "images": [],
         "options": [
           {
@@ -12343,7 +12368,7 @@
         "answer": 2
       },
       {
-        "stem": "The man’s telephone number ENDS with _ _____.",
+        "stem": "The man’s telephone number ENDS with ______.",
         "images": [],
         "options": [
           {
@@ -12362,7 +12387,7 @@
         "answer": 2
       },
       {
-        "stem": "The speaker is NOT _ _____.",
+        "stem": "The speaker is NOT ______.",
         "images": [],
         "options": [
           {
@@ -12381,7 +12406,7 @@
         "answer": 2
       },
       {
-        "stem": "The dairy section is selling _ _____.",
+        "stem": "The dairy section is selling ______.",
         "images": [],
         "options": [
           {
@@ -12400,7 +12425,7 @@
         "answer": 2
       },
       {
-        "stem": "Two bottles of shampoo cost _ _____.",
+        "stem": "Two bottles of shampoo cost ______.",
         "images": [],
         "options": [
           {
@@ -12419,7 +12444,7 @@
         "answer": 0
       },
       {
-        "stem": "You can buy six cans of Cola for _ _____.",
+        "stem": "You can buy six cans of Cola for ______.",
         "images": [],
         "options": [
           {
@@ -12438,7 +12463,7 @@
         "answer": 0
       },
       {
-        "stem": "The boxes of eggs have been reduced to _ _____.",
+        "stem": "The boxes of eggs have been reduced to ______.",
         "images": [],
         "options": [
           {
@@ -12457,7 +12482,7 @@
         "answer": 1
       },
       {
-        "stem": "The information desk is _ _____.",
+        "stem": "The information desk is ______.",
         "images": [],
         "options": [
           {
@@ -12495,7 +12520,7 @@
         "answer": 2
       },
       {
-        "stem": "That morning, the weather was NOT _ _____.",
+        "stem": "That morning, the weather was NOT ______.",
         "images": [],
         "options": [
           {
@@ -12514,7 +12539,7 @@
         "answer": 2
       },
       {
-        "stem": "It started snowing _ _____.",
+        "stem": "It started snowing ______.",
         "images": [],
         "options": [
           {
@@ -12533,7 +12558,7 @@
         "answer": 0
       },
       {
-        "stem": "Mike told people to be quiet because he wanted them to _ ____.",
+        "stem": "Mike told people to be quiet because he wanted them to _____.",
         "images": [],
         "options": [
           {
@@ -12552,7 +12577,7 @@
         "answer": 0
       },
       {
-        "stem": "The car was going slowly because _ _____.",
+        "stem": "The car was going slowly because ______.",
         "images": [],
         "options": [
           {
@@ -12571,7 +12596,7 @@
         "answer": 2
       },
       {
-        "stem": "When the driver asked if they were lost, _ _____.",
+        "stem": "When the driver asked if they were lost, ______.",
         "images": [],
         "options": [
           {
@@ -12590,7 +12615,7 @@
         "answer": 0
       },
       {
-        "stem": "The speaker will go on holiday _ _____.",
+        "stem": "The speaker will go on holiday ______.",
         "images": [],
         "options": [
           {
@@ -12609,7 +12634,7 @@
         "answer": 1
       },
       {
-        "stem": "Speaker DOES NOT say a lot of his friends _ _____.",
+        "stem": "Speaker DOES NOT say a lot of his friends ______.",
         "images": [],
         "options": [
           {
@@ -12628,7 +12653,7 @@
         "answer": 0
       },
       {
-        "stem": "The speaker is going to stay at his parents house because he _ _____.",
+        "stem": "The speaker is going to stay at his parents house because he ______.",
         "images": [],
         "options": [
           {
@@ -12647,7 +12672,7 @@
         "answer": 2
       },
       {
-        "stem": "Getting to his office from his parents’ house takes _ _____.",
+        "stem": "Getting to his office from his parents’ house takes ______.",
         "images": [],
         "options": [
           {
@@ -12666,7 +12691,7 @@
         "answer": 2
       },
       {
-        "stem": "The speaker will probably buy a car only if he _ _____.",
+        "stem": "The speaker will probably buy a car only if he ______.",
         "images": [],
         "options": [
           {
@@ -12723,7 +12748,7 @@
         "answer": 1
       },
       {
-        "stem": "The speaker says that _ _____.",
+        "stem": "The speaker says that ______.",
         "images": [],
         "options": [
           {
@@ -12742,7 +12767,7 @@
         "answer": 1
       },
       {
-        "stem": "The rain _ _____.",
+        "stem": "The rain ______.",
         "images": [],
         "options": [
           {
@@ -12761,7 +12786,7 @@
         "answer": 2
       },
       {
-        "stem": "In the early afternoon, it will NOT be _ _____.",
+        "stem": "In the early afternoon, it will NOT be ______.",
         "images": [],
         "options": [
           {
@@ -12780,7 +12805,7 @@
         "answer": 2
       },
       {
-        "stem": "Tonight, it will be _ _____.",
+        "stem": "Tonight, it will be ______.",
         "images": [],
         "options": [
           {
@@ -12818,7 +12843,8 @@
         "answer": 1
       }
     ],
-    "audio": "audio/1oY7VyBPr5pnohjNKNRlqlWbDY6GdbdkS.mp3"
+    "audio": "audio/1oY7VyBPr5pnohjNKNRlqlWbDY6GdbdkS.mp3",
+    "revision": "20261028"
   },
   {
     "section": "full",
@@ -12826,7 +12852,7 @@
     "number": 9,
     "questions": [
       {
-        "stem": "The speaker is _ _____.",
+        "stem": "The speaker is ______.",
         "images": [],
         "options": [
           {
@@ -12845,7 +12871,7 @@
         "answer": 1
       },
       {
-        "stem": "The MAN says that _ _____.",
+        "stem": "The MAN says that ______.",
         "images": [],
         "options": [
           {
@@ -12883,7 +12909,7 @@
         "answer": 2
       },
       {
-        "stem": "The house is _ _____.",
+        "stem": "The house is ______.",
         "images": [],
         "options": [
           {
@@ -12902,7 +12928,7 @@
         "answer": 2
       },
       {
-        "stem": "The speaker says that _ _____.",
+        "stem": "The speaker says that ______.",
         "images": [],
         "options": [
           {
@@ -12921,7 +12947,7 @@
         "answer": 2
       },
       {
-        "stem": "The speaker’s DAD _ _____.",
+        "stem": "The speaker’s DAD ______.",
         "images": [],
         "options": [
           {
@@ -12940,7 +12966,7 @@
         "answer": 0
       },
       {
-        "stem": "The WOMAN says that _ _____.",
+        "stem": "The WOMAN says that ______.",
         "images": [],
         "options": [
           {
@@ -12959,7 +12985,7 @@
         "answer": 1
       },
       {
-        "stem": "The WOMAN asks _ ____.",
+        "stem": "The WOMAN asks _____.",
         "images": [],
         "options": [
           {
@@ -12978,7 +13004,7 @@
         "answer": 1
       },
       {
-        "stem": "For the visit to the theatre, they will _ _____.",
+        "stem": "For the visit to the theatre, they will ______.",
         "images": [],
         "options": [
           {
@@ -12997,7 +13023,7 @@
         "answer": 1
       },
       {
-        "stem": "They will be sitting together in Rows _ _____.",
+        "stem": "They will be sitting together in Rows ______.",
         "images": [],
         "options": [
           {
@@ -13035,7 +13061,7 @@
         "answer": 2
       },
       {
-        "stem": "At the café, they will NOT have _ _____.",
+        "stem": "At the café, they will NOT have ______.",
         "images": [],
         "options": [
           {
@@ -13054,7 +13080,7 @@
         "answer": 0
       },
       {
-        "stem": "The speaker is MOST PROBABLY somebody who works _ _____.",
+        "stem": "The speaker is MOST PROBABLY somebody who works ______.",
         "images": [],
         "options": [
           {
@@ -13073,7 +13099,7 @@
         "answer": 1
       },
       {
-        "stem": "The FIRST OLD SHIP the speaker found was _ _____.",
+        "stem": "The FIRST OLD SHIP the speaker found was ______.",
         "images": [],
         "options": [
           {
@@ -13092,7 +13118,7 @@
         "answer": 0
       },
       {
-        "stem": "For his full-time job, the man _ _____.",
+        "stem": "For his full-time job, the man ______.",
         "images": [],
         "options": [
           {
@@ -13111,7 +13137,7 @@
         "answer": 1
       },
       {
-        "stem": "The ship the SEABIRD was _ _____.",
+        "stem": "The ship the SEABIRD was ______.",
         "images": [],
         "options": [
           {
@@ -13130,7 +13156,7 @@
         "answer": 1
       },
       {
-        "stem": "The speaker’s friend has found _ _____.",
+        "stem": "The speaker’s friend has found ______.",
         "images": [],
         "options": [
           {
@@ -13182,7 +13208,7 @@
     "number": 10,
     "questions": [
       {
-        "stem": "The speaker _ _____.",
+        "stem": "The speaker ______.",
         "images": [],
         "options": [
           {
@@ -13201,7 +13227,7 @@
         "answer": 0
       },
       {
-        "stem": "The speaker _ _____.",
+        "stem": "The speaker ______.",
         "images": [],
         "options": [
           {
@@ -13220,7 +13246,7 @@
         "answer": 2
       },
       {
-        "stem": "The speaker DOES NOT say that he is _ ____.",
+        "stem": "The speaker DOES NOT say that he is _____.",
         "images": [],
         "options": [
           {
@@ -13264,7 +13290,7 @@
         "answer": 1
       },
       {
-        "stem": "The tip was _ _____.",
+        "stem": "The tip was ______.",
         "images": [],
         "options": [
           {
@@ -13283,7 +13309,7 @@
         "answer": 2
       },
       {
-        "stem": "The speaker _ _____.",
+        "stem": "The speaker ______.",
         "images": [],
         "options": [
           {
@@ -13302,7 +13328,7 @@
         "answer": 0
       },
       {
-        "stem": "The speaker wants to buy a _ _____",
+        "stem": "The speaker wants to buy a ______",
         "images": [],
         "options": [
           {
@@ -13321,7 +13347,7 @@
         "answer": 1
       },
       {
-        "stem": "The speakers are in a _ _____.",
+        "stem": "The speakers are in a ______.",
         "images": [],
         "options": [
           {
@@ -13340,7 +13366,7 @@
         "answer": 0
       },
       {
-        "stem": "What’s On is an entertainment program that tells you what’s going on _ _____.",
+        "stem": "What’s On is an entertainment program that tells you what’s going on ______.",
         "images": [],
         "options": [
           {
@@ -13359,7 +13385,7 @@
         "answer": 2
       },
       {
-        "stem": "The film festival is on for _ _____.",
+        "stem": "The film festival is on for ______.",
         "images": [],
         "options": [
           {
@@ -13378,7 +13404,7 @@
         "answer": 2
       },
       {
-        "stem": "You CANNOT buy a ticket for _ _____.",
+        "stem": "You CANNOT buy a ticket for ______.",
         "images": [],
         "options": [
           {
@@ -13397,7 +13423,7 @@
         "answer": 1
       },
       {
-        "stem": "MOST PROBABLY, the festival _ _____.",
+        "stem": "MOST PROBABLY, the festival ______.",
         "images": [],
         "options": [
           {
@@ -13416,7 +13442,7 @@
         "answer": 2
       },
       {
-        "stem": "There will be _ _____.",
+        "stem": "There will be ______.",
         "images": [],
         "options": [
           {
@@ -13435,7 +13461,7 @@
         "answer": 1
       },
       {
-        "stem": "The speaker does not have a list of films for the festival because _ _____.",
+        "stem": "The speaker does not have a list of films for the festival because ______.",
         "images": [],
         "options": [
           {
@@ -13454,7 +13480,7 @@
         "answer": 2
       },
       {
-        "stem": "The festival will have a film called the Jungle Book, which _ _____.",
+        "stem": "The festival will have a film called the Jungle Book, which ______.",
         "images": [],
         "options": [
           {
@@ -13473,7 +13499,7 @@
         "answer": 2
       },
       {
-        "stem": "The Fly will be on LATE because it is _ _____.",
+        "stem": "The Fly will be on LATE because it is ______.",
         "images": [],
         "options": [
           {
@@ -13492,7 +13518,7 @@
         "answer": 0
       },
       {
-        "stem": "Yellowstone is a _ _____.",
+        "stem": "Yellowstone is a ______.",
         "images": [],
         "options": [
           {
@@ -13511,7 +13537,7 @@
         "answer": 1
       },
       {
-        "stem": "The speaker thinks that Wolves: A Legend Returns to Yellowstone is a _ _____.",
+        "stem": "The speaker thinks that Wolves: A Legend Returns to Yellowstone is a ______.",
         "images": [],
         "options": [
           {
@@ -13538,7 +13564,7 @@
     "number": 11,
     "questions": [
       {
-        "stem": "MOST OF ALL, the speaker feels _ _____.",
+        "stem": "MOST OF ALL, the speaker feels ______.",
         "images": [],
         "options": [
           {
@@ -13557,7 +13583,7 @@
         "answer": 2
       },
       {
-        "stem": "MOST PROBABLY, BRIAN is _ _____.",
+        "stem": "MOST PROBABLY, BRIAN is ______.",
         "images": [],
         "options": [
           {
@@ -13576,7 +13602,7 @@
         "answer": 1
       },
       {
-        "stem": "MOST PROBABLY, GEORGE is _ _____.",
+        "stem": "MOST PROBABLY, GEORGE is ______.",
         "images": [],
         "options": [
           {
@@ -13595,7 +13621,7 @@
         "answer": 0
       },
       {
-        "stem": "The man’s OLD CAR was _ _____.",
+        "stem": "The man’s OLD CAR was ______.",
         "images": [],
         "options": [
           {
@@ -13614,7 +13640,7 @@
         "answer": 0
       },
       {
-        "stem": "Anthony Trollope visited _ _____.",
+        "stem": "Anthony Trollope visited ______.",
         "images": [],
         "options": [
           {
@@ -13652,7 +13678,7 @@
         "answer": 2
       },
       {
-        "stem": "The FIRST speaker _ _____.",
+        "stem": "The FIRST speaker ______.",
         "images": [],
         "options": [
           {
@@ -13671,7 +13697,7 @@
         "answer": 2
       },
       {
-        "stem": "In January, the weather is MOST OFTEN _ _____.",
+        "stem": "In January, the weather is MOST OFTEN ______.",
         "images": [],
         "options": [
           {
@@ -13690,7 +13716,7 @@
         "answer": 1
       },
       {
-        "stem": "MOST PROBABLY, the speaker _ _____.",
+        "stem": "MOST PROBABLY, the speaker ______.",
         "images": [],
         "options": [
           {
@@ -13709,7 +13735,7 @@
         "answer": 2
       },
       {
-        "stem": "The Reynold family lived in the house UNTIL _ _____.",
+        "stem": "The Reynold family lived in the house UNTIL ______.",
         "images": [],
         "options": [
           {
@@ -13728,7 +13754,7 @@
         "answer": 1
       },
       {
-        "stem": "The servants slept _ _____.",
+        "stem": "The servants slept ______.",
         "images": [],
         "options": [
           {
@@ -13747,7 +13773,7 @@
         "answer": 0
       },
       {
-        "stem": "You can see pictures in the _ _____.",
+        "stem": "You can see pictures in the ______.",
         "images": [],
         "options": [
           {
@@ -13766,7 +13792,7 @@
         "answer": 1
       },
       {
-        "stem": "George’s father wanted him to _ _____.",
+        "stem": "George’s father wanted him to ______.",
         "images": [],
         "options": [
           {
@@ -13785,7 +13811,7 @@
         "answer": 1
       },
       {
-        "stem": "The MAN is _ _____.",
+        "stem": "The MAN is ______.",
         "images": [],
         "options": [
           {
@@ -13804,7 +13830,7 @@
         "answer": 0
       },
       {
-        "stem": "The WOMAN thinks the teachers in her class _ _____.",
+        "stem": "The WOMAN thinks the teachers in her class ______.",
         "images": [],
         "options": [
           {
@@ -13823,7 +13849,7 @@
         "answer": 0
       },
       {
-        "stem": "MOST PROBABLY, the WOMAN _ _____.",
+        "stem": "MOST PROBABLY, the WOMAN ______.",
         "images": [],
         "options": [
           {
@@ -13842,7 +13868,7 @@
         "answer": 1
       },
       {
-        "stem": "At 2 o’clock, the WOMAN _ _____.",
+        "stem": "At 2 o’clock, the WOMAN ______.",
         "images": [],
         "options": [
           {
@@ -13861,7 +13887,7 @@
         "answer": 0
       },
       {
-        "stem": "For the MAN, it is NOT okay to have a late night on _ _____.",
+        "stem": "For the MAN, it is NOT okay to have a late night on ______.",
         "images": [],
         "options": [
           {
@@ -13880,7 +13906,8 @@
         "answer": 2
       }
     ],
-    "audio": "audio/1ZA58XLlcjOA9MFuSVN2LiSinvodsueQX.mp3"
+    "audio": "audio/1ZA58XLlcjOA9MFuSVN2LiSinvodsueQX.mp3",
+    "revision": "20261028"
   },
   {
     "section": "full",
@@ -13888,7 +13915,7 @@
     "number": 12,
     "questions": [
       {
-        "stem": "The WOMAN asks the MAN to call her when he _ ______.",
+        "stem": "The WOMAN asks the MAN to call her when he _______.",
         "images": [],
         "options": [
           {
@@ -13907,7 +13934,7 @@
         "answer": 2
       },
       {
-        "stem": "The credit card number is _ _____.",
+        "stem": "The credit card number is ______.",
         "images": [],
         "options": [
           {
@@ -13926,7 +13953,7 @@
         "answer": 1
       },
       {
-        "stem": "NOW, the speaker doesn’t _ _____.",
+        "stem": "NOW, the speaker doesn’t ______.",
         "images": [],
         "options": [
           {
@@ -13945,7 +13972,7 @@
         "answer": 1
       },
       {
-        "stem": "Noor and Nabil are _ _____.",
+        "stem": "Noor and Nabil are ______.",
         "images": [],
         "options": [
           {
@@ -13964,7 +13991,7 @@
         "answer": 1
       },
       {
-        "stem": "The speaker DOES NOT say that _ _____.",
+        "stem": "The speaker DOES NOT say that ______.",
         "images": [],
         "options": [
           {
@@ -13983,7 +14010,7 @@
         "answer": 0
       },
       {
-        "stem": "The speaker went to Germany _ _____.",
+        "stem": "The speaker went to Germany ______.",
         "images": [],
         "options": [
           {
@@ -14002,7 +14029,7 @@
         "answer": 0
       },
       {
-        "stem": "The WOMAN asks _ ____.",
+        "stem": "The WOMAN asks _____.",
         "images": [],
         "options": [
           {
@@ -14021,7 +14048,7 @@
         "answer": 1
       },
       {
-        "stem": "The SECOND speaker _ _____.",
+        "stem": "The SECOND speaker ______.",
         "images": [],
         "options": [
           {
@@ -14040,7 +14067,7 @@
         "answer": 1
       },
       {
-        "stem": "For the visit to the theatre, they will _ _____.",
+        "stem": "For the visit to the theatre, they will ______.",
         "images": [],
         "options": [
           {
@@ -14059,7 +14086,7 @@
         "answer": 1
       },
       {
-        "stem": "They will be sitting together in Rows _ _____.",
+        "stem": "They will be sitting together in Rows ______.",
         "images": [],
         "options": [
           {
@@ -14097,7 +14124,7 @@
         "answer": 2
       },
       {
-        "stem": "At the café, they will NOT have _ _____.",
+        "stem": "At the café, they will NOT have ______.",
         "images": [],
         "options": [
           {
@@ -14116,7 +14143,7 @@
         "answer": 0
       },
       {
-        "stem": "The speaker is MOST PROBABLY somebody who works _ _____.",
+        "stem": "The speaker is MOST PROBABLY somebody who works ______.",
         "images": [],
         "options": [
           {
@@ -14135,7 +14162,7 @@
         "answer": 1
       },
       {
-        "stem": "The FIRST OLD SHIP the speaker found was _ _____.",
+        "stem": "The FIRST OLD SHIP the speaker found was ______.",
         "images": [],
         "options": [
           {
@@ -14154,7 +14181,7 @@
         "answer": 0
       },
       {
-        "stem": "For his full-time job, the man _ _____.",
+        "stem": "For his full-time job, the man ______.",
         "images": [],
         "options": [
           {
@@ -14173,7 +14200,7 @@
         "answer": 1
       },
       {
-        "stem": "The ship the SEABIRD was _ _____.",
+        "stem": "The ship the SEABIRD was ______.",
         "images": [],
         "options": [
           {
@@ -14192,7 +14219,7 @@
         "answer": 1
       },
       {
-        "stem": "The speaker’s friend has found _ _____.",
+        "stem": "The speaker’s friend has found ______.",
         "images": [],
         "options": [
           {
@@ -14244,7 +14271,7 @@
     "number": 13,
     "questions": [
       {
-        "stem": "The speaker _ _____.",
+        "stem": "The speaker ______.",
         "images": [],
         "options": [
           {
@@ -14263,7 +14290,7 @@
         "answer": 2
       },
       {
-        "stem": "The speaker does NOT say that KIRSTY _ _____.",
+        "stem": "The speaker does NOT say that KIRSTY ______.",
         "images": [],
         "options": [
           {
@@ -14282,7 +14309,7 @@
         "answer": 1
       },
       {
-        "stem": "The speaker’s country _ _____.",
+        "stem": "The speaker’s country ______.",
         "images": [],
         "options": [
           {
@@ -14301,7 +14328,7 @@
         "answer": 1
       },
       {
-        "stem": "The question is about _ _____.",
+        "stem": "The question is about ______.",
         "images": [],
         "options": [
           {
@@ -14320,7 +14347,7 @@
         "answer": 1
       },
       {
-        "stem": "MOST PROBABLY, the speaker _ _____.",
+        "stem": "MOST PROBABLY, the speaker ______.",
         "images": [],
         "options": [
           {
@@ -14339,7 +14366,7 @@
         "answer": 2
       },
       {
-        "stem": "The speaker DOES NOT say that the _ _____.",
+        "stem": "The speaker DOES NOT say that the ______.",
         "images": [],
         "options": [
           {
@@ -14358,7 +14385,7 @@
         "answer": 2
       },
       {
-        "stem": "The speakers are _ _____.",
+        "stem": "The speakers are ______.",
         "images": [],
         "options": [
           {
@@ -14377,7 +14404,7 @@
         "answer": 1
       },
       {
-        "stem": "MOST PROBABLY, the MAN wants to go somewhere _ _____.",
+        "stem": "MOST PROBABLY, the MAN wants to go somewhere ______.",
         "images": [],
         "options": [
           {
@@ -14396,7 +14423,7 @@
         "answer": 1
       },
       {
-        "stem": "What’s On is an entertainment program that tells you what’s going on _ _____.",
+        "stem": "What’s On is an entertainment program that tells you what’s going on ______.",
         "images": [],
         "options": [
           {
@@ -14415,7 +14442,7 @@
         "answer": 2
       },
       {
-        "stem": "The film festival is on for _ _____.",
+        "stem": "The film festival is on for ______.",
         "images": [],
         "options": [
           {
@@ -14434,7 +14461,7 @@
         "answer": 2
       },
       {
-        "stem": "You CANNOT buy a ticket for _ _____.",
+        "stem": "You CANNOT buy a ticket for ______.",
         "images": [],
         "options": [
           {
@@ -14453,7 +14480,7 @@
         "answer": 1
       },
       {
-        "stem": "MOST PROBABLY, the festival _ _____.",
+        "stem": "MOST PROBABLY, the festival ______.",
         "images": [],
         "options": [
           {
@@ -14472,7 +14499,7 @@
         "answer": 2
       },
       {
-        "stem": "There will be _ _____.",
+        "stem": "There will be ______.",
         "images": [],
         "options": [
           {
@@ -14491,7 +14518,7 @@
         "answer": 1
       },
       {
-        "stem": "The speaker does not have a list of films for the festival because _ _____.",
+        "stem": "The speaker does not have a list of films for the festival because ______.",
         "images": [],
         "options": [
           {
@@ -14510,7 +14537,7 @@
         "answer": 2
       },
       {
-        "stem": "The festival will have a film called the Jungle Book, which _ _____.",
+        "stem": "The festival will have a film called the Jungle Book, which ______.",
         "images": [],
         "options": [
           {
@@ -14529,7 +14556,7 @@
         "answer": 2
       },
       {
-        "stem": "The Fly will be on LATE because it is _ _____.",
+        "stem": "The Fly will be on LATE because it is ______.",
         "images": [],
         "options": [
           {
@@ -14548,7 +14575,7 @@
         "answer": 0
       },
       {
-        "stem": "Yellowstone is a _ _____.",
+        "stem": "Yellowstone is a ______.",
         "images": [],
         "options": [
           {
@@ -14567,7 +14594,7 @@
         "answer": 1
       },
       {
-        "stem": "The speaker thinks that Wolves: A Legend Returns to Yellowstone is a _ _____.",
+        "stem": "The speaker thinks that Wolves: A Legend Returns to Yellowstone is a ______.",
         "images": [],
         "options": [
           {
@@ -14586,7 +14613,8 @@
         "answer": 1
       }
     ],
-    "audio": "audio/1G_fPuXdD-UFo257ROwSxyps52lny92nT.mp3"
+    "audio": "audio/1G_fPuXdD-UFo257ROwSxyps52lny92nT.mp3",
+    "revision": "20261028"
   },
   {
     "section": "full",
@@ -14594,7 +14622,7 @@
     "number": 14,
     "questions": [
       {
-        "stem": "The speaker _ _____.",
+        "stem": "The speaker ______.",
         "images": [],
         "options": [
           {
@@ -14613,7 +14641,7 @@
         "answer": 1
       },
       {
-        "stem": "MOST PROBABLY, Tom is _ _____.",
+        "stem": "MOST PROBABLY, Tom is ______.",
         "images": [],
         "options": [
           {
@@ -14632,7 +14660,7 @@
         "answer": 2
       },
       {
-        "stem": "The speaker DOES NOT say that Melbourne is _ _____.",
+        "stem": "The speaker DOES NOT say that Melbourne is ______.",
         "images": [],
         "options": [
           {
@@ -14651,7 +14679,7 @@
         "answer": 1
       },
       {
-        "stem": "MOST PROBABLY, Martin’s OLD boss was _ _____.",
+        "stem": "MOST PROBABLY, Martin’s OLD boss was ______.",
         "images": [],
         "options": [
           {
@@ -14670,7 +14698,7 @@
         "answer": 2
       },
       {
-        "stem": "The speaker DOES NOT mention the _ _____.",
+        "stem": "The speaker DOES NOT mention the ______.",
         "images": [],
         "options": [
           {
@@ -14689,7 +14717,7 @@
         "answer": 0
       },
       {
-        "stem": "The WOMAN talks about where she _ _____.",
+        "stem": "The WOMAN talks about where she ______.",
         "images": [],
         "options": [
           {
@@ -14708,7 +14736,7 @@
         "answer": 1
       },
       {
-        "stem": "MOST PROBABLY, the speaker _ _____.",
+        "stem": "MOST PROBABLY, the speaker ______.",
         "images": [],
         "options": [
           {
@@ -14727,7 +14755,7 @@
         "answer": 2
       },
       {
-        "stem": "MOST PROBABLY, Acapulco is a _ _____.",
+        "stem": "MOST PROBABLY, Acapulco is a ______.",
         "images": [],
         "options": [
           {
@@ -14746,7 +14774,7 @@
         "answer": 0
       },
       {
-        "stem": "MOST PROBABLY, the speaker _ _____.",
+        "stem": "MOST PROBABLY, the speaker ______.",
         "images": [],
         "options": [
           {
@@ -14765,7 +14793,7 @@
         "answer": 2
       },
       {
-        "stem": "The Reynold family lived in the house UNTIL _ _____.",
+        "stem": "The Reynold family lived in the house UNTIL ______.",
         "images": [],
         "options": [
           {
@@ -14784,7 +14812,7 @@
         "answer": 1
       },
       {
-        "stem": "The servants slept _ _____.",
+        "stem": "The servants slept ______.",
         "images": [],
         "options": [
           {
@@ -14803,7 +14831,7 @@
         "answer": 0
       },
       {
-        "stem": "You can see pictures in the _ _____.",
+        "stem": "You can see pictures in the ______.",
         "images": [],
         "options": [
           {
@@ -14822,7 +14850,7 @@
         "answer": 1
       },
       {
-        "stem": "George’s father wanted him to _ _____.",
+        "stem": "George’s father wanted him to ______.",
         "images": [],
         "options": [
           {
@@ -14841,7 +14869,7 @@
         "answer": 1
       },
       {
-        "stem": "The MAN is _ _____.",
+        "stem": "The MAN is ______.",
         "images": [],
         "options": [
           {
@@ -14860,7 +14888,7 @@
         "answer": 0
       },
       {
-        "stem": "The WOMAN thinks the teachers in her class _ _____.",
+        "stem": "The WOMAN thinks the teachers in her class ______.",
         "images": [],
         "options": [
           {
@@ -14879,7 +14907,7 @@
         "answer": 0
       },
       {
-        "stem": "MOST PROBABLY, the WOMAN _ _____.",
+        "stem": "MOST PROBABLY, the WOMAN ______.",
         "images": [],
         "options": [
           {
@@ -14898,7 +14926,7 @@
         "answer": 1
       },
       {
-        "stem": "At 2 o’clock, the WOMAN _ _____.",
+        "stem": "At 2 o’clock, the WOMAN ______.",
         "images": [],
         "options": [
           {
@@ -14917,7 +14945,7 @@
         "answer": 0
       },
       {
-        "stem": "For the MAN, it is NOT okay to have a late night on _ _____.",
+        "stem": "For the MAN, it is NOT okay to have a late night on ______.",
         "images": [],
         "options": [
           {
@@ -14936,7 +14964,8 @@
         "answer": 2
       }
     ],
-    "audio": "audio/1LyQWYPe9MiqU6W_Y8siVwR1vhYWtm1z1.mp3"
+    "audio": "audio/1LyQWYPe9MiqU6W_Y8siVwR1vhYWtm1z1.mp3",
+    "revision": "20261028"
   },
   {
     "section": "full",
@@ -14944,7 +14973,7 @@
     "number": 15,
     "questions": [
       {
-        "stem": "Scott has lived in Harbin for _ _____.",
+        "stem": "Scott has lived in Harbin for ______.",
         "images": [],
         "options": [
           {
@@ -14963,7 +14992,7 @@
         "answer": 2
       },
       {
-        "stem": "Scott moved to China because _ _____.",
+        "stem": "Scott moved to China because ______.",
         "images": [],
         "options": [
           {
@@ -14982,7 +15011,7 @@
         "answer": 1
       },
       {
-        "stem": "After Scott went to Harbin, he _ _____.",
+        "stem": "After Scott went to Harbin, he ______.",
         "images": [],
         "options": [
           {
@@ -15001,7 +15030,7 @@
         "answer": 1
       },
       {
-        "stem": "What does Scott say about buildings in Harbin? Scott says he loves _ _____.",
+        "stem": "What does Scott say about buildings in Harbin? Scott says he loves ______.",
         "images": [],
         "options": [
           {
@@ -15020,7 +15049,7 @@
         "answer": 2
       },
       {
-        "stem": "Scott _ _____.",
+        "stem": "Scott ______.",
         "images": [],
         "options": [
           {
@@ -15039,7 +15068,7 @@
         "answer": 1
       },
       {
-        "stem": "The man whose car was stuck in snow needed to get to _ _____.",
+        "stem": "The man whose car was stuck in snow needed to get to ______.",
         "images": [],
         "options": [
           {
@@ -15077,7 +15106,7 @@
         "answer": 2
       },
       {
-        "stem": "The speaker, Steve, most probably got to the Avon Bridge _ _____.",
+        "stem": "The speaker, Steve, most probably got to the Avon Bridge ______.",
         "images": [],
         "options": [
           {
@@ -15115,7 +15144,7 @@
         "answer": 2
       },
       {
-        "stem": "The public phone box number is the same as the speaker’s _ _____.",
+        "stem": "The public phone box number is the same as the speaker’s ______.",
         "images": [],
         "options": [
           {
@@ -15134,7 +15163,7 @@
         "answer": 0
       },
       {
-        "stem": "Auckland is a _ _____.",
+        "stem": "Auckland is a ______.",
         "images": [],
         "options": [
           {
@@ -15153,7 +15182,7 @@
         "answer": 0
       },
       {
-        "stem": "Each DAY, the tower has about _ _____.",
+        "stem": "Each DAY, the tower has about ______.",
         "images": [],
         "options": [
           {
@@ -15172,7 +15201,7 @@
         "answer": 1
       },
       {
-        "stem": "The Observation Tower closes at half-past ten on _ _____.",
+        "stem": "The Observation Tower closes at half-past ten on ______.",
         "images": [],
         "options": [
           {
@@ -15191,7 +15220,7 @@
         "answer": 0
       },
       {
-        "stem": "Sky Jump operates to nine-thirty in _ _____.",
+        "stem": "Sky Jump operates to nine-thirty in ______.",
         "images": [],
         "options": [
           {
@@ -15210,7 +15239,7 @@
         "answer": 2
       },
       {
-        "stem": "The ORBIT Restaurant is special because _ _____.",
+        "stem": "The ORBIT Restaurant is special because ______.",
         "images": [],
         "options": [
           {
@@ -15248,7 +15277,7 @@
         "answer": 1
       },
       {
-        "stem": "The speaker says the weather is making problems for _ _____.",
+        "stem": "The speaker says the weather is making problems for ______.",
         "images": [],
         "options": [
           {
@@ -15267,7 +15296,7 @@
         "answer": 1
       },
       {
-        "stem": "People are still driving on the _ _____.",
+        "stem": "People are still driving on the ______.",
         "images": [],
         "options": [
           {
@@ -15286,7 +15315,7 @@
         "answer": 2
       },
       {
-        "stem": "Trains going south to Edinburgh _ _____.",
+        "stem": "Trains going south to Edinburgh ______.",
         "images": [],
         "options": [
           {
@@ -15305,7 +15334,7 @@
         "answer": 1
       },
       {
-        "stem": "The police have said that, because of the weather, people _ _____.",
+        "stem": "The police have said that, because of the weather, people ______.",
         "images": [],
         "options": [
           {
@@ -15324,7 +15353,7 @@
         "answer": 2
       },
       {
-        "stem": "The speaker is talking to a group of _ _____.",
+        "stem": "The speaker is talking to a group of ______.",
         "images": [],
         "options": [
           {
@@ -15343,7 +15372,7 @@
         "answer": 2
       },
       {
-        "stem": "The museum normally closes at _ _____.",
+        "stem": "The museum normally closes at ______.",
         "images": [],
         "options": [
           {
@@ -15362,7 +15391,7 @@
         "answer": 0
       },
       {
-        "stem": "When you bring a school group to the museum, you _ ____.",
+        "stem": "When you bring a school group to the museum, you _____.",
         "images": [],
         "options": [
           {
@@ -15381,7 +15410,7 @@
         "answer": 2
       },
       {
-        "stem": "The guided tour lasts about _ _____.",
+        "stem": "The guided tour lasts about ______.",
         "images": [],
         "options": [
           {
@@ -15400,7 +15429,7 @@
         "answer": 1
       },
       {
-        "stem": "If you are going to eat, you should probably reserve seating _ ____.",
+        "stem": "If you are going to eat, you should probably reserve seating _____.",
         "images": [],
         "options": [
           {
@@ -15419,7 +15448,7 @@
         "answer": 1
       },
       {
-        "stem": "Students have to check in their backpacks so they don’t _ ______.",
+        "stem": "Students have to check in their backpacks so they don’t _______.",
         "images": [],
         "options": [
           {
@@ -15438,7 +15467,7 @@
         "answer": 2
       },
       {
-        "stem": "What does the speaker suggest about students taking photographs? They _ ____.",
+        "stem": "What does the speaker suggest about students taking photographs? They _____.",
         "images": [],
         "options": [
           {
@@ -15457,7 +15486,7 @@
         "answer": 2
       },
       {
-        "stem": "On the ground floor, there is a place that _ _____.",
+        "stem": "On the ground floor, there is a place that ______.",
         "images": [],
         "options": [
           {
@@ -15476,7 +15505,7 @@
         "answer": 2
       },
       {
-        "stem": "The damage to the activity room was caused by _ _____.",
+        "stem": "The damage to the activity room was caused by ______.",
         "images": [],
         "options": [
           {
@@ -15495,7 +15524,7 @@
         "answer": 2
       },
       {
-        "stem": "The dinosaur games DO NOT teach students about _ _____.",
+        "stem": "The dinosaur games DO NOT teach students about ______.",
         "images": [],
         "options": [
           {
@@ -15514,7 +15543,8 @@
         "answer": 2
       }
     ],
-    "audio": "audio/1yetdwglkYimxbw24MRHiWE-bXewfFuh9.mp3"
+    "audio": "audio/1yetdwglkYimxbw24MRHiWE-bXewfFuh9.mp3",
+    "revision": "20261028"
   },
   {
     "section": "full",
@@ -15522,7 +15552,7 @@
     "number": 16,
     "questions": [
       {
-        "stem": "The speaker is _ _____.",
+        "stem": "The speaker is ______.",
         "images": [],
         "options": [
           {
@@ -15541,7 +15571,7 @@
         "answer": 0
       },
       {
-        "stem": "The speaker is talking to people who are standing _ _____.",
+        "stem": "The speaker is talking to people who are standing ______.",
         "images": [],
         "options": [
           {
@@ -15560,7 +15590,7 @@
         "answer": 1
       },
       {
-        "stem": "The water was _ _____.",
+        "stem": "The water was ______.",
         "images": [],
         "options": [
           {
@@ -15579,7 +15609,7 @@
         "answer": 1
       },
       {
-        "stem": "The site was a good place for manufacturing because it _ _____.",
+        "stem": "The site was a good place for manufacturing because it ______.",
         "images": [],
         "options": [
           {
@@ -15598,7 +15628,7 @@
         "answer": 0
       },
       {
-        "stem": "Some water-wheels were first built in the _ _____.",
+        "stem": "Some water-wheels were first built in the ______.",
         "images": [],
         "options": [
           {
@@ -15617,7 +15647,7 @@
         "answer": 0
       },
       {
-        "stem": "The iron forge was built _ _____.",
+        "stem": "The iron forge was built ______.",
         "images": [],
         "options": [
           {
@@ -15655,7 +15685,7 @@
         "answer": 1
       },
       {
-        "stem": "The invention of trains allowed industry to move to _ _____.",
+        "stem": "The invention of trains allowed industry to move to ______.",
         "images": [],
         "options": [
           {
@@ -15674,7 +15704,7 @@
         "answer": 1
       },
       {
-        "stem": "The speaker gives the people a _ _____.",
+        "stem": "The speaker gives the people a ______.",
         "images": [],
         "options": [
           {
@@ -15693,7 +15723,7 @@
         "answer": 2
       },
       {
-        "stem": "After she points out where everything is, the speaker will _ _____.",
+        "stem": "After she points out where everything is, the speaker will ______.",
         "images": [],
         "options": [
           {
@@ -15712,7 +15742,7 @@
         "answer": 0
       },
       {
-        "stem": "The shopping centre, Red Sands Park, is _ _____.",
+        "stem": "The shopping centre, Red Sands Park, is ______.",
         "images": [],
         "options": [
           {
@@ -15731,7 +15761,7 @@
         "answer": 2
       },
       {
-        "stem": "Will Payne _ _____.",
+        "stem": "Will Payne ______.",
         "images": [],
         "options": [
           {
@@ -15750,7 +15780,7 @@
         "answer": 0
       },
       {
-        "stem": "The location for Red Sands was chosen because _ _____.",
+        "stem": "The location for Red Sands was chosen because ______.",
         "images": [],
         "options": [
           {
@@ -15769,7 +15799,7 @@
         "answer": 0
       },
       {
-        "stem": "The company got permission for Red Sands _ _____.",
+        "stem": "The company got permission for Red Sands ______.",
         "images": [],
         "options": [
           {
@@ -15788,7 +15818,7 @@
         "answer": 0
       },
       {
-        "stem": "The woman judges that Red Sands is successful because _ _____.",
+        "stem": "The woman judges that Red Sands is successful because ______.",
         "images": [],
         "options": [
           {
@@ -15807,7 +15837,7 @@
         "answer": 2
       },
       {
-        "stem": "The shops at Red Sands _ _____.",
+        "stem": "The shops at Red Sands ______.",
         "images": [],
         "options": [
           {
@@ -15826,7 +15856,7 @@
         "answer": 2
       },
       {
-        "stem": "The speakers are standing in _ _____.",
+        "stem": "The speakers are standing in ______.",
         "images": [],
         "options": [
           {
@@ -15845,7 +15875,7 @@
         "answer": 2
       },
       {
-        "stem": "When he went to the United States, the man DID NOT visit malls in _ _____.",
+        "stem": "When he went to the United States, the man DID NOT visit malls in ______.",
         "images": [],
         "options": [
           {
@@ -15864,7 +15894,7 @@
         "answer": 1
       },
       {
-        "stem": "The man suggests that families argue when they go shopping because they _ ____.",
+        "stem": "The man suggests that families argue when they go shopping because they _____.",
         "images": [],
         "options": [
           {
@@ -15883,7 +15913,7 @@
         "answer": 0
       },
       {
-        "stem": "How will Red Sands make shopping less tiring? It will _ _____.",
+        "stem": "How will Red Sands make shopping less tiring? It will ______.",
         "images": [],
         "options": [
           {
@@ -15902,7 +15932,7 @@
         "answer": 1
       },
       {
-        "stem": "This telephone call is to _ _____.",
+        "stem": "This telephone call is to ______.",
         "images": [],
         "options": [
           {
@@ -15921,7 +15951,7 @@
         "answer": 1
       },
       {
-        "stem": "If you want to say that something is wrong, you should press _ _____.",
+        "stem": "If you want to say that something is wrong, you should press ______.",
         "images": [],
         "options": [
           {
@@ -15940,7 +15970,7 @@
         "answer": 2
       },
       {
-        "stem": "The company started offering walking holidays _ _____.",
+        "stem": "The company started offering walking holidays ______.",
         "images": [],
         "options": [
           {
@@ -15959,7 +15989,7 @@
         "answer": 0
       },
       {
-        "stem": "The company operates in _ _____.",
+        "stem": "The company operates in ______.",
         "images": [],
         "options": [
           {
@@ -15978,7 +16008,7 @@
         "answer": 2
       },
       {
-        "stem": "In the coming year, the company is planning to develop _ _____.",
+        "stem": "In the coming year, the company is planning to develop ______.",
         "images": [],
         "options": [
           {
@@ -15997,7 +16027,7 @@
         "answer": 1
       },
       {
-        "stem": "The pride of Travel-Lite is how _ _____.",
+        "stem": "The pride of Travel-Lite is how ______.",
         "images": [],
         "options": [
           {
@@ -16016,7 +16046,7 @@
         "answer": 1
       },
       {
-        "stem": "Every day, there are _ _____.",
+        "stem": "Every day, there are ______.",
         "images": [],
         "options": [
           {
@@ -16035,7 +16065,7 @@
         "answer": 1
       },
       {
-        "stem": "For supplements, the speaker’s company, Travel-Lite, charges _ _____.",
+        "stem": "For supplements, the speaker’s company, Travel-Lite, charges ______.",
         "images": [],
         "options": [
           {
@@ -16054,7 +16084,7 @@
         "answer": 2
       },
       {
-        "stem": "The dinner tables are designed _ _____.",
+        "stem": "The dinner tables are designed ______.",
         "images": [],
         "options": [
           {
@@ -16092,7 +16122,8 @@
         "answer": 0
       }
     ],
-    "audio": "audio/1K6H9aBAnYaJJ3wE1c7TDjnJhBkSh8JmF.mp3"
+    "audio": "audio/1K6H9aBAnYaJJ3wE1c7TDjnJhBkSh8JmF.mp3",
+    "revision": "20261028"
   },
   {
     "section": "full",
@@ -16100,7 +16131,7 @@
     "number": 17,
     "questions": [
       {
-        "stem": "The speaker says he lives _ ____.",
+        "stem": "The speaker says he lives _____.",
         "images": [],
         "options": [
           {
@@ -16119,7 +16150,7 @@
         "answer": 1
       },
       {
-        "stem": "The speaker says his best friend, Talal _ _____.",
+        "stem": "The speaker says his best friend, Talal ______.",
         "images": [],
         "options": [
           {
@@ -16138,7 +16169,7 @@
         "answer": 2
       },
       {
-        "stem": "The speaker’s country has a population of _ _____.",
+        "stem": "The speaker’s country has a population of ______.",
         "images": [],
         "options": [
           {
@@ -16176,7 +16207,7 @@
         "answer": 2
       },
       {
-        "stem": "The speaker DOES NOT say that her country has _ _____.",
+        "stem": "The speaker DOES NOT say that her country has ______.",
         "images": [],
         "options": [
           {
@@ -16195,7 +16226,7 @@
         "answer": 0
       },
       {
-        "stem": "Which price do you hear? A hundred and _ _____.",
+        "stem": "Which price do you hear? A hundred and ______.",
         "images": [],
         "options": [
           {
@@ -16233,7 +16264,7 @@
         "answer": 2
       },
       {
-        "stem": "The woman is _ _____.",
+        "stem": "The woman is ______.",
         "images": [],
         "options": [
           {
@@ -16277,7 +16308,7 @@
         "answer": 2
       },
       {
-        "stem": "The best place to buy tickets is probably STOP _ _____.",
+        "stem": "The best place to buy tickets is probably STOP ______.",
         "images": [],
         "options": [
           {
@@ -16296,7 +16327,7 @@
         "answer": 0
       },
       {
-        "stem": "STOP A is probably best for people who like _ _____.",
+        "stem": "STOP A is probably best for people who like ______.",
         "images": [],
         "options": [
           {
@@ -16315,7 +16346,7 @@
         "answer": 1
       },
       {
-        "stem": "If you go to STOP B, you will have a view of _ _____.",
+        "stem": "If you go to STOP B, you will have a view of ______.",
         "images": [],
         "options": [
           {
@@ -16334,7 +16365,7 @@
         "answer": 0
       },
       {
-        "stem": "How did the soldiers probably cross the river at STOP C? They _ _____.",
+        "stem": "How did the soldiers probably cross the river at STOP C? They ______.",
         "images": [],
         "options": [
           {
@@ -16353,7 +16384,7 @@
         "answer": 1
       },
       {
-        "stem": "STOP D is probably best for people who like _ _____.",
+        "stem": "STOP D is probably best for people who like ______.",
         "images": [],
         "options": [
           {
@@ -16372,7 +16403,7 @@
         "answer": 1
       },
       {
-        "stem": "The Top Bus Tour Buses run every _ _____.",
+        "stem": "The Top Bus Tour Buses run every ______.",
         "images": [],
         "options": [
           {
@@ -16391,7 +16422,7 @@
         "answer": 0
       },
       {
-        "stem": "If you want further details, you should phone Top Bus on 0208 944 _ _____.",
+        "stem": "If you want further details, you should phone Top Bus on 0208 944 ______.",
         "images": [],
         "options": [
           {
@@ -16410,7 +16441,7 @@
         "answer": 2
       },
       {
-        "stem": "The Number One sightseeing tour buses start running from Central Station at _ _____.",
+        "stem": "The Number One sightseeing tour buses start running from Central Station at ______.",
         "images": [],
         "options": [
           {
@@ -16429,7 +16460,7 @@
         "answer": 2
       },
       {
-        "stem": "The talk is MAINLY about sightseeing in a _ _____.",
+        "stem": "The talk is MAINLY about sightseeing in a ______.",
         "images": [],
         "options": [
           {
@@ -16456,7 +16487,7 @@
     "number": 18,
     "questions": [
       {
-        "stem": "The man is most probably buying _ _____.",
+        "stem": "The man is most probably buying ______.",
         "images": [],
         "options": [
           {
@@ -16475,7 +16506,7 @@
         "answer": 0
       },
       {
-        "stem": "The woman says she _ _____.",
+        "stem": "The woman says she ______.",
         "images": [],
         "options": [
           {
@@ -16513,7 +16544,7 @@
         "answer": 0
       },
       {
-        "stem": "When did the man FIRST see the papers? When he _ _____.",
+        "stem": "When did the man FIRST see the papers? When he ______.",
         "images": [],
         "options": [
           {
@@ -16532,7 +16563,7 @@
         "answer": 0
       },
       {
-        "stem": "The woman is looking for something _ _____.",
+        "stem": "The woman is looking for something ______.",
         "images": [],
         "options": [
           {
@@ -16551,7 +16582,7 @@
         "answer": 2
       },
       {
-        "stem": "The speaker is _ _____.",
+        "stem": "The speaker is ______.",
         "images": [],
         "options": [
           {
@@ -16570,7 +16601,7 @@
         "answer": 1
       },
       {
-        "stem": "The speaker _ _____.",
+        "stem": "The speaker ______.",
         "images": [],
         "options": [
           {
@@ -16589,7 +16620,7 @@
         "answer": 2
       },
       {
-        "stem": "The speaker _ _____.",
+        "stem": "The speaker ______.",
         "images": [],
         "options": [
           {
@@ -16608,7 +16639,7 @@
         "answer": 0
       },
       {
-        "stem": "The WOMAN is most probably a _ _____.",
+        "stem": "The WOMAN is most probably a ______.",
         "images": [],
         "options": [
           {
@@ -16627,7 +16658,7 @@
         "answer": 1
       },
       {
-        "stem": "The woman’s name is spelled _ _____.",
+        "stem": "The woman’s name is spelled ______.",
         "images": [],
         "options": [
           {
@@ -16646,7 +16677,7 @@
         "answer": 1
       },
       {
-        "stem": "The woman wants to stay in hall for _ _____.",
+        "stem": "The woman wants to stay in hall for ______.",
         "images": [],
         "options": [
           {
@@ -16665,7 +16696,7 @@
         "answer": 1
       },
       {
-        "stem": "The woman prefers to _ _____.",
+        "stem": "The woman prefers to ______.",
         "images": [],
         "options": [
           {
@@ -16684,7 +16715,7 @@
         "answer": 2
       },
       {
-        "stem": "The bedsits are probably _ _____.",
+        "stem": "The bedsits are probably ______.",
         "images": [],
         "options": [
           {
@@ -16703,7 +16734,7 @@
         "answer": 1
       },
       {
-        "stem": "The woman decides to stay in a _ _____.",
+        "stem": "The woman decides to stay in a ______.",
         "images": [],
         "options": [
           {
@@ -16722,7 +16753,7 @@
         "answer": 0
       },
       {
-        "stem": "The woman DOES NOT say she likes _ _____.",
+        "stem": "The woman DOES NOT say she likes ______.",
         "images": [],
         "options": [
           {
@@ -16741,7 +16772,7 @@
         "answer": 2
       },
       {
-        "stem": "Out-of-town halls _ _____.",
+        "stem": "Out-of-town halls ______.",
         "images": [],
         "options": [
           {
@@ -16760,7 +16791,7 @@
         "answer": 2
       },
       {
-        "stem": "The woman wants to stay somewhere with a shared area because _ _____.",
+        "stem": "The woman wants to stay somewhere with a shared area because ______.",
         "images": [],
         "options": [
           {
@@ -16779,7 +16810,7 @@
         "answer": 0
       },
       {
-        "stem": "The woman’s contact telephone number is _ _____.",
+        "stem": "The woman’s contact telephone number is ______.",
         "images": [],
         "options": [
           {
@@ -16806,7 +16837,7 @@
     "number": 19,
     "questions": [
       {
-        "stem": "At the moment, the speaker  _ _____.",
+        "stem": "At the moment, the speaker  ______.",
         "images": [],
         "options": [
           {
@@ -16825,7 +16856,7 @@
         "answer": 1
       },
       {
-        "stem": "The speaker DOES NOT say her NEW flat is _ _____.",
+        "stem": "The speaker DOES NOT say her NEW flat is ______.",
         "images": [],
         "options": [
           {
@@ -16844,7 +16875,7 @@
         "answer": 2
       },
       {
-        "stem": "When Swedish people visit England, they say that the _ _____.",
+        "stem": "When Swedish people visit England, they say that the ______.",
         "images": [],
         "options": [
           {
@@ -16863,7 +16894,7 @@
         "answer": 1
       },
       {
-        "stem": "The speaker says that, in some ways, the most interesting city was _ _____.",
+        "stem": "The speaker says that, in some ways, the most interesting city was ______.",
         "images": [],
         "options": [
           {
@@ -16882,7 +16913,7 @@
         "answer": 0
       },
       {
-        "stem": "What does the speaker say about her university studies? She _ _____.",
+        "stem": "What does the speaker say about her university studies? She ______.",
         "images": [],
         "options": [
           {
@@ -16901,7 +16932,7 @@
         "answer": 1
       },
       {
-        "stem": "The speaker spilt his drink on _ _____.",
+        "stem": "The speaker spilt his drink on ______.",
         "images": [],
         "options": [
           {
@@ -16920,7 +16951,7 @@
         "answer": 2
       },
       {
-        "stem": "The speaker and her husband _ _____.",
+        "stem": "The speaker and her husband ______.",
         "images": [],
         "options": [
           {
@@ -16958,7 +16989,7 @@
         "answer": 2
       },
       {
-        "stem": "The Bridge Hotel is a hotel _ _____.",
+        "stem": "The Bridge Hotel is a hotel ______.",
         "images": [],
         "options": [
           {
@@ -16977,7 +17008,7 @@
         "answer": 1
       },
       {
-        "stem": "The Bridge Hotel is in _ _____.",
+        "stem": "The Bridge Hotel is in ______.",
         "images": [],
         "options": [
           {
@@ -16996,7 +17027,7 @@
         "answer": 0
       },
       {
-        "stem": "The Bridge Hotel DOES NOT have _ _____.",
+        "stem": "The Bridge Hotel DOES NOT have ______.",
         "images": [],
         "options": [
           {
@@ -17015,7 +17046,7 @@
         "answer": 1
       },
       {
-        "stem": "The hotel restaurant _ _____.",
+        "stem": "The hotel restaurant ______.",
         "images": [],
         "options": [
           {
@@ -17034,7 +17065,7 @@
         "answer": 1
       },
       {
-        "stem": "The hotel _ _____.",
+        "stem": "The hotel ______.",
         "images": [],
         "options": [
           {
@@ -17053,7 +17084,7 @@
         "answer": 1
       },
       {
-        "stem": "The two-day break _ _____.",
+        "stem": "The two-day break ______.",
         "images": [],
         "options": [
           {
@@ -17072,7 +17103,7 @@
         "answer": 1
       },
       {
-        "stem": "The three-day break _ _____.",
+        "stem": "The three-day break ______.",
         "images": [],
         "options": [
           {
@@ -17110,7 +17141,7 @@
         "answer": 2
       },
       {
-        "stem": "If you go on the five-day break, beauty therapy is available _ _____.",
+        "stem": "If you go on the five-day break, beauty therapy is available ______.",
         "images": [],
         "options": [
           {
@@ -17129,7 +17160,7 @@
         "answer": 2
       },
       {
-        "stem": "For more information on the special packages, you should call _ _____.",
+        "stem": "For more information on the special packages, you should call ______.",
         "images": [],
         "options": [
           {
@@ -17148,7 +17179,8 @@
         "answer": 0
       }
     ],
-    "audio": "audio/1yydpCS3d78kXGNlLMVmYyHm_LBgmIT3Z.mp3"
+    "audio": "audio/1yydpCS3d78kXGNlLMVmYyHm_LBgmIT3Z.mp3",
+    "revision": "20261028"
   },
   {
     "section": "full",
@@ -17156,7 +17188,7 @@
     "number": 20,
     "questions": [
       {
-        "stem": "When talking about Swedish COTTAGES, the speaker DOES NOT say they _ _____.",
+        "stem": "When talking about Swedish COTTAGES, the speaker DOES NOT say they ______.",
         "images": [],
         "options": [
           {
@@ -17175,7 +17207,7 @@
         "answer": 1
       },
       {
-        "stem": "The speaker started go-karting _ _____.",
+        "stem": "The speaker started go-karting ______.",
         "images": [],
         "options": [
           {
@@ -17194,7 +17226,7 @@
         "answer": 0
       },
       {
-        "stem": "Jordan is or was a _ _____.",
+        "stem": "Jordan is or was a ______.",
         "images": [],
         "options": [
           {
@@ -17213,7 +17245,7 @@
         "answer": 2
       },
       {
-        "stem": "The speaker works from _ _____.",
+        "stem": "The speaker works from ______.",
         "images": [],
         "options": [
           {
@@ -17232,7 +17264,7 @@
         "answer": 1
       },
       {
-        "stem": "The speaker says you can buy MANY KINDS of _ _____.",
+        "stem": "The speaker says you can buy MANY KINDS of ______.",
         "images": [],
         "options": [
           {
@@ -17251,7 +17283,7 @@
         "answer": 1
       },
       {
-        "stem": "The speaker says it’s not necessary to _ _____.",
+        "stem": "The speaker says it’s not necessary to ______.",
         "images": [],
         "options": [
           {
@@ -17270,7 +17302,7 @@
         "answer": 1
       },
       {
-        "stem": "What did the Bruno, the racing driver, do FIRST? He _ _____.",
+        "stem": "What did the Bruno, the racing driver, do FIRST? He ______.",
         "images": [],
         "options": [
           {
@@ -17308,7 +17340,7 @@
         "answer": 1
       },
       {
-        "stem": "The woman is going to describe _ _____.",
+        "stem": "The woman is going to describe ______.",
         "images": [],
         "options": [
           {
@@ -17327,7 +17359,7 @@
         "answer": 2
       },
       {
-        "stem": "If you want to work in a zoo, you _ _____.",
+        "stem": "If you want to work in a zoo, you ______.",
         "images": [],
         "options": [
           {
@@ -17346,7 +17378,7 @@
         "answer": 0
       },
       {
-        "stem": "When you work in a zoo, you are most likely to _ _____.",
+        "stem": "When you work in a zoo, you are most likely to ______.",
         "images": [],
         "options": [
           {
@@ -17365,7 +17397,7 @@
         "answer": 0
       },
       {
-        "stem": "Because what happens in a zoo is very similar every day, it is a _ _____.",
+        "stem": "Because what happens in a zoo is very similar every day, it is a ______.",
         "images": [],
         "options": [
           {
@@ -17384,7 +17416,7 @@
         "answer": 1
       },
       {
-        "stem": "To work in an aquarium, you need to _ _____.",
+        "stem": "To work in an aquarium, you need to ______.",
         "images": [],
         "options": [
           {
@@ -17403,7 +17435,7 @@
         "answer": 0
       },
       {
-        "stem": "Everybody will know you work with fish because you _ _____.",
+        "stem": "Everybody will know you work with fish because you ______.",
         "images": [],
         "options": [
           {
@@ -17422,7 +17454,7 @@
         "answer": 2
       },
       {
-        "stem": "Vets often need to _ _____.",
+        "stem": "Vets often need to ______.",
         "images": [],
         "options": [
           {
@@ -17441,7 +17473,7 @@
         "answer": 1
       },
       {
-        "stem": "Animals can be negative towards vets because they _ _____.",
+        "stem": "Animals can be negative towards vets because they ______.",
         "images": [],
         "options": [
           {
@@ -17460,7 +17492,7 @@
         "answer": 2
       },
       {
-        "stem": "Animal trainers sometimes work _ _____.",
+        "stem": "Animal trainers sometimes work ______.",
         "images": [],
         "options": [
           {
@@ -17479,7 +17511,7 @@
         "answer": 0
       },
       {
-        "stem": "Animal trainers _ _____.",
+        "stem": "Animal trainers ______.",
         "images": [],
         "options": [
           {
@@ -17506,7 +17538,7 @@
     "number": 21,
     "questions": [
       {
-        "stem": "The man says that improvements in technology and healthcare _ _____.",
+        "stem": "The man says that improvements in technology and healthcare ______.",
         "images": [],
         "options": [
           {
@@ -17525,7 +17557,7 @@
         "answer": 0
       },
       {
-        "stem": "When speaking about people in the future, the man says they will _ _____.",
+        "stem": "When speaking about people in the future, the man says they will ______.",
         "images": [],
         "options": [
           {
@@ -17544,7 +17576,7 @@
         "answer": 2
       },
       {
-        "stem": "The speaker DOES NOT say that the path in Spain, El Camino del Rey, is _ _____.",
+        "stem": "The speaker DOES NOT say that the path in Spain, El Camino del Rey, is ______.",
         "images": [],
         "options": [
           {
@@ -17563,7 +17595,7 @@
         "answer": 2
       },
       {
-        "stem": "The man makes a reservation for _ _____.",
+        "stem": "The man makes a reservation for ______.",
         "images": [],
         "options": [
           {
@@ -17601,7 +17633,7 @@
         "answer": 2
       },
       {
-        "stem": "When talking about the future, the man says we will _ _____.",
+        "stem": "When talking about the future, the man says we will ______.",
         "images": [],
         "options": [
           {
@@ -17620,7 +17652,7 @@
         "answer": 2
       },
       {
-        "stem": "The man says we NOW _ _____.",
+        "stem": "The man says we NOW ______.",
         "images": [],
         "options": [
           {
@@ -17639,7 +17671,7 @@
         "answer": 2
       },
       {
-        "stem": "The man DOES NOT make a reservation for _ _____.",
+        "stem": "The man DOES NOT make a reservation for ______.",
         "images": [],
         "options": [
           {
@@ -17658,7 +17690,7 @@
         "answer": 0
       },
       {
-        "stem": "This telephone call is to _ _____.",
+        "stem": "This telephone call is to ______.",
         "images": [],
         "options": [
           {
@@ -17677,7 +17709,7 @@
         "answer": 1
       },
       {
-        "stem": "If you want to say that something is wrong, you should press _ _____.",
+        "stem": "If you want to say that something is wrong, you should press ______.",
         "images": [],
         "options": [
           {
@@ -17696,7 +17728,7 @@
         "answer": 2
       },
       {
-        "stem": "The company started offering walking holidays _ _____.",
+        "stem": "The company started offering walking holidays ______.",
         "images": [],
         "options": [
           {
@@ -17715,7 +17747,7 @@
         "answer": 0
       },
       {
-        "stem": "The company operates in _ _____.",
+        "stem": "The company operates in ______.",
         "images": [],
         "options": [
           {
@@ -17734,7 +17766,7 @@
         "answer": 2
       },
       {
-        "stem": "In the coming year, the company is planning to develop _ _____.",
+        "stem": "In the coming year, the company is planning to develop ______.",
         "images": [],
         "options": [
           {
@@ -17753,7 +17785,7 @@
         "answer": 1
       },
       {
-        "stem": "The pride of Travel-Lite is how _ _____.",
+        "stem": "The pride of Travel-Lite is how ______.",
         "images": [],
         "options": [
           {
@@ -17772,7 +17804,7 @@
         "answer": 1
       },
       {
-        "stem": "Every day, there are _ _____.",
+        "stem": "Every day, there are ______.",
         "images": [],
         "options": [
           {
@@ -17791,7 +17823,7 @@
         "answer": 1
       },
       {
-        "stem": "For supplements, the speaker’s company, Travel-Lite, charges _ _____.",
+        "stem": "For supplements, the speaker’s company, Travel-Lite, charges ______.",
         "images": [],
         "options": [
           {
@@ -17810,7 +17842,7 @@
         "answer": 2
       },
       {
-        "stem": "The dinner tables are designed _ _____.",
+        "stem": "The dinner tables are designed ______.",
         "images": [],
         "options": [
           {
@@ -17848,6 +17880,7 @@
         "answer": 0
       }
     ],
-    "audio": "audio/1pEhMv_PnU1BWagFPqyJk-x1u7eGk66C2.mp3"
+    "audio": "audio/1pEhMv_PnU1BWagFPqyJk-x1u7eGk66C2.mp3",
+    "revision": "20261028"
   }
 ]
