@@ -100,3 +100,5 @@ menu switching, and mobile width. Separate checks verify the guide’s semantic
 headings and worked-example lists, the restored diagram count, revised keys, and
 explicit pronoun contexts. These runtime checks supplement the content review;
 they do not by themselves demonstrate item validity.
+
+Visual follow-up: the source Word drawing anchors caused two captions and the third driving diagram to overlap passage text in the rendered image. The corrected Reading 15 page keeps the original text positions and printed line numbers, moves the second caption into the clear space below its diagram, and places diagram 3 and its caption below the passage.
