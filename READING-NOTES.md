@@ -47,7 +47,9 @@ and verified grading, delayed feedback, flags, saved choices and order after
 reload, saved planning notes, first-attempt scores after retries, reading and
 listening navigation, outside-click collapse, and a 390px mobile viewport.
 Desktop contents, lesson, activity, and mobile activity screenshots were
-visually reviewed.
+visually reviewed. Further checks covered delayed listening-data loading, recovery
+from a guide-data request failure, blocked browser storage, cancellation and
+confirmation of unanswered submissions, and restarting a practice activity.
 
 The introductory heading and sentence were removed from the home page.
 The visible heading and browser title are now `PEP Supplemental Materials`;
