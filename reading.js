@@ -239,7 +239,7 @@
       },state.flags[i] ? 'flagged' : '');
       flag.setAttribute('aria-pressed',String(!!state.flags[i]));
       toolbar.append(node('strong','Question ' + (i+1)),flag);
-      const h = emphasize(node('h3'),q.stem); h.id = 'reading-stem-' + i;
+      const h = window.readingQuestionText(node('h3'),q.stem); h.id = 'reading-stem-' + i;
       const choices = node('div'); choices.setAttribute('role','group'); choices.setAttribute('aria-labelledby',h.id);
       r.order[i].forEach((oi,pos) => {
         const b = button('',() => {
