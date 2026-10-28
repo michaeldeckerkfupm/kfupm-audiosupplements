@@ -1,0 +1,1190 @@
+{
+  "title": "ENGL010 Reading Skills Guidebook",
+  "author": "Chris Molcher",
+  "year": 2026,
+  "introduction": [
+    "This guide will help you become a more confident and effective reader in English. Each section focuses on a different reading skill that you will use in your ENGL-010 course and beyond.",
+    "Each skill includes:",
+    "• A simple explanation of the reading skill.",
+    "• A Reading Strategy showing you the steps to follow.",
+    "• A Reading Tip to help you avoid common mistakes.",
+    "• A worked example showing you how to use the skill.",
+    "• Practice questions to help you apply the skill yourself.",
+    "• Answers and explanations so you can check your understanding.",
+    "When using this guide, do not just try to find the correct answer. Follow the Reading Strategy and think about how you found the answer. The aim is to develop reading skills that you can use with any text."
+  ],
+  "skills": [
+    {
+      "id": 1,
+      "title": "Finding the main idea",
+      "pages": [
+        4,
+        7
+      ],
+      "lesson": [
+        "What is the Main Idea? The main idea is the writer's most important message. It tells you what the whole paragraph or passage is about. The main idea is usually supported by examples and details.",
+        "Reading Strategy: Use the following steps to find the main idea.",
+        "Step 1 - Identify the topic.",
+        "Ask yourself: \"What is this paragraph about?\"",
+        "Step 2 - Identify the writer's message.",
+        "Ask yourself: \"What does the writer want me to know about this topic?\"",
+        "Step 3 - Combine the two ideas > Topic + Writer's message = Main idea",
+        "Step 4 - Choose the answer that best matches the main idea.",
+        "Reading Tip: If an answer matches only one sentence or detail, it is probably too specific. The correct answer should describe the main idea of the whole paragraph or passage."
+      ],
+      "example": [
+        "Read the paragraph.",
+        "Are you a new student at KFUPM? Is this your first time away from home? Did you finish high school just a few months ago? If the answer to these questions is yes, you might be having a difficult time right now. It's hard to be a new student! Many find it difficult being so far from home, or studying in English, or no longer always being the best in the class! Here's some advice to help you deal with these problems.",
+        "Question 1 - What is the topic? Answer - New students at KFUPM.",
+        "Question 2 - What is the writer's message? Answer - Many new students experience problems, and this article offers advice to help them.",
+        "Question 3 - Write the main idea. Answer - This article gives advice to new KFUPM students who are experiencing common problems.",
+        "Question 4 - What is the BEST TITLE for this article?",
+        "A) Advice for New KFUPM Students",
+        "B) All the Good Things about KFUPM",
+        "C) The History of KFUPM",
+        "D) Why Students Want to Study at KFUPM",
+        "Answer",
+        "A) Advice for New KFUPM Students",
+        "The title matches the main idea of the whole paragraph.",
+        "The other answers do not."
+      ],
+      "practices": [
+        {
+          "id": "s1-p1",
+          "number": 1,
+          "page": 6,
+          "paragraphs": [
+            "When you're away from home for the first time, it can be a sad and lonely time. But you should remember, these feelings usually only last a few weeks. Once you've made new friends, homesickness goes away. And don't forget, unless they live near KFUPM, everybody is in the same boat!"
+          ],
+          "questions": [
+            {
+              "stem": "What is the BEST TITLE for this paragraph?",
+              "options": [
+                "Homesickness Usually Doesn't Last Long",
+                "Why Students Should Live Near KFUPM",
+                "Making Friends at University",
+                "Living Away from Home"
+              ],
+              "key": 0,
+              "explanation": "The paragraph explains that homesickness is common but usually lasts only a few weeks. Making friends helps it disappear."
+            }
+          ],
+          "planning": [
+            "What is the topic?",
+            "What is the writer’s message?",
+            "What is the main idea?"
+          ],
+          "models": [
+            "Homesickness.",
+            "Homesickness is normal, but it usually disappears after a short time.",
+            "Homesickness is common for new students, but it usually does not last very long."
+          ]
+        },
+        {
+          "id": "s1-p2",
+          "number": 2,
+          "page": 7,
+          "paragraphs": [
+            "Having English classes in English is bad enough, but having to study mathematics and physics in English as well? It might sound difficult now, but for most students it becomes normal after a few months. And don't forget, it's because you're studying in English now that you'll be able to understand all your lectures at the Jebel, where the professors come from all over the world!"
+          ],
+          "questions": [
+            {
+              "stem": "What is the BEST TITLE for this paragraph?",
+              "options": [
+                "Why Mathematics Is Difficult",
+                "Studying in English Gets Easier",
+                "Professors Come from Around the World",
+                "English Classes Are Difficult"
+              ],
+              "key": 1,
+              "explanation": "The paragraph says studying in English may seem difficult at first but becomes normal after a few months. The other titles focus on individual details."
+            }
+          ],
+          "planning": [
+            "What is the topic?",
+            "What is the writer’s message?",
+            "What is the main idea?"
+          ],
+          "models": [
+            "Studying in English.",
+            "Studying in English may seem difficult at first, but it becomes easier with time.",
+            "Although studying in English may seem difficult at first, it soon becomes normal for most students."
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Recognising the organisation of ideas",
+      "pages": [
+        8,
+        14
+      ],
+      "lesson": [
+        "What is the Organisation of a Passage? Writers organise their ideas so that readers can follow them easily. Organisation questions ask about the relationship between paragraphs or the way ideas are organised.",
+        "These questions often ask:",
+        "• How is the information organised?",
+        "• How is the second paragraph related to the first?",
+        "• How is the final paragraph related to the previous paragraph?",
+        "Common Relationships Between Paragraphs",
+        "Support – Paragraph 2 gives more information about Paragraph 1.",
+        "Example – Paragraph 2 gives an example of the idea in Paragraph 1.",
+        "Contrast – Paragraph 2 presents a different or opposite idea.",
+        "Cause and Effect – Paragraph 2 explains what happens because of an idea in Paragraph 1.",
+        "Sequence – Paragraph 2 explains what happens next.",
+        "Background Information – Paragraph 2 gives information that helps the reader understand the topic.",
+        "Reading Strategy: Use the following steps to identify the relationship between paragraphs.",
+        "Step 1 – Read the first sentence of each paragraph. This often gives you a clue to the main idea.",
+        "Step 2 – Compare the main ideas and ask yourself “Does Paragraph 2 support, contrast with, explain or give an example of Paragraph 1?”",
+        "Step 3 – Look for signal words:",
+        "Contrast: however, but, on the other hand",
+        "Support: also, in addition, furthermore",
+        "Example: for example, such as",
+        "Cause and Effect: therefore, as a result",
+        "Sequence: first, next, then",
+        "Reading Tip: Read the first sentence of each paragraph before reading the rest of the paragraph. The first sentence often tells you the writer's main idea."
+      ],
+      "example": [
+        "Read the two paragraphs below.",
+        "It is a function of the gases around our planet that form the atmosphere. They let the Sun's heat come to Earth, but stop some of it going back into space. Without these greenhouse gases, which include carbon dioxide, methane, nitrous oxide and ozone, none of the heat from the Sun would stay on Earth. It would all go back into space. Our planet would be too cold to live on.",
+        "Nowadays, however, there is a big problem. The amounts of some greenhouse gases in the atmosphere are increasing. This means that less of the Sun's heat leaves the Earth than before, and this is the cause of global warming and climate change.",
+        "Question - How is the second paragraph related to the first?",
+        "A) It gives another example of the greenhouse effect.",
+        "B) It explains the cause of the greenhouse effect.",
+        "C) It introduces a problem related to the greenhouse effect.",
+        "D) It describes the history of the greenhouse effect",
+        "Answer",
+        "C) It introduces a problem related to the greenhouse effect.",
+        "Why?",
+        "The first paragraph explains how the greenhouse effect works.",
+        "The second paragraph explains that there is now a problem with this natural process.",
+        "The signal word \"however\" also shows that the writer is introducing a contrasting idea."
+      ],
+      "practices": [
+        {
+          "id": "s2-p1",
+          "number": 1,
+          "page": 11,
+          "paragraphs": [
+            "If the greenhouse effect stopped working today, we'd all die. Our planet's average temperature would fall to -18°C, and the oceans, seas and rivers would freeze.",
+            "It is a function of the gases around our planet that form the atmosphere. They let the Sun's heat come to Earth, but stop some of it going back into space. Without these greenhouse gases, which include carbon dioxide, methane, nitrous oxide and ozone, none of the heat from the Sun would stay on Earth. It would all go back into space. Our planet would be too cold to live on.",
+            "Nowadays, however, there is a big problem. The amounts of some greenhouse gases in the atmosphere are increasing. This means that less of the Sun's heat leaves the Earth than before, and this is the cause of global warming and climate change."
+          ],
+          "questions": [
+            {
+              "stem": "How is the information in the passage organised?",
+              "options": [
+                "A problem is described before the topic is introduced.",
+                "The writer introduces a topic, explains it and then introduces a problem.",
+                "The writer compares two different scientific ideas.",
+                "The writer explains the history of the greenhouse effect."
+              ],
+              "key": 1,
+              "explanation": "The writer introduces the greenhouse effect, explains how it works, then introduces the problem of increasing greenhouse gases."
+            },
+            {
+              "stem": "How is the third paragraph related to the second?",
+              "options": [
+                "It gives another example.",
+                "It continues talking about a previously introduced problem.",
+                "It explains an earlier event.",
+                "It introduces a problem."
+              ],
+              "key": 3,
+              "explanation": "Paragraph 2 explains the natural process. Paragraph 3 introduces the problem caused by increasing greenhouse gases; 'however' signals the change."
+            }
+          ]
+        },
+        {
+          "id": "s2-p2",
+          "number": 2,
+          "page": 13,
+          "paragraphs": [
+            "According to historians, human civilization first began 12,000 years ago. This was in the historical country of Mesopotamia, which lies in what is now modern-day Iraq. At that time, people called the Sumerians started farming in the fertile land along the Tigris and Euphrates rivers. The Sumerians are famous for inventing the world's first writing.",
+            "Another ancient civilization discovered the solution. The Egyptians invented papyrus, a material like paper that was much easier to carry than stone. Although papyrus was an improvement, it was still not perfect.",
+            "It fell to a Chinese man called Cai Lun, who lived about 2,000 years ago, to produce paper with properties similar to those in the paper we use today. He worked out how to make paper from wood and water, and over the next 1,000 years, his invention spread from China to the rest of the world."
+          ],
+          "questions": [
+            {
+              "stem": "How is the information in the passage organised?",
+              "options": [
+                "By comparing different civilizations.",
+                "By explaining events in time order.",
+                "By describing one invention in detail.",
+                "By presenting different opinions."
+              ],
+              "key": 1,
+              "explanation": "The passage moves through developments in time order: the Sumerians, the Egyptians, then Cai Lun in China."
+            },
+            {
+              "stem": "How is the third paragraph related to the second?",
+              "options": [
+                "It gives another example of papyrus.",
+                "It explains why papyrus disappeared.",
+                "It describes the next development in the history of writing.",
+                "It repeats the main idea of the second paragraph."
+              ],
+              "key": 2,
+              "explanation": "Paragraph 2 describes papyrus. Paragraph 3 describes the next development, paper with properties similar to modern paper."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "title": "Answering stated detail questions",
+      "pages": [
+        15,
+        18
+      ],
+      "lesson": [
+        "What are Stated Detail Questions? Stated Detail Questions ask about information that is directly written in the passage. You do not need to guess or make inferences because the answer is always in the text.",
+        "These questions often ask:",
+        "• According to the passage...",
+        "• The author mentions...",
+        "• Which of the following is true...?",
+        "Reading Strategy",
+        "Use the following steps to answer Stated Detail Questions.",
+        "Step 1 – Identify a key word or idea in the question.",
+        "This is usually a name, place, date or topic.",
+        "Step 2 – Scan the passage for the key word or a similar word.",
+        "Step 3 – Read that sentence carefully to make sure you understand the information.",
+        "Step 4 – Choose the answer that matches the information in the passage.",
+        "Step 5 – Eliminate answers that add new information, change details or contradict the passage.",
+        "Reading Tip: Do not answer from memory, and always return to the passage to double-check the information."
+      ],
+      "example": [
+        "Read the sentence below.",
+        "The market operates in the town of Damnoen Sadak, on a canal built on the orders of King Rama IV.",
+        "Question - According to the passage, where does the floating market operate?",
+        "A) In Bangkok",
+        "B) In Damnoen Sadak",
+        "C) In Ratchapouri",
+        "D) On the Tigris River",
+        "Answer",
+        "B) In Damnoen Sadak",
+        "The passage states that the market operates in the town of Damnoen Sadak."
+      ],
+      "practices": [
+        {
+          "id": "s3-p1",
+          "number": 1,
+          "page": 16,
+          "paragraphs": [
+            "The market operates in the town of Damnoen Sadak, on a canal built on the orders of King Rama IV. Started in 1866 and finished in 1868, the canal was built to facilitate transport from nearby provinces to the town, which is 105 kilometres from Bangkok, in the province of Ratchapouri. The actual floating market opened in 1967."
+          ],
+          "questions": [
+            {
+              "stem": "According to the passage, why was the canal built?",
+              "options": [
+                "To improve tourism.",
+                "To provide transport between provinces and the town.",
+                "To prevent flooding.",
+                "To provide water for farming."
+              ],
+              "key": 1,
+              "explanation": "The canal was built 'to facilitate transport from nearby provinces to the town'."
+            },
+            {
+              "stem": "According to the passage, when did the floating market open?",
+              "options": [
+                "1867",
+                "1868",
+                "1967",
+                "1905"
+              ],
+              "key": 2,
+              "explanation": "The canal was completed in 1868, but the floating market itself opened in 1967."
+            }
+          ]
+        },
+        {
+          "id": "s3-p2",
+          "number": 2,
+          "page": 17,
+          "paragraphs": [
+            "So what can visitors expect? If you visit, you are sure to see the traditional Thai style of buying and selling. Every day, the canal is crowded by hundreds of boats belonging to vendors trying to get a good price for their fish, fruit, vegetables and just about anything else! During working hours, from around six until noon, Thai women wearing colourful bamboo hats sell exotic fruit and vegetables, which include carrots, onions, Malacca grapes, Chinese grapefruit, mangoes, bananas and coconuts. The air is full of the sights, sounds and smells of a traditional Thai market. It is always crowded, with both tourists and locals alike!"
+          ],
+          "questions": [
+            {
+              "stem": "According to the passage, when are the market's working hours?",
+              "options": [
+                "From 6:00 a.m. until 12:00 noon.",
+                "From 8:00 a.m. until 5:00 p.m.",
+                "From sunrise until sunset.",
+                "Throughout the night."
+              ],
+              "key": 0,
+              "explanation": "The passage gives the working hours as 'from around six until noon'."
+            },
+            {
+              "stem": "According to the passage, who visits the floating market?",
+              "options": [
+                "Only local people.",
+                "Only tourists.",
+                "Tourists and local people.",
+                "Only farmers."
+              ],
+              "key": 2,
+              "explanation": "It says the market is crowded 'with both tourists and locals alike'."
+            },
+            {
+              "stem": "According to the passage, what do the vendors sell?",
+              "options": [
+                "Only fruit.",
+                "Only vegetables.",
+                "Fish, fruit, vegetables and many other goods.",
+                "Clothes and souvenirs."
+              ],
+              "key": 2,
+              "explanation": "The vendors sell 'fish, fruit, vegetables and just about anything else', so their goods are not limited to one category."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "title": "Finding unstated details",
+      "pages": [
+        19,
+        22
+      ],
+      "lesson": [
+        "What are Unstated Detail Questions? Unstated Detail Questions ask you to identify information that is not mentioned in the passage or is not true according to the passage.",
+        "The question may ask: • Which of the following is NOT mentioned? • Which of the following is NOT discussed? • Which of the following is NOT true according to the passage? These questions test how carefully you read the passage. To answer them correctly, you need to identify the information that is missing or false.",
+        "Reading Strategy:",
+        "Use the following steps to answer Unstated Detail Questions.",
+        "Step 1 – Identify the key word/s from the question, EG – ‘not mentioned’, ‘except’ or ‘false’.",
+        "Step 2 – Read each answer choice then scan the passage for that word or a related idea.",
+        "Step 3 – Check each answer carefully and ask yourself, \"Is this information supported by the passage?\"",
+        "Step 4 – Eliminate every answer that is supported by the passage.",
+        "Step 5 – The correct answer is the one that is not mentioned or not true, depending on the question.",
+        "Reading Tip: Read every answer choice. Do not choose an answer just because you cannot remember reading it. Always check the passage first.",
+        "There are two common types of unstated detail questions: Type 1 – NOT Mentioned Three answers are supported by the passage. One answer is not mentioned. Type 2 – NOT True Three answers are true according to the passage. One answer is false."
+      ],
+      "example": [
+        "Read the passage below.",
+        "Edinburgh is the capital of Scotland. It is famous for its historic castle and its annual arts festival. Every August, thousands of visitors come to the city from around the world.",
+        "Question Which of the following is NOT mentioned in the passage? A) Edinburgh is the capital of Scotland. B) Edinburgh has a large international airport. C) Many people visit Edinburgh in August. D) Edinburgh has a famous castle. Answer B) Edinburgh has a large international airport. The passage does not mention an airport. The other three answers are supported by the text."
+      ],
+      "practices": [
+        {
+          "id": "s4-p1",
+          "number": 1,
+          "page": 21,
+          "paragraphs": [
+            "England, Scotland, Wales and Northern Ireland are the four countries of the United Kingdom. London is the capital of England and the largest city in the UK. Edinburgh is the capital of Scotland and is famous for its historic castle and annual arts festival. Cardiff, the capital of Wales, is known for Cardiff Castle and the Millennium Stadium. Belfast is the capital of Northern Ireland and is an important cultural and industrial city."
+          ],
+          "questions": [
+            {
+              "stem": "Which of the following is NOT mentioned in the passage?",
+              "options": [
+                "Belfast has an international airport.",
+                "Edinburgh is famous for its historic castle.",
+                "Cardiff is the capital of Wales.",
+                "London is the largest city in the United Kingdom."
+              ],
+              "key": 0,
+              "explanation": "The passage gives information about Belfast but does not mention an international airport. Each of the other statements is supported by the passage."
+            }
+          ]
+        },
+        {
+          "id": "s4-p2",
+          "number": 2,
+          "page": 22,
+          "paragraphs": [
+            "London is the capital of England and the largest city in the United Kingdom. Edinburgh is the capital of Scotland and is famous for its historic castle and annual arts festival. Cardiff is the capital of Wales, while Belfast is the capital of Northern Ireland."
+          ],
+          "questions": [
+            {
+              "stem": "Which of the following is NOT true according to the passage?",
+              "options": [
+                "London is the capital of England.",
+                "Edinburgh is famous for its annual arts festival.",
+                "Cardiff is the capital of Northern Ireland.",
+                "Belfast is the capital of Northern Ireland."
+              ],
+              "key": 2,
+              "explanation": "The passage says Cardiff is the capital of Wales, while Belfast is the capital of Northern Ireland. The statement about Cardiff is contradicted by the text."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "title": "Finding pronoun references",
+      "pages": [
+        23,
+        28
+      ],
+      "lesson": [
+        "What are Pronoun Reference Questions? A pronoun is a word that replaces a noun.",
+        "Common pronouns include: it, they, them, he, she, this, these, that and those.",
+        "Pronoun reference questions ask you to identify the noun that a pronoun refers to.",
+        "At this level and in our readings, the noun usually appears before the pronoun, so look backward in the passage, not forward.",
+        "Reading Strategy",
+        "Use the following steps to answer Pronoun Reference Questions.",
+        "Step 1 – Find the pronoun in the passage.",
+        "Step 2 – Look at the nouns before the pronoun, especially the closest ones.",
+        "Step 3 – Replace the pronoun with each possible noun.",
+        "Step 4 – Choose the noun that makes the sentence correct and logical.",
+        "Step 5 – At this level, the noun usually appears before the pronoun, so look at the earlier part of the sentence or passage first.",
+        "Reading Tip: Do not choose the closest noun automatically. Sometimes the closest noun does not make sense. Always read the whole sentence to check your answer."
+      ],
+      "example": [
+        "Read the passage below and answer the question.",
+        "Writing first developed in Mesopotamia around 5,000 years ago. It helped people record information and communicate more easily.",
+        "Q1. The pronoun \"It\" refers to:",
+        "A) Mesopotamia",
+        "B) writing",
+        "C) people",
+        "D) information",
+        "ANSWER: B) writing",
+        "Explanation: Look at the nouns before the pronoun. The sentence \"Writing helped people record information and communicate more easily\" makes sense. The other answers do not. Therefore, the correct answer is B."
+      ],
+      "practices": [
+        {
+          "id": "s5-p1",
+          "number": 1,
+          "page": 25,
+          "paragraphs": [
+            "According to historians, human civilization first began 12,000 years ago. This was in the historical country of Mesopotamia, which lies in what is now modern-day Iraq. At that time, people called the Sumerians started farming in the fertile land along the Tigris and Euphrates rivers, where it was easier to grow crops and keep farm animals. The Sumerians are famous as the world's oldest known civilization. They are also famous for inventing the world's first writing, which they did 5,000 years ago. With 870 separate words, Sumerian is the world's first written language."
+          ],
+          "questions": [
+            {
+              "stem": "The pronoun \"which\" in the sentence \"which lies in what is now modern-day Iraq\" refers to:",
+              "options": [
+                "the historical country of Mesopotamia",
+                "historians",
+                "Iraq",
+                "civilization"
+              ],
+              "key": 0,
+              "explanation": "The clause 'which lies in what is now modern-day Iraq' describes the historical country of Mesopotamia."
+            },
+            {
+              "stem": "The pronoun \"They\" in the sentence \"They are also famous for inventing the world's first writing\" refers to:",
+              "options": [
+                "the Sumerians",
+                "historians",
+                "farm animals",
+                "the Tigris and Euphrates rivers"
+              ],
+              "key": 0,
+              "explanation": "Replace 'They' with 'The Sumerians': the Sumerians are also famous for inventing the world's first writing."
+            }
+          ]
+        },
+        {
+          "id": "s5-p2",
+          "number": 2,
+          "page": 27,
+          "paragraphs": [
+            "Another ancient civilization discovered the solution. 5,000 years ago, the Egyptians invented papyrus, a material like paper which they used for writing on. Papyrus was not heavy like stone: for the first time, people could easily carry what they wrote. The Egyptians made papyrus from the leaves of the papyrus plant. Seven years ago, scientists found the earliest ever example of papyrus at Wadi Al-Jarf on the Red Sea. The papyrus they found had a description of the building of the Great Pyramid of Giza from 4,500 years ago. Although papyrus was better for writing on than stone, it was still not perfect. It was easy to break, and was very often damaged by water."
+          ],
+          "questions": [
+            {
+              "stem": "The pronoun \"which\" in the sentence \"a material like paper which they used for writing on\" refers to:",
+              "options": [
+                "the Egyptians",
+                "paper",
+                "papyrus",
+                "writing"
+              ],
+              "key": 2,
+              "explanation": "The Egyptians used papyrus for writing. The phrase 'a material like paper' describes papyrus, so 'which' refers to papyrus."
+            },
+            {
+              "stem": "The pronoun \"they\" in the sentence \"which they used for writing on\" refers to:",
+              "options": [
+                "another ancient civilization",
+                "the Egyptians",
+                "scientists",
+                "people"
+              ],
+              "key": 1,
+              "explanation": "The sentence explains what the Egyptians invented and used. 'They' refers to the Egyptians."
+            },
+            {
+              "stem": "The pronoun \"It\" in the sentence \"It was easy to break...\" refers to:",
+              "options": [
+                "stone",
+                "papyrus",
+                "water",
+                "paper"
+              ],
+              "key": 1,
+              "explanation": "The sentences describe the weaknesses of papyrus. Replacing 'It' with 'Papyrus' gives a logical sentence: papyrus was easy to break."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "title": "Answering implied detail questions",
+      "pages": [
+        29,
+        31
+      ],
+      "lesson": [
+        "What are Implied Detail Questions? Some reading questions ask about information that is not directly stated in the passage. Instead, you must use the information in the passage to make a logical conclusion.",
+        "These are called implied detail questions.",
+        "These questions often use words such as:",
+        "• imply • infer • suggest • likely • probably",
+        "The passage gives you enough information to find the answer. You do not need to guess.",
+        "Reading Strategy: Use the following steps to answer Implied Detail Questions.",
+        "Step 1: Identify what the question is asking you to infer.",
+        "Step 2: Find the relevant information in the passage.",
+        "Step 3: Read the sentence and the sentences around it carefully.",
+        "Step 4: Think about what the information suggests.",
+        "Step 5: Choose the answer that is supported by the passage, even if it is not directly stated.",
+        "Reading Tip: Do not choose an answer that introduces a completely new idea. The correct answer should be a logical conclusion based on the information in the passage."
+      ],
+      "example": [
+        "Read the passage below and answer the question.",
+        "Greenhouse gases trap heat in the Earth's atmosphere. As more greenhouse gases are released, the Earth's temperature continues to rise.",
+        "Q. It can be inferred from the passage that:",
+        "A) greenhouse gases make the Earth cooler.",
+        "B) reducing greenhouse gases may help slow global warming.",
+        "C) the Earth's temperature never changes.",
+        "D) greenhouse gases are only found in cold countries.",
+        "Answer",
+        "B) reducing greenhouse gases may help slow global warming.",
+        "The passage does not say this directly, but it explains that greenhouse gases trap heat and cause the Earth's temperature to rise. Therefore, reducing greenhouse gases may help slow global warming."
+      ],
+      "practices": [
+        {
+          "id": "s6-p1",
+          "number": 1,
+          "page": 31,
+          "paragraphs": [
+            "Greenhouse gases trap heat in the Earth's atmosphere. Human activities such as burning fossil fuels and cutting down forests have increased the amount of these gases in the atmosphere. As a result, the Earth's average temperature is rising. Scientists believe this may lead to changes in weather patterns and rising sea levels."
+          ],
+          "questions": [
+            {
+              "stem": "It can be inferred from the passage that:",
+              "options": [
+                "forests increase the amount of greenhouse gases.",
+                "greenhouse gases are only produced by factories.",
+                "global warming only happens in winter.",
+                "rising sea levels may affect people living near the coast."
+              ],
+              "key": 3,
+              "explanation": "The passage links greenhouse gases to warming and possible sea-level rise. It is reasonable to infer that rising seas may affect people living near the coast."
+            },
+            {
+              "stem": "It can be inferred from the passage that:",
+              "options": [
+                "protecting forests may help reduce global warming.",
+                "all forests are disappearing.",
+                "greenhouse gases are always harmful in every situation.",
+                "only scientists are responsible for climate change."
+              ],
+              "key": 0,
+              "explanation": "Cutting down forests is identified as an activity that increases greenhouse gases. Protecting forests may therefore help limit that increase and slow warming."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "title": "Answering transition questions",
+      "pages": [
+        32,
+        35
+      ],
+      "lesson": [
+        "What are Transition Questions? Transition questions ask you what information most likely came before or after the passage.",
+        "These questions test how ideas connect from one paragraph to the next. Writers often introduce a topic in one paragraph and develop it in the next.",
+        "Reading Strategy: Use the following steps to answer Transition Questions.",
+        "Step 1 – Read the question carefully.",
+        "Step 2 – If the question asks about the preceding paragraph, read the first sentence of the passage.",
+        "Step 3 – If the question asks about the following paragraph, read the last sentence of the passage.",
+        "Step 4 – Identify the main idea.",
+        "Step 5 – Choose the answer that connects logically to that idea.",
+        "Reading Tip: Do not guess - the first and last sentences usually give you clues about what came before or what will come next."
+      ],
+      "example": [
+        "Read the passage below and answer the questions.",
+        "Another ancient civilization discovered the solution. Five thousand years ago, the Egyptians invented papyrus, a material like paper which they used for writing on. Papyrus was much lighter than stone and was easier to carry. Although papyrus was better than stone, it was still not perfect because it was easily damaged by water. However, another great development in writing was going to come from China.",
+        "Q1. The paragraph before this one most likely discussed: A) how the Egyptians made papyrus B) the problem with writing on stone C) the history of paper in Europe D) modern printing methods",
+        "ANSWER - B) the problem with writing on stone",
+        "Explanation: The first sentence says, \"Another ancient civilization discovered the solution.\" This tells us that the previous paragraph most likely described a problem. The next sentence explains that the Egyptians solved that problem by inventing papyrus.",
+        "Q2. The paragraph after this one most likely discusses: A) how paper was later developed in China B) how the Egyptians built the pyramids C) modern life in Egypt D) Egyptian kings",
+        "ANSWER - A) how paper was later developed in China",
+        "Explanation: The last idea in the passage is that papyrus was useful but not perfect. This suggests that the next paragraph will introduce a better writing material. In the reading, the next development is paper from China."
+      ],
+      "practices": [
+        {
+          "id": "s7-p1",
+          "number": 1,
+          "page": 34,
+          "paragraphs": [
+            "According to historians, human civilization first began 12,000 years ago. This was in the historical country of Mesopotamia, which lies in what is now modern-day Iraq. At that time, people called the Sumerians started farming in the fertile land along the Tigris and Euphrates rivers. The Sumerians are famous for inventing the world's first writing. However, because they did not have paper, they wrote on stone."
+          ],
+          "questions": [
+            {
+              "stem": "The paragraph after this one most likely discusses:",
+              "options": [
+                "the invention of papyrus by the Egyptians",
+                "the history of modern computers",
+                "how stone was produced",
+                "life in ancient Greece"
+              ],
+              "key": 0,
+              "explanation": "The final sentence introduces writing on stone without paper. Of the choices, the development of papyrus connects logically to this topic."
+            }
+          ]
+        },
+        {
+          "id": "s7-p2",
+          "number": 2,
+          "page": 35,
+          "paragraphs": [
+            "Another ancient civilization discovered the solution. Five thousand years ago, the Egyptians invented papyrus, a material like paper which they used for writing on. Papyrus was much lighter than stone, so people could easily carry what they wrote. Although papyrus was better than stone, it was still not perfect because it was easily damaged by water. However, another great development in writing was going to come from China."
+          ],
+          "questions": [
+            {
+              "stem": "The paragraph after this one most likely discusses:",
+              "options": [
+                "the history of the Great Pyramid",
+                "the spread of the Egyptian Empire to China",
+                "how a Chinese man named Cai Lun invented paper-like material",
+                "how people travelled in ancient China"
+              ],
+              "key": 2,
+              "explanation": "The last sentence explicitly introduces a further development in writing from China. The development of a paper-like material is the only choice that continues that idea."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "title": "Finding definitions from structural clues",
+      "pages": [
+        36,
+        39
+      ],
+      "lesson": [
+        "What are Structural Clues?",
+        "Sometimes you will see a word that you do not know. You do not always need to use a dictionary. Writers often include clues that help explain the meaning of a word. These clues are called structural clues.",
+        "Structural clues may include punctuation, restatements or examples.",
+        "Three Types of Structural Clues",
+        "1. Punctuation clues",
+        "Commas, brackets ( ) or dashes - may introduce a definition.",
+        "Example: Papyrus, a material like paper, was invented by the Egyptians.",
+        "The words \"a material like paper\" explain the meaning of papyrus.",
+        "2. Restatement clues",
+        "Words such as or, that is, and in other words often introduce another way of saying the same thing.",
+        "Example: Papyrus was fragile, or easy to damage, so it was not used by everyone.",
+        "The words \"easy to damage\" explain the meaning of fragile.",
+        "3. Example clues",
+        "Phrases like such as and for example introduce examples that help explain a word.",
+        "Example: Ancient writing materials, such as stone and papyrus, were used before paper.",
+        "The examples help explain that stone and papyrus were writing materials.",
+        "Reading Strategy: Use the following steps to answer vocabulary questions.",
+        "Step 1 – Find the word in the passage.",
+        "Step 2 – Look for structural clues near the word.",
+        "Step 3 – Read the sentence carefully.",
+        "Step 4 – Choose the answer that matches the definition or examples.",
+        "Reading Tip: The meaning is often explained in the same sentence. Look for definitions, examples or punctuation before using your own knowledge."
+      ],
+      "example": [
+        "Read the sentence below.",
+        "Papyrus, a material like paper, was lighter than stone.",
+        "Question",
+        "The word \"papyrus\" is closest in meaning to:",
+        "A) a heavy rock",
+        "B) a type of plant",
+        "C) a material used for writing",
+        "D) a modern machine",
+        "Answer",
+        "C) a material used for writing",
+        "Explanation",
+        "The words \"a material like paper\" explain the meaning of papyrus. This is a punctuation clue because the definition appears between commas."
+      ],
+      "practices": [
+        {
+          "id": "s8-p1",
+          "number": 1,
+          "page": 38,
+          "paragraphs": [
+            "The Egyptians invented papyrus, a material like paper which they used for writing on. Papyrus was much lighter than stone - easier to carry because it weighed less. Although papyrus was better than stone, it was still not perfect because it was easily damaged, or harmed, by water."
+          ],
+          "questions": [
+            {
+              "stem": "The word \"lighter\" is closest in meaning to:",
+              "options": [
+                "easier to carry",
+                "heavier",
+                "more expensive",
+                "stronger"
+              ],
+              "key": 0,
+              "explanation": "The passage explains 'lighter' with 'easier to carry because it weighed less'."
+            },
+            {
+              "stem": "The word \"damaged\" is closest in meaning to:",
+              "options": [
+                "repaired",
+                "protected",
+                "harmed",
+                "improved"
+              ],
+              "key": 2,
+              "explanation": "The restatement 'or harmed' directly explains 'damaged'."
+            }
+          ]
+        },
+        {
+          "id": "s8-p2",
+          "number": 2,
+          "page": 39,
+          "paragraphs": [
+            "Cai Lun learned how to make paper from wood and water. Over the next 1,000 years, his invention spread, or travelled, from China to the rest of the world, reaching the Islamic world about 1,200 years ago. By the 11th century, papermaking had reached Europe, where paper mills (places where paper was produced) used waterwheels to make paper."
+          ],
+          "questions": [
+            {
+              "stem": "The word \"spread\" is closest in meaning to:",
+              "options": [
+                "disappeared",
+                "remained",
+                "travelled",
+                "stopped"
+              ],
+              "key": 2,
+              "explanation": "The words 'or travelled' restate the meaning of 'spread'."
+            },
+            {
+              "stem": "The words \"paper mills\" are closest in meaning to:",
+              "options": [
+                "books about paper",
+                "places where paper is made",
+                "shops that sell paper",
+                "people who write on paper"
+              ],
+              "key": 1,
+              "explanation": "The words in brackets, 'places where paper was produced', define 'paper mills'."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "title": "Determining meaning from word parts",
+      "pages": [
+        40,
+        43
+      ],
+      "lesson": [
+        "What are Word Parts? Sometimes you will see a long or unfamiliar word in a reading passage.",
+        "Even if you do not know the word, you can often understand its meaning by looking at its parts. Learning about word parts can help you understand new vocabulary.",
+        "Common Word Parts:",
+        "1. Prefix: A prefix comes at the beginning of a word and changes its meaning.",
+        "Example: unhappy     The prefix un- means \"not\", so unhappy means \"not happy.\"",
+        "2. Root: A root carries the main meaning of a word.",
+        "Example: rewrite    The root write tells us the word is about writing.",
+        "3. Suffix: A suffix comes at the end of a word and often changes the form or meaning of a word.",
+        "Example: writer    The suffix -er tells us this is a person who writes.",
+        "Reading Strategy: Use the following steps to answer vocabulary questions.",
+        "Step 1 – Find the unfamiliar word.",
+        "Step 2 – Break the word into parts.",
+        "Step 3 – Think about the meaning of each part.",
+        "Step 4 – Choose the answer that best matches the meaning of the whole word.",
+        "Reading Tip: Word parts do not always tell you the exact meaning, but they often give you a useful clue."
+      ],
+      "example": [
+        "Read the sentence below.",
+        "Most people are right-handed, so naturally they carry swords in their right hands.",
+        "Q1. The word \"right-handed\" is closest in meaning to:",
+        "A) usually using the right hand B) carrying something in both hands C) having an injured right hand D) writing with both hands",
+        "Answer",
+        "A) usually using the right hand",
+        "Explanation",
+        "Break the word into parts:",
+        "right + hand + -ed",
+        "The words right and hand give us the main clue. The ending -ed helps make right-handed an adjective describing a person. Therefore, a right-handed person is someone who normally uses their right hand."
+      ],
+      "practices": [
+        {
+          "id": "s9-p1",
+          "number": 1,
+          "page": 42,
+          "paragraphs": [
+            "Once upon a time in Drizzley, there were factories, and people had jobs. Then the factories closed, and people stopped having jobs. Drizzley has Britain's highest rate of unemployment, with about 40% of the adult population unemployed. Overall, only 48% of people in Drizzley have any kind of job, and salaries are very low. There are a lot of poor people in Drizzley. And, unfortunately, sometimes poor people do bad things."
+          ],
+          "questions": [
+            {
+              "stem": "The word \"unemployment\" is closest in meaning to:",
+              "options": [
+                "looking for a better job",
+                "having a well-paid job",
+                "working in a factory",
+                "having no work"
+              ],
+              "key": 3,
+              "explanation": "Break the word into un- + employ + -ment. The prefix means 'not'; the whole word describes the state of not having work."
+            },
+            {
+              "stem": "The word \"unfortunately\" is closest in meaning to:",
+              "options": [
+                "luckily",
+                "quickly",
+                "sadly",
+                "usually"
+              ],
+              "key": 2,
+              "explanation": "Break the word into un- + fortunate + -ly. Fortunate means lucky, and un- reverses that meaning. In this context, 'sadly' is the closest choice."
+            }
+          ]
+        },
+        {
+          "id": "s9-p2",
+          "number": 2,
+          "page": 43,
+          "paragraphs": [
+            "In 1998, near the British town of Swindon, an old Roman road was discovered. The road had two lanes, a left and a right lane, and it led to a quarry. The left-hand lane was badly damaged, but the right-hand lane was hardly damaged at all. The damage to the left-hand lane was caused by very heavy horse-drawn carts which had been loaded with stone."
+          ],
+          "questions": [
+            {
+              "stem": "A \"left-hand lane\" is a lane that is:",
+              "options": [
+                "used only by people walking",
+                "on the left side",
+                "made for horses",
+                "a place where people left their horses"
+              ],
+              "key": 1,
+              "explanation": "The familiar parts 'left' and 'hand' identify the side of the road."
+            },
+            {
+              "stem": "A \"horse-drawn cart\" is a cart that is:",
+              "options": [
+                "used to carry horses",
+                "made for drawing pictures",
+                "pulled by a horse",
+                "made from wood"
+              ],
+              "key": 2,
+              "explanation": "In this compound, 'drawn' means pulled. A horse-drawn cart is pulled by a horse."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "title": "Using context for difficult words",
+      "pages": [
+        44,
+        47
+      ],
+      "lesson": [
+        "What are Context Clues?",
+        "Sometimes you will see a word that you do not know. You are not expected to know every word in a reading passage. Instead, you can use the words and sentences around it to help you understand its meaning.",
+        "These are called context clues.",
+        "Context clues may include actions, descriptions, comparisons or results.",
+        "Common Context Clues",
+        "1. Location clues - the question usually tells you where to find the word in the passage.",
+        "This helps you find the correct sentence quickly.",
+        "2. Sentence clues - the words before and after the difficult word often help explain its meaning.",
+        "3. Logic clues - think about what makes sense in the situation. Use the information in the sentence to choose the most suitable meaning.",
+        "Reading Strategy: Use the following steps to answer vocabulary questions.",
+        "Step 1 – Find the unfamiliar word in the passage.",
+        "Step 2 – Read the whole sentence carefully.",
+        "Step 3 – Read the sentence before and after it if necessary.",
+        "Step 4 – Look for clues such as actions, descriptions comparisons or results that help explain the word.",
+        "Step 5 – Choose the answer that best fits the context.",
+        "Reading Tip: Do not focus only on the difficult word. The surrounding sentences often give you enough information to understand its meaning."
+      ],
+      "example": [
+        "Read the information below and answer the question.",
+        "Greenhouse gases trap heat in the Earth's atmosphere. As a result, the Earth's average temperature continues to rise.",
+        "Q. The word \"trap\" is closest in meaning to:",
+        "A) release B) increase C) keep D) remove",
+        "Answer",
+        "C) keep",
+        "The sentence explains that greenhouse gases cause the Earth's temperature to rise because they trap heat. From the context we can understand that trap means ‘to keep something somewhere rather than let something escape.’"
+      ],
+      "practices": [
+        {
+          "id": "s10-p1",
+          "number": 1,
+          "page": 46,
+          "paragraphs": [
+            "Greenhouse gases trap heat in the Earth's atmosphere. As more greenhouse gases are released, the Earth's average temperature continues to rise. Scientists believe this may lead to changes in weather patterns, such as changes in when and how much it rains, and rising sea levels."
+          ],
+          "questions": [
+            {
+              "stem": "The word \"released\" is closest in meaning to:",
+              "options": [
+                "collected",
+                "removed",
+                "hidden",
+                "produced"
+              ],
+              "key": 3,
+              "explanation": "The surrounding sentences describe more gases entering the atmosphere. Here, 'produced' is the closest available choice for gases being released into it."
+            },
+            {
+              "stem": "The word \"patterns\" is closest in meaning to:",
+              "options": [
+                "changes that happen in a regular way",
+                "dangerous temperatures",
+                "scientific experiments",
+                "levels of the sea"
+              ],
+              "key": 0,
+              "explanation": "The examples of when and how much it rains point to the regular ways weather behaves. 'Patterns' refers to those regular ways."
+            }
+          ]
+        },
+        {
+          "id": "s10-p2",
+          "number": 2,
+          "page": 47,
+          "paragraphs": [
+            "As the Earth's temperature increases, glaciers and polar ice begin to melt. This causes sea levels to rise, which can lead to flooding in some coastal areas. Scientists continue to study these changes because they want to understand their long-term effects, such as damage to homes and roads."
+          ],
+          "questions": [
+            {
+              "stem": "The word \"flooding\" is closest in meaning to:",
+              "options": [
+                "a long period without rain",
+                "water covering normally dry land",
+                "ice forming near the sea",
+                "temperatures becoming lower"
+              ],
+              "key": 1,
+              "explanation": "Melting ice raises sea levels, so water can cover land that is normally dry."
+            },
+            {
+              "stem": "The word \"effects\" is closest in meaning to:",
+              "options": [
+                "causes",
+                "examples",
+                "questions",
+                "results"
+              ],
+              "key": 3,
+              "explanation": "Damage to homes and roads is an example of a result of these changes. 'Effects' means results."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "title": "Using context for simple words",
+      "pages": [
+        48,
+        50
+      ],
+      "lesson": [
+        "What are Context Questions for Simple Words?",
+        "Sometimes you will see a simple, familiar word in a reading passage. However, the word may have a different meaning in that sentence.",
+        "You should choose the meaning that fits the context, not the most common dictionary meaning - reading the whole sentence carefully will help you choose the correct answer.",
+        "Reading Strategy: Use the following steps to answer these questions.",
+        "Step 1 – Find the word in the passage.",
+        "Step 2 – Read the whole sentence, not just the word.",
+        "Step 3 – Think about how the word is being used and what meaning makes sense in the sentence.",
+        "Step 4 – Use the surrounding information to choose the meaning that fits the context.",
+        "Reading Tip: Many common English words have more than one meaning - always choose the meaning that makes sense in the passage."
+      ],
+      "example": [
+        "Read the sentence below.",
+        "Papyrus was much lighter than stone, so people could easily carry what they wrote.",
+        "Q. The word \"carry\" is closest in meaning to: A) hold and move B) win C) continue D) study",
+        "ANSWER: A) hold and move",
+        "Explanation: The sentence compares papyrus with stone. Because papyrus was lighter, people could move it more easily. Therefore, we can understand that carry means to hold and move something from one place to another."
+      ],
+      "practices": [
+        {
+          "id": "s11-p1",
+          "number": 1,
+          "page": 49,
+          "paragraphs": [
+            "The Egyptians invented papyrus, a material like paper which they used for writing on. Papyrus was much lighter than stone, so people could easily carry what they wrote. Although papyrus was better than stone, it was still not perfect because it was easily damaged by water."
+          ],
+          "questions": [
+            {
+              "stem": "The word \"lighter\" in the sentence \"Papyrus was much lighter than stone\" is closest in meaning to:",
+              "options": [
+                "bright",
+                "pale in colour",
+                "less heavy",
+                "easy to understand"
+              ],
+              "key": 2,
+              "explanation": "Because people could carry papyrus more easily, 'lighter' means less heavy rather than brighter or paler."
+            },
+            {
+              "stem": "The word \"better\" is closest in meaning to:",
+              "options": [
+                "larger",
+                "more useful",
+                "more expensive",
+                "more beautiful"
+              ],
+              "key": 1,
+              "explanation": "The comparison concerns suitability for writing and carrying. In this context, 'better' means more useful."
+            }
+          ]
+        },
+        {
+          "id": "s11-p2",
+          "number": 2,
+          "page": 50,
+          "paragraphs": [
+            "Over the next 1,000 years, his invention spread from China to the rest of the world, reaching the Islamic world about 1,200 years ago. By the 11th century, papermaking had reached Europe, where paper mills used waterwheels to make paper."
+          ],
+          "questions": [
+            {
+              "stem": "The word \"spread\" is closest in meaning to:",
+              "options": [
+                "became popular in many places",
+                "became thinner",
+                "was divided into pieces",
+                "was covered"
+              ],
+              "key": 0,
+              "explanation": "The invention moves from China to other parts of the world. 'Spread' means became known or used in many places."
+            },
+            {
+              "stem": "The word \"reached\" is closest in meaning to:",
+              "options": [
+                "touched with a hand",
+                "measured",
+                "arrived in",
+                "achieved"
+              ],
+              "key": 2,
+              "explanation": "Papermaking 'reached Europe': it arrived in or spread to Europe, rather than touching something with a hand."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "title": "Finding where information appears",
+      "pages": [
+        51,
+        54
+      ],
+      "lesson": [
+        "What are Information Location Questions?",
+        "Some reading questions ask you where information is found in a passage. Instead of asking what the information is, these questions ask where it appears.",
+        "The answer choices usually give line numbers or paragraph numbers. Your job is to find the correct location.",
+        "Reading Strategy: Use the following steps to answer these questions.",
+        "Step 1 – Identify the key word or idea in the question.",
+        "Step 2 – Go directly to the line numbers or paragraph numbers in the answer choices.",
+        "Step 3 – Scan for the key word or a similar idea.",
+        "Step 4 – Choose the line or paragraph where the information appears.",
+        "Reading Tip: You do not need to read the whole passage again. Scan for the key word or a related idea instead."
+      ],
+      "example": [
+        "Read the passage below and answer the question.",
+        "According to historians, human civilization first began 12,000 years ago. This was in the historical country of Mesopotamia, which lies in what is now modern-day Iraq. At that time, people called the Sumerians started farming in the fertile land along the Tigris and Euphrates rivers.",
+        "Q. Where in the passage does the author mention the Tigris and Euphrates rivers?",
+        "A) Line 1",
+        "B) Line 2",
+        "C) Line 3",
+        "D) Line 4",
+        "ANSWER C) Line 3",
+        "Explanation: The phrase \"the Tigris and Euphrates rivers\" appears in the third line of the passage. Scanning for the key words helps you find the correct location quickly."
+      ],
+      "practices": [
+        {
+          "id": "s12-p1",
+          "number": 1,
+          "page": 53,
+          "paragraphs": [],
+          "questions": [
+            {
+              "stem": "Where in the passage does the author mention the world's oldest known civilization?",
+              "options": [
+                "Line 1",
+                "Line 2",
+                "Line 3",
+                "Line 4"
+              ],
+              "key": 3,
+              "explanation": "The phrase 'the world's oldest known civilization' appears on numbered line 4."
+            },
+            {
+              "stem": "Where in the passage does the author mention the world's first writing?",
+              "options": [
+                "Line 2",
+                "Line 3",
+                "Line 5",
+                "Line 6"
+              ],
+              "key": 2,
+              "explanation": "The phrase 'the world's first writing' appears on numbered line 5."
+            }
+          ],
+          "lines": [
+            "According to historians, human civilization first began 12,000 years ago. This was in the",
+            "historical country of Mesopotamia, which lies in what is now modern-day Iraq. At that time,",
+            "people called the Sumerians started farming in the fertile land along the Tigris and Euphrates",
+            "rivers. The Sumerians are famous as the world's oldest known civilization. They are also famous",
+            "for inventing the world's first writing."
+          ]
+        },
+        {
+          "id": "s12-p2",
+          "number": 2,
+          "page": 54,
+          "paragraphs": [],
+          "questions": [
+            {
+              "stem": "Where in the passage does the author explain how papyrus was made?",
+              "options": [
+                "Line 2",
+                "Line 4",
+                "Line 5",
+                "Line 6"
+              ],
+              "key": 1,
+              "explanation": "Numbered line 4 says papyrus was made from the leaves of the papyrus plant. The sentence begins on line 3 and continues onto line 4."
+            },
+            {
+              "stem": "Where in the passage does the author mention that another development would come from China?",
+              "options": [
+                "Line 3",
+                "Line 4",
+                "Line 5",
+                "Line 6"
+              ],
+              "key": 3,
+              "explanation": "Numbered line 6 introduces the next development from China. The sentence begins on line 5 and continues onto line 6."
+            }
+          ],
+          "lines": [
+            "Another ancient civilization discovered the solution. Five thousand years ago, the Egyptians",
+            "invented papyrus, a material like paper which they used for writing on. Papyrus was not heavy",
+            "like stone, so people could easily carry what they wrote. The Egyptians made papyrus from the",
+            "leaves of the papyrus plant. Although papyrus was better than stone, it was still not perfect",
+            "because it was easily damaged by water. However, another great development in writing was",
+            "going to come from China."
+          ]
+        }
+      ],
+      "exampleLines": [
+        "According to historians, human civilization first began 12,000 years ago. This was in the",
+        "historical country of Mesopotamia, which lies in what is now modern-day Iraq. At that time,",
+        "people called the Sumerians started farming in the fertile land along the Tigris and Euphrates",
+        "rivers."
+      ]
+    }
+  ]
+}

@@ -4,6 +4,27 @@
 
 #audioStatus:empty{display:none}
 
+#readingMenu{grid-template-columns:repeat(3,minmax(0,1fr))}
+#readingContents{margin-top:24px;padding:24px;background:#eaf2ee;border:1px solid #d7e5de;border-radius:14px}
+#readingContents>h3{margin-top:0;font-size:21px}.reading-toc{grid-template-columns:repeat(3,minmax(0,1fr));margin-top:24px}
+.reading-toc .card{padding:20px}.reading-toc .card strong{font-size:17px;line-height:1.45;margin:8px 0 12px}
+.reading-credit{color:#536d67;font-size:14px;line-height:1.6}.reading-lesson{max-width:900px;margin:auto;padding:32px}.reading-lesson>h2{font-size:27px;margin-top:0}
+.reading-lesson p{line-height:1.8}.reading-tip{padding:16px 20px;background:#eef6f1;border-left:4px solid #287265;border-radius:6px}
+.reading-example{margin:24px 0;padding:20px;background:#f3f7f5;border:1px solid #d7e5de;border-radius:10px}
+summary{cursor:pointer;font-weight:650;padding:8px 0}summary:focus-visible{outline:3px solid #a45000;outline-offset:3px}
+.reading-layout{grid-template-columns:minmax(0,1.15fr) minmax(0,1fr)}
+.reading-passage{position:sticky;top:16px;max-height:calc(100dvh - 32px);overflow:auto;line-height:1.85}
+.reading-passage h2{margin-top:0}.reading-paragraph{margin:0 0 22px}.paragraph-number{display:inline-block;margin-right:10px;font-size:13px;font-weight:700;color:#536d67}
+.reading-lines{padding-left:2.5em;line-height:1.85}.reading-lines li{padding-left:12px;margin-bottom:10px;overflow-wrap:anywhere}.reading-lines li::marker{color:#536d67;font-weight:650}
+.reading-controls,.reading-back-links{display:flex;flex-wrap:wrap;gap:10px}.reading-controls{margin-top:18px}
+#readingQuestions h3{font-size:19px;line-height:1.6;margin:12px 0}.answered-nav{background:#e4f5ed;border-color:#287265}
+#readingQuestions .question-card:focus{outline:2px solid #287265;outline-offset:8px}
+#readingResult:empty{display:none}#readingResult:not(:empty){background:#eaf5ef;padding:16px;border-radius:10px;margin-top:20px}
+#readingPlanning{margin-top:20px}#readingPlanning:empty{display:none}#readingPlanning label{display:block;margin:16px 0;line-height:1.6}
+#readingPlanning textarea{display:block;width:100%;font:inherit;padding:10px;border:1px solid #b8cbc5;border-radius:6px;margin-top:6px;resize:vertical}
+@media(max-width:800px){.reading-layout{grid-template-columns:1fr}.reading-passage{position:static;max-height:55dvh}.reading-toc{grid-template-columns:repeat(2,minmax(0,1fr))}.reading-lesson{padding:20px}.reading-lesson>h2{font-size:23px}#readingContents{padding:16px}}
+@media(max-width:480px){#readingMenu{gap:8px}#readingMenu .card{padding:16px 10px}#readingMenu .card strong{font-size:16px}#readingMenu .card small{font-size:12px}.reading-toc{grid-template-columns:1fr}.reading-back-links button{padding:10px 12px}}
+
 header{display:flex;align-items:center;gap:24px}.brand-logo{display:block;box-sizing:content-box;width:184px;height:31px;flex-shrink:0;background:transparent;padding:0;border-radius:0}@media(max-width:800px){header{flex-wrap:wrap;gap:16px}.brand-logo{width:166px;height:auto;padding:0}header h1{font-size:21px}}
 
 .practice-section{margin-top:28px}.reading-placeholder{display:flex;align-items:center;justify-content:space-between;gap:16px;padding:23px;border:1px dashed #b8cbc5;border-radius:10px;background:#fff}.reading-placeholder>span:first-child{font-weight:600}#sectionMenu{grid-template-columns:repeat(3,minmax(0,1fr))}@media(max-width:480px){#sectionMenu{gap:8px}#sectionMenu .card{padding:16px 10px}#sectionMenu .card strong{font-size:16px}#sectionMenu .card small{font-size:12px}}
