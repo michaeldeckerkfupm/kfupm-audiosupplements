@@ -137,6 +137,8 @@
         });
       });
     });
+    const sample = box.querySelector('.reading-lines') || [...box.querySelectorAll('p')].find(p => p.textContent === s.example[1]);
+    if (sample) window.readingPassageTargets(sample,s.example.filter(text => /^(Question|Q(?:\d+)?[.])/i.test(text)).map(stem => ({stem})));
   }
   function lines(box, values) {
     const list = node('ol',undefined,'reading-lines');
@@ -173,6 +175,7 @@
       paragraph.append(document.createTextNode(text));
       $('readingPassage').append(paragraph);
     });
+    window.readingPassageTargets($('readingPassage'),p.questions);
     $('readingPassageCredit').textContent = 'Chris Molcher (2026) · Guidebook page ' + p.page;
     $('readingSaveNote').textContent = 'Answers and flags are saved on this device. Results are not sent to your teacher.';
     save(); render(); $('readingPassagePanel').scrollTop = 0;
