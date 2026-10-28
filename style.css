@@ -28,3 +28,7 @@ summary{cursor:pointer;font-weight:650;padding:8px 0}summary:focus-visible{outli
 header{display:flex;align-items:center;gap:24px}.brand-logo{display:block;box-sizing:content-box;width:184px;height:31px;flex-shrink:0;background:transparent;padding:0;border-radius:0}@media(max-width:800px){header{flex-wrap:wrap;gap:16px}.brand-logo{width:166px;height:auto;padding:0}header h1{font-size:21px}}
 
 .practice-section{margin-top:28px}.reading-placeholder{display:flex;align-items:center;justify-content:space-between;gap:16px;padding:23px;border:1px dashed #b8cbc5;border-radius:10px;background:#fff}.reading-placeholder>span:first-child{font-weight:600}#sectionMenu{grid-template-columns:repeat(3,minmax(0,1fr))}@media(max-width:480px){#sectionMenu{gap:8px}#sectionMenu .card{padding:16px 10px}#sectionMenu .card strong{font-size:16px}#sectionMenu .card small{font-size:12px}}
+/* Shared expanded menus */
+.collapsible-menu,#readingContents,#tests,#readingTestsContents{margin-top:24px;padding:24px;background:#eaf2ee;border:1px solid #d7e5de;border-radius:14px}
+.collapsible-menu>h2:first-child,.collapsible-menu>h3:first-child{margin-top:0}.collapsible-menu a{color:#19594f;font-weight:600}.collapsible-menu .reading-controls{gap:18px}
+@media(max-width:800px){.collapsible-menu,#readingContents,#tests,#readingTestsContents{padding:16px}}
