@@ -68,3 +68,36 @@ window.readingPassageTargets = (box, questions) => {
     fragment.append(document.createTextNode(node.textContent.slice(at))); node.replaceWith(fragment);
   });
 };
+
+// Reflow printed lines into paragraphs; keep source line markers as inline anchors.
+window.readingSourceText = (box, lines) => {
+  let paragraph = null, previous = '';
+  const normalize = text => text.replace(/\s+/g,' ').trim();
+  lines.forEach((line,index) => {
+    const text = normalize(line.text);
+    if (!text) { paragraph=null; previous=''; return; }
+    const next = lines.slice(index+1).find(l => normalize(l.text));
+    const boundary = !paragraph || line.gap || /[.!?][”"']?$/.test(previous);
+    const heading = boundary && text.length < 75 && text.split(' ').length <= 11
+      && !/[.!?;,][”"']?$/.test(text) && !/^[_\d•●▪]/.test(text)
+      && next && /^[A-Z]/.test(normalize(next.text));
+    if (heading) {
+      const h = document.createElement('h3'); h.textContent=text; box.append(h);
+      paragraph=null; previous=text; return;
+    }
+    const listItem = /^(?:\d+[).]|[•●▪])\s/.test(text);
+    if (!paragraph || line.gap || listItem) {
+      paragraph=document.createElement('p'); paragraph.className='source-paragraph';
+      if(listItem) paragraph.classList.add('source-list-item');
+      box.append(paragraph);
+    }
+    if (paragraph.childNodes.length) paragraph.append(document.createTextNode(/[-‐‑]$/.test(previous)?'':' '));
+    if (line.number) {
+      const marker=document.createElement('sup'); marker.className='source-line-number';
+      marker.textContent=String(line.number); marker.title='Original passage line '+line.number;
+      marker.setAttribute('aria-label','Original line '+line.number); paragraph.append(marker,document.createTextNode(' '));
+    }
+    const span=document.createElement('span'); span.className='source-text'; span.textContent=text;
+    paragraph.append(span); previous=text;
+  });
+};
