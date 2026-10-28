@@ -6646,38 +6646,38 @@
         "answer": 2
       },
       {
-        "stem": "In Japan, a RECYCLING CENTRE was built ______.",
+        "stem": "What did residents in Japan prefer to the proposed underground shops and workplaces?",
         "images": [],
         "options": [
           {
-            "text": "instead of underground projects",
+            "text": "A recycling centre.",
             "images": []
           },
           {
-            "text": "to save building space",
+            "text": "Another shopping mall.",
             "images": []
           },
           {
-            "text": "underground",
+            "text": "More offices.",
             "images": []
           }
         ],
         "answer": 0
       },
       {
-        "stem": "The WOMAN suggests that, in Russia, an UNDERGROUND CITY, _____.",
+        "stem": "What does the woman suggest about an underground city in Russia?",
         "images": [],
         "options": [
           {
-            "text": "has been built",
+            "text": "It has already been built.",
             "images": []
           },
           {
-            "text": "should be built",
+            "text": "It could allow people to live and work in areas with extreme temperatures.",
             "images": []
           },
           {
-            "text": "will be built",
+            "text": "It will definitely be built next year.",
             "images": []
           }
         ],
@@ -6741,26 +6741,27 @@
         "answer": 1
       },
       {
-        "stem": "The WOMAN suggests that ______.",
+        "stem": "When she returns to Mexico City, the woman will ______.",
         "images": [],
         "options": [
           {
-            "text": "it will be the first time she has visited Mexico City",
+            "text": "visit the city for the first time",
             "images": []
           },
           {
-            "text": "she is not sure if buildings will be built underground",
+            "text": "work on projects outside the city",
             "images": []
           },
           {
-            "text": "she will work on projects in the centre of Mexico City",
+            "text": "work only in the city centre",
             "images": []
           }
         ],
         "answer": 1
       }
     ],
-    "audio": "audio/1O9V3aSAxow4w7dQufbXmwb_fzTSPw_bV.mp3"
+    "audio": "audio/1O9V3aSAxow4w7dQufbXmwb_fzTSPw_bV.mp3",
+    "revision": "20261028"
   },
   {
     "section": "long",
@@ -6810,7 +6811,7 @@
         "images": [],
         "options": [
           {
-            "text": "a policeman",
+            "text": "a detective",
             "images": []
           },
           {
@@ -6825,7 +6826,7 @@
         "answer": 0
       },
       {
-        "stem": "About how many of his models go to England and France?",
+        "stem": "What percentage of his models go to England and France?",
         "images": [],
         "options": [
           {
@@ -6958,7 +6959,8 @@
         "answer": 1
       }
     ],
-    "audio": "audio/1fen2xYACIi10Vx_JPjb_La-MmJjYCFio.mp3"
+    "audio": "audio/1fen2xYACIi10Vx_JPjb_La-MmJjYCFio.mp3",
+    "revision": "20261028"
   },
   {
     "section": "long",
@@ -6966,7 +6968,7 @@
     "number": 8,
     "questions": [
       {
-        "stem": "Which sentence is NOT TRUE? The writer ______.",
+        "stem": "Which claim about the writer is NOT STATED in the recording?",
         "images": [],
         "options": [
           {
@@ -7042,7 +7044,7 @@
         "answer": 0
       },
       {
-        "stem": "The speaker’s OWN novel will NOT ______.",
+        "stem": "The writer’s new James Bond novel will NOT ______.",
         "images": [],
         "options": [
           {
@@ -7156,7 +7158,8 @@
         "answer": 2
       }
     ],
-    "audio": "audio/10GjyPtSrR_YGoqmIyOhbjhY1bUEwhUoS.mp3"
+    "audio": "audio/10GjyPtSrR_YGoqmIyOhbjhY1bUEwhUoS.mp3",
+    "revision": "20261028"
   },
   {
     "section": "long",
@@ -7641,7 +7644,7 @@
         "images": [],
         "options": [
           {
-            "text": "be very healthy",
+            "text": "be physically very fit",
             "images": []
           },
           {
@@ -7751,7 +7754,8 @@
         "answer": 0
       }
     ],
-    "audio": "audio/1Xsmfnu-Vuh79Sl2FVrT3I8JNV9AQii2c.mp3"
+    "audio": "audio/1Xsmfnu-Vuh79Sl2FVrT3I8JNV9AQii2c.mp3",
+    "revision": "20261028"
   },
   {
     "section": "long",
@@ -8511,7 +8515,7 @@
         "answer": 0
       },
       {
-        "stem": "The indoor market building has closed because it was SHABBY and ______.",
+        "stem": "The indoor market building will close for repairs because it is SHABBY and ______.",
         "images": [],
         "options": [
           {
@@ -8549,7 +8553,8 @@
         "answer": 2
       }
     ],
-    "audio": "audio/1yGHzVaoMxLjMaLbSd_zEwKQ7MzFsliRA.mp3"
+    "audio": "audio/1yGHzVaoMxLjMaLbSd_zEwKQ7MzFsliRA.mp3",
+    "revision": "20261028"
   },
   {
     "section": "long",
@@ -9134,7 +9139,7 @@
         "images": [],
         "options": [
           {
-            "text": "actively think",
+            "text": "switch off completely",
             "images": []
           },
           {
@@ -9149,7 +9154,8 @@
         "answer": 1
       }
     ],
-    "audio": "audio/1bgsdyIMWtx8aWb0FgVHf_6oE1k1mGWwd.mp3"
+    "audio": "audio/1bgsdyIMWtx8aWb0FgVHf_6oE1k1mGWwd.mp3",
+    "revision": "20261028"
   },
   {
     "section": "long",
@@ -9401,7 +9407,7 @@
             "images": []
           },
           {
-            "text": "region",
+            "text": "US state",
             "images": []
           },
           {

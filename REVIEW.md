@@ -10,11 +10,11 @@ New recordings restored: Long / Teacher / Test 7 (College, model-maker), Drive I
 
 ## Completed source review
 
-All Short Set 1 tests 1–20 and Short Set 2 tests 1–15; Long Practice 1–4 tests 1–4; Long Teacher tests 1–5; Full exams 8, 15, 16. Total: 47 tests / 420 questions. Review uses time-stamped local transcriptions of the actual recordings, with focused retranscription of uncertain excerpts. Illustrations for all 24 image-based questions have been visually inspected. All referenced audio and image paths have been checked locally.
+All Short Set 1 tests 1–20 and Short Set 2 tests 1–15; Long Practice 1–4 tests 1–4; Long Teacher tests 1–10; Long Student tests 1–11; Full exams 8, 15, 16. Total: 63 tests / 580 questions. Review uses time-stamped local transcriptions of the actual recordings, with focused retranscription of uncertain excerpts. Illustrations for all 24 image-based questions have been visually inspected. All referenced audio and image paths have been checked locally.
 
 ## Remaining source review
 
-Long Teacher tests 6–10; all Long Student tests 1–11; Full exams 1–7, 9–14, 17–21. Total: 34 tests / 484 questions. The recording transcriptions are being generated locally; their existence alone does not mean the questions have been reviewed. Final browser/data checks and production deployment verification remain.
+Full exams 1–7, 9–14, 17–21. Total: 18 tests / 324 questions. The recording transcriptions are being generated locally; their existence alone does not mean the questions have been reviewed. Final browser/data checks and production deployment verification remain.
 
 ## Important verified corrections
 
@@ -45,3 +45,9 @@ Some full exams reuse entire sections: 9/12, 10/13, 11/14, and the Travel-Lite s
 ## First committed checkpoint
 
 `bc6c2713183d38d92af7f590bb7f297ed6e6bc5a`: audio restoration, seeking fix, initial timing and key corrections. Later commits continue this review.
+
+## Branding and instruction cleanup
+
+Added the official English KFUPM wordmark in the header and official tower SVG favicon, obtained from the university homepage assets. Verified header rendering at desktop and 390px mobile width without overflow. Removed the ready/seeking message and headphones/read-ahead boilerplate at the user’s request. Loading/error status is retained only while needed.
+
+Further long-test corrections: Teacher 6 now distinguishes the proposed recycling centre from underground shops, frames the Russian city as hypothetical, and asks about the stated out-of-town projects. Teacher 7 asks for a percentage and uses detective precisely. Teacher 8 Q1 asks what is not stated, because more than 20 million does not logically exclude at least 26 million; Q5 identifies the new Bond novel. Student 5 corrects future closure tense; Student 8 removes an overlapping brain-activity alternative.
