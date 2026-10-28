@@ -30,7 +30,7 @@
   }
   function load(p) {
     try {
-      const saved = JSON.parse(localStorage.getItem(NS + p.id));
+      const saved = JSON.parse(localStorage.getItem(NS + p.id + (p.revision ? ':r' + p.revision : '')));
       if (saved?.version === 1 && saved.first?.order?.length === p.questions.length &&
           [saved.first, saved.retry].filter(Boolean).every(r => Array.isArray(r.ids) &&
             r.ids.every(i => p.questions[i]) && r.answers && r.order.every((a, i) =>
@@ -40,7 +40,7 @@
     return {version:1, flags:{}, mastered:{}, first:newRound(p.questions.map((_, i) => i), p)};
   }
   function save() {
-    try { localStorage.setItem(NS + activity.id, JSON.stringify(state)); }
+    try { localStorage.setItem(NS + activity.id + (activity.revision ? ':r' + activity.revision : ''), JSON.stringify(state)); }
     catch (_) { $('readingSaveNote').textContent = 'This browser could not save progress. You can still complete this activity.'; }
   }
   const round = () => mode === 'retry' ? state.retry : state.first;
@@ -97,11 +97,45 @@
       box.replaceChildren(node('p','The reading guide could not be loaded. Please try again.'),button('Try again',openContents));
     }
   }
+  function emphasize(el,text) {
+    text.split(/(DOES NOT|NOT|EXCEPT|BEST TITLE|BEST HEADING|MAIN SUBJECT|BEST)/g).forEach(t => el.append(/^(DOES NOT|NOT|EXCEPT|BEST TITLE|BEST HEADING|MAIN SUBJECT|BEST)$/.test(t) ? node('strong',t) : document.createTextNode(t)));
+    return el;
+  }
   function prose(box, paragraphs) {
+    let steps;
     paragraphs.forEach(text => {
-      const el = node('p', text);
-      if (/^(Reading Strategy|Reading Tip)/.test(text)) el.className = 'reading-tip';
-      box.append(el);
+      if (text.includes('•')) {
+        const parts = text.split('•');
+        if(parts[0].trim()) box.append(node('p',parts.shift().trim())); else parts.shift();
+        const ul=node('ul',undefined,'reading-bullets');
+        parts.forEach(t=>ul.append(node('li',t.trim())));box.append(ul);steps=null;return;
+      }
+      const step=text.match(/^Step (\d+)\s*[-–:]\s*(.*)/);
+      if(step){if(!steps){steps=node('ol',undefined,'reading-steps');box.append(steps);}steps.append(node('li',step[2]));return;}
+      if(steps && /^(Ask yourself:|This is usually|Contrast:|Support:|Example:|Cause and Effect:|Sequence:)/.test(text)){steps.lastChild.append(node('p',text));return;}
+      steps=null;
+      if(/^Reading Tip:/.test(text)){const tip=node('aside',undefined,'reading-tip');tip.append(node('strong','Reading tip'),node('p',text.replace(/^Reading Tip:\s*/,'')));box.append(tip);return;}
+      if(/^Reading Strategy/.test(text)){box.append(node('h3','Reading strategy'));const rest=text.replace(/^Reading Strategy:?\s*/,'');if(rest)box.append(node('p',rest));return;}
+      const intro=text.match(/^(What (?:is|are) [^?]+\?)\s*(.*)/);
+      if(intro){box.append(node('h3',intro[1]));if(intro[2])box.append(node('p',intro[2]));return;}
+      if(/^(Type [12]:|Common (Relationships|Word Parts|Context Clues)|Three Types of Structural Clues|[123]\. (Punctuation clues|Restatement clues|Example clues|Prefix:|Root:|Suffix:|Location clues|Sentence clues|Logic clues))/.test(text)){const split=text.match(/^([123]\. [^:]+:)\s*(.+)/);if(split)box.append(node('h4',split[1]),node('p',split[2]));else box.append(node('h4',text));return;}
+      box.append(node('p',text));
+    });
+  }
+  function workedExample(box,s) {
+    let answering=false,choices;
+    s.example.forEach((text,i)=>{
+      if(s.exampleLines && i===1){lines(box,s.exampleLines);return;}
+      const chunks=text.split(/\s+(?=(?:ANSWER|Answer)(?:\s*[-:]|\s+[A-D]\)|$))/);
+      chunks.forEach(chunk=>{
+        if(/^(?:ANSWER|Answer)\b/.test(chunk)){answering=true;choices=null;const rest=chunk.replace(/^(?:ANSWER|Answer)\s*[-:]?\s*/,'');box.append(node('h4','Answer'));if(rest)box.append(node('p',rest));return;}
+        if(/^(?:Question|Q(?:\d+)?[.])/i.test(chunk)){answering=false;choices=null;}
+        const parts=answering?[chunk]:chunk.split(/\s+(?=[A-D]\))/);
+        parts.forEach(t=>{
+          if(!answering && /^[A-D]\)/.test(t)){if(!choices){choices=node('ol',undefined,'reading-example-options');choices.type='A';box.append(choices);}choices.append(node('li',t.replace(/^[A-D]\)\s*/,'')));}
+          else {choices=null;if(/^(Question|Q(?:\d+)?[.])/.test(t))box.append(emphasize(node('h4'),t.replace(/^Question\s*-?\s*/,'Question: ')));else if(/^(Why\?|Explanation)$/.test(t))box.append(node('h4',t));else box.append(node('p',t));}
+        });
+      });
     });
   }
   function lines(box, values) {
@@ -116,10 +150,7 @@
     prose(box,s.lesson);
     const example = node('details',undefined,'reading-example');
     example.append(node('summary','Worked example'));
-    s.example.forEach((text,i) => {
-      if (s.exampleLines && i === 1) lines(example,s.exampleLines);
-      else example.append(node('p',text));
-    });
+    workedExample(example,s);
     box.append(example,node('h3','Practise this skill'));
     const activities = node('div',undefined,'grid');
     s.practices.forEach(p => {
@@ -208,7 +239,7 @@
       },state.flags[i] ? 'flagged' : '');
       flag.setAttribute('aria-pressed',String(!!state.flags[i]));
       toolbar.append(node('strong','Question ' + (i+1)),flag);
-      const h = node('h3',q.stem); h.id = 'reading-stem-' + i;
+      const h = emphasize(node('h3'),q.stem); h.id = 'reading-stem-' + i;
       const choices = node('div'); choices.setAttribute('role','group'); choices.setAttribute('aria-labelledby',h.id);
       r.order[i].forEach((oi,pos) => {
         const b = button('',() => {
