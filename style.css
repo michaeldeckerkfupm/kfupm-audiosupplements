@@ -5,3 +5,5 @@
 #audioStatus:empty{display:none}
 
 header{display:flex;align-items:center;gap:24px}.brand-logo{display:block;box-sizing:content-box;width:184px;height:31px;flex-shrink:0;background:transparent;padding:0;border-radius:0}@media(max-width:800px){header{flex-wrap:wrap;gap:16px}.brand-logo{width:166px;height:auto;padding:0}header h1{font-size:21px}}
+
+.practice-section{margin-top:28px}.reading-placeholder{display:flex;align-items:center;justify-content:space-between;gap:16px;padding:23px;border:1px dashed #b8cbc5;border-radius:10px;background:#fff}.reading-placeholder>span:first-child{font-weight:600}#sectionMenu{grid-template-columns:repeat(3,minmax(0,1fr))}@media(max-width:480px){#sectionMenu{gap:8px}#sectionMenu .card{padding:16px 10px}#sectionMenu .card strong{font-size:16px}#sectionMenu .card small{font-size:12px}}
