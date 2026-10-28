@@ -200,7 +200,7 @@
           "number": 2,
           "page": 13,
           "paragraphs": [
-            "According to historians, human civilization first began 12,000 years ago. This was in the historical country of Mesopotamia, which lies in what is now modern-day Iraq. At that time, people called the Sumerians started farming in the fertile land along the Tigris and Euphrates rivers. The Sumerians are famous for inventing the world's first writing.",
+            "According to historians, human civilization first began 12,000 years ago. This was in the historical country of Mesopotamia, which lies in what is now modern-day Iraq. At that time, people called the Sumerians started farming in the fertile land along the Tigris and Euphrates rivers. The Sumerians are famous for inventing the world's first writing. However, because they did not have paper, they wrote on stone.",
             "Another ancient civilization discovered the solution. The Egyptians invented papyrus, a material like paper that was much easier to carry than stone. Although papyrus was an improvement, it was still not perfect.",
             "It fell to a Chinese man called Cai Lun, who lived about 2,000 years ago, to produce paper with properties similar to those in the paper we use today. He worked out how to make paper from wood and water, and over the next 1,000 years, his invention spread from China to the rest of the world."
           ],
@@ -227,7 +227,8 @@
               "key": 2,
               "explanation": "Paragraph 2 describes papyrus. Paragraph 3 describes the next development, paper with properties similar to modern paper."
             }
-          ]
+          ],
+          "revision": 2
         }
       ]
     },
@@ -353,7 +354,11 @@
       ],
       "lesson": [
         "What are Unstated Detail Questions? Unstated Detail Questions ask you to identify information that is not mentioned in the passage or is not true according to the passage.",
-        "The question may ask: • Which of the following is NOT mentioned? • Which of the following is NOT discussed? • Which of the following is NOT true according to the passage? These questions test how carefully you read the passage. To answer them correctly, you need to identify the information that is missing or false.",
+        "The question may ask:",
+        "• Which of the following is NOT mentioned?",
+        "• Which of the following is NOT discussed?",
+        "• Which of the following is NOT true according to the passage?",
+        "These questions test how carefully you read the passage. To answer them correctly, you need to identify the information that is missing or false.",
         "Reading Strategy:",
         "Use the following steps to answer Unstated Detail Questions.",
         "Step 1 – Identify the key word/s from the question, EG – ‘not mentioned’, ‘except’ or ‘false’.",
@@ -362,7 +367,11 @@
         "Step 4 – Eliminate every answer that is supported by the passage.",
         "Step 5 – The correct answer is the one that is not mentioned or not true, depending on the question.",
         "Reading Tip: Read every answer choice. Do not choose an answer just because you cannot remember reading it. Always check the passage first.",
-        "There are two common types of unstated detail questions: Type 1 – NOT Mentioned Three answers are supported by the passage. One answer is not mentioned. Type 2 – NOT True Three answers are true according to the passage. One answer is false."
+        "There are two common types of unstated detail questions:",
+        "Type 1: NOT mentioned",
+        "Three answers are supported by the passage. One answer is not mentioned.",
+        "Type 2: NOT true",
+        "Three answers are true according to the passage. One answer is false."
       ],
       "example": [
         "Read the passage below.",
@@ -722,13 +731,13 @@
             {
               "stem": "The word \"lighter\" is closest in meaning to:",
               "options": [
-                "easier to carry",
+                "less heavy",
                 "heavier",
                 "more expensive",
                 "stronger"
               ],
               "key": 0,
-              "explanation": "The passage explains 'lighter' with 'easier to carry because it weighed less'."
+              "explanation": "The passage explains that papyrus was easier to carry because it weighed less. “Lighter” means less heavy."
             },
             {
               "stem": "The word \"damaged\" is closest in meaning to:",
@@ -741,7 +750,8 @@
               "key": 2,
               "explanation": "The restatement 'or harmed' directly explains 'damaged'."
             }
-          ]
+          ],
+          "revision": 2
         },
         {
           "id": "s8-p2",
@@ -901,7 +911,7 @@
         "Step 1 – Find the unfamiliar word in the passage.",
         "Step 2 – Read the whole sentence carefully.",
         "Step 3 – Read the sentence before and after it if necessary.",
-        "Step 4 – Look for clues such as actions, descriptions comparisons or results that help explain the word.",
+        "Step 4 – Look for clues such as actions, descriptions, comparisons or results that help explain the word.",
         "Step 5 – Choose the answer that best fits the context.",
         "Reading Tip: Do not focus only on the difficult word. The surrounding sentences often give you enough information to understand its meaning."
       ],
@@ -929,15 +939,15 @@
                 "collected",
                 "removed",
                 "hidden",
-                "produced"
+                "let out"
               ],
               "key": 3,
-              "explanation": "The surrounding sentences describe more gases entering the atmosphere. Here, 'produced' is the closest available choice for gases being released into it."
+              "explanation": "The passage describes gases entering the atmosphere. Here, “released” means let out into the atmosphere; releasing a gas is not the same as producing it."
             },
             {
               "stem": "The word \"patterns\" is closest in meaning to:",
               "options": [
-                "changes that happen in a regular way",
+                "regular ways in which weather behaves",
                 "dangerous temperatures",
                 "scientific experiments",
                 "levels of the sea"
@@ -945,7 +955,8 @@
               "key": 0,
               "explanation": "The examples of when and how much it rains point to the regular ways weather behaves. 'Patterns' refers to those regular ways."
             }
-          ]
+          ],
+          "revision": 2
         },
         {
           "id": "s10-p2",
@@ -1094,13 +1105,13 @@
       "example": [
         "Read the passage below and answer the question.",
         "According to historians, human civilization first began 12,000 years ago. This was in the historical country of Mesopotamia, which lies in what is now modern-day Iraq. At that time, people called the Sumerians started farming in the fertile land along the Tigris and Euphrates rivers.",
-        "Q. Where in the passage does the author mention the Tigris and Euphrates rivers?",
+        "Q. On which line do the words “Tigris and Euphrates” appear?",
         "A) Line 1",
         "B) Line 2",
         "C) Line 3",
         "D) Line 4",
         "ANSWER C) Line 3",
-        "Explanation: The phrase \"the Tigris and Euphrates rivers\" appears in the third line of the passage. Scanning for the key words helps you find the correct location quickly."
+        "Explanation: The words “Tigris and Euphrates” appear on numbered line 3. The sentence continues onto line 4."
       ],
       "practices": [
         {
@@ -1126,7 +1137,7 @@
                 "Line 2",
                 "Line 3",
                 "Line 5",
-                "Line 6"
+                "Line 4"
               ],
               "key": 2,
               "explanation": "The phrase 'the world's first writing' appears on numbered line 5."
@@ -1138,7 +1149,8 @@
             "people called the Sumerians started farming in the fertile land along the Tigris and Euphrates",
             "rivers. The Sumerians are famous as the world's oldest known civilization. They are also famous",
             "for inventing the world's first writing."
-          ]
+          ],
+          "revision": 2
         },
         {
           "id": "s12-p2",
