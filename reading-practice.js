@@ -40,5 +40,19 @@
  $('examNextFlag').onclick=()=>{const ids=active.questions.map((_,i)=>i).filter(i=>state.flags[i]);if(ids.length)go(ids.find(i=>i>lastFlag)??ids[0]);};
  document.addEventListener('visibilitychange',()=>{if(!document.hidden)timer();});
  window.addEventListener('pageshow',timer);
- fetch(collectionId?'other-reading-tests.json':'reading-tests.json').then(r=>{if(!r.ok)throw Error('Unable to load');return r.json();}).then(async data=>{if(collectionId){const collection=data.find(c=>c.id===collectionId);if(!collection)throw Error('Unknown collection');const response=await fetch(collection.dataFile);if(!response.ok)throw Error('Unable to load collection');const readings=await response.json();tests=readings.map(t=>({...t,number:t.id,id:collection.id+'-'+t.id}));$('practiceCollectionTitle').textContent='Other Reading Practice Tests';$('practiceCollectionSubtitle').textContent=collection.title;$('practiceDisclaimer').hidden=false;$('practiceDisclaimer').textContent='These practice tests are not aligned with the B1 assessments and may be above or below them in difficulty.';document.title=collection.title+' | ENGL010';}else tests=data;$('practiceIntro').textContent=tests.length+' readings. Each reading has a 20-minute timer. Choose a reading to start or resume. The timer continues if you leave the page, and answers are submitted automatically when time runs out.';$('loadStatus').textContent='';menu();const v=tests.find(t=>String(t.number??t.id)===params.get('vocabulary')),r=tests.find(t=>String(t.number??t.id)===params.get('reading'));if(v&&v.vocabulary.length)vocab(v);else if(r)open(r);}).catch(()=>{$('loadStatus').replaceChildren(el('p','The readings could not be loaded.'),btn('Try again',()=>location.reload()));});
+ // Keep legacy storage keys and collection IDs so existing attempts and links survive regrouping.
+ fetch('reading-collections.json').then(r=>{if(!r.ok)throw Error('Unable to load');return r.json();}).then(async catalog=>{
+  const collection=catalog.find(c=>c.id===(collectionId||'reading-1-student'));
+  if(!collection)throw Error('Unknown collection');
+  const response=await fetch(collection.dataFile);if(!response.ok)throw Error('Unable to load collection');
+  const readings=await response.json();
+  tests=collection.legacyNumericIds?readings:readings.map(t=>({...t,number:t.id,id:collection.id+'-'+t.id}));
+  $('practiceCollectionTitle').textContent=collection.exam;
+  $('practiceCollectionSubtitle').replaceChildren(el('strong',collection.title));
+  document.title=collection.title+' | '+collection.exam+' | ENGL010';
+  $('practiceIntro').textContent=tests.length+' readings. Each reading has a 20-minute timer. Choose a reading to start or resume. The timer continues if you leave the page, and answers are submitted automatically when time runs out.';
+  $('loadStatus').textContent='';menu();
+  const v=tests.find(t=>String(t.number??t.id)===params.get('vocabulary')),r=tests.find(t=>String(t.number??t.id)===params.get('reading'));
+  if(v&&v.vocabulary.length)vocab(v);else if(r)open(r);
+ }).catch(()=>{$('loadStatus').replaceChildren(el('p','The readings could not be loaded.'),btn('Try again',()=>location.reload()));});
 })();

@@ -1,0 +1,44 @@
+[
+  {
+    "id": "other-1-teacher",
+    "title": "Reading Tests 1-Teacher",
+    "group": "major-1",
+    "exam": "Major 1",
+    "dataFile": "other-1-teacher.json",
+    "count": 24
+  },
+  {
+    "id": "reading-1-student",
+    "title": "Reading Tests 1-Student",
+    "group": "major-1",
+    "exam": "Major 1",
+    "dataFile": "reading-tests.json",
+    "count": 18,
+    "legacyNumericIds": true,
+    "vocabulary": true
+  },
+  {
+    "id": "other-2-teacher",
+    "title": "Reading Tests 2-Teacher",
+    "group": "major-2-final",
+    "exam": "Major 2 and Final Exam",
+    "dataFile": "other-2-teacher.json",
+    "count": 15
+  },
+  {
+    "id": "other-3-teacher",
+    "title": "Reading Tests 3-Teacher",
+    "group": "major-2-final",
+    "exam": "Major 2 and Final Exam",
+    "dataFile": "other-3-teacher.json",
+    "count": 10
+  },
+  {
+    "id": "other-3-student",
+    "title": "Reading Tests 3-Student",
+    "group": "major-2-final",
+    "exam": "Major 2 and Final Exam",
+    "dataFile": "other-3-student.json",
+    "count": 13
+  }
+]

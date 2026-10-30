@@ -1,9 +1,42 @@
 'use strict';
 (() => {
- const menus=[{trigger:'readingTestsButton',box:'readingTestsContents',file:'reading-tests.json',title:'B1 Reading Practice Tests',other:false},{trigger:'otherReadingButton',box:'otherReadingContents',file:'other-reading-tests.json',title:'Other Reading Practice Tests',other:true}];
- const node=(tag,text,cls)=>{const e=document.createElement(tag);if(text)e.textContent=text;if(cls)e.className=cls;return e;};
+ const menus=[
+  {trigger:'readingTestsButton',box:'readingTestsContents',group:'major-1',title:'Major 1'},
+  {trigger:'otherReadingButton',box:'otherReadingContents',group:'major-2-final',title:'Major 2 and Final Exam'}
+ ];
+ const node=(tag,text,cls)=>{const e=document.createElement(tag);if(text!==undefined)e.textContent=text;if(cls)e.className=cls;return e;};
+ let pending;
+ function collections(){
+  if(!pending)pending=fetch('reading-collections.json').then(r=>{if(!r.ok)throw Error();return r.json();}).catch(e=>{pending=null;throw e;});
+  return pending;
+ }
  function close(m){m.expanded=false;document.getElementById(m.box).hidden=true;document.getElementById(m.trigger).setAttribute('aria-expanded','false');}
- async function open(m){if(m.expanded){close(m);return;}menus.filter(x=>x!==m).forEach(close);const guide=document.getElementById('readingGuideButton');if(guide.getAttribute('aria-expanded')==='true')guide.click();collapseSection();m.expanded=true;const trigger=document.getElementById(m.trigger),box=document.getElementById(m.box);trigger.setAttribute('aria-expanded','true');box.hidden=false;box.replaceChildren(node('p','Loading reading tests...'));try{if(!m.pending)m.pending=fetch(m.file).then(r=>{if(!r.ok)throw Error();return r.json();}).catch(e=>{m.pending=null;throw e;});const data=await m.pending;if(!m.expanded)return;box.replaceChildren(node('h3',m.title));if(m.other)box.append(node('p','These practice tests are not aligned with the B1 assessments and may be above or below them in difficulty.','notice'));else {const source=node('p');source.append(node('strong','"Reading Tests 5_Student"'),document.createTextNode(' - Aligned with Assessments'));box.append(source,node('p','Choose a reading for a 20-minute attempt, or study its vocabulary with untimed flashcards and a word list.'));}const grid=node('div',undefined,'grid reading-toc');data.forEach(t=>{const card=node('div',undefined,'panel card');card.append(node('strong',m.other?t.title:'Reading '+t.id),node('small',m.other?t.filename:t.questions.length+' questions · '+t.vocabulary.length+' vocabulary items'));const links=node('div',undefined,'reading-controls'),test=node('a',m.other?'View '+t.count+' readings':'Reading test');test.href=m.other?'reading-practice.html?collection='+t.id:'reading-practice.html?reading='+t.id;links.append(test);if(!m.other&&t.vocabulary.length){const vocab=node('a','Vocabulary');vocab.href='reading-practice.html?vocabulary='+t.id;links.append(vocab);}card.append(links);grid.append(card);});box.append(grid);}catch(_){if(m.expanded)box.replaceChildren(node('p','The tests could not be loaded. Close this menu and try again.'));}}
+ async function open(m){
+  if(m.expanded){close(m);return;}
+  menus.filter(x=>x!==m).forEach(close);
+  const guide=document.getElementById('readingGuideButton');
+  if(guide.getAttribute('aria-expanded')==='true')guide.click();
+  collapseSection();m.expanded=true;
+  const trigger=document.getElementById(m.trigger),box=document.getElementById(m.box);
+  trigger.setAttribute('aria-expanded','true');box.hidden=false;box.replaceChildren(node('p','Loading reading tests...'));
+  try{
+   const data=(await collections()).filter(c=>c.group===m.group);
+   if(!m.expanded)return;
+   box.replaceChildren(node('h3',m.title));
+   const grid=node('div',undefined,'grid reading-toc');
+   data.forEach(collection=>{
+    const card=node('div',undefined,'panel card');
+    card.append(node('strong',collection.title),node('small',collection.count+' readings · 20 minutes each'));
+    if(collection.vocabulary)card.append(node('small','Vocabulary practice included'));
+    const links=node('div',undefined,'reading-controls'),link=node('a','View '+collection.count+' readings');
+    link.href='reading-practice.html?collection='+collection.id;links.append(link);card.append(links);grid.append(card);
+   });
+   box.append(grid);
+  }catch(_){if(m.expanded)box.replaceChildren(node('p','The tests could not be loaded. Close this menu and try again.'));}
+ }
  menus.forEach(m=>document.getElementById(m.trigger).onclick=()=>open(m));
- document.addEventListener('click',event=>{if(document.getElementById('home').hidden||event.defaultPrevented||!window.getSelection().isCollapsed)return;menus.forEach(m=>{if(m.expanded&&!event.target.closest('#'+m.trigger+',#'+m.box))close(m);});});
+ document.addEventListener('click',event=>{
+  if(document.getElementById('home').hidden||event.defaultPrevented||!window.getSelection().isCollapsed)return;
+  menus.forEach(m=>{if(m.expanded&&!event.target.closest('#'+m.trigger+',#'+m.box))close(m);});
+ });
 })();
