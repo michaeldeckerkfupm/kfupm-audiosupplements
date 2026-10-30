@@ -9,12 +9,16 @@ from PIL import Image
 W='{http://schemas.openxmlformats.org/wordprocessingml/2006/main}'
 R='{http://schemas.openxmlformats.org/officeDocument/2006/relationships}'
 A='{http://schemas.openxmlformats.org/drawingml/2006/main}'
+V='{urn:schemas-microsoft-com:vml}'
 OUT=Path('explorer-data');OUT.mkdir(exist_ok=True)
 def norm(s):return re.sub(r'\s+',' ',s).strip()
 def images(n,doc):
  out=[]
- for b in n.iter(A+'blip'):
-  rel=b.get(R+'embed')
+ seen=set()
+ for b in list(n.iter(A+'blip'))+list(n.iter(V+'imagedata')):
+  rel=b.get(R+'embed') or b.get(R+'id')
+  if rel in seen:continue
+  seen.add(rel)
   if rel:
    part=doc.part.related_parts[rel]; im=Image.open(io.BytesIO(part.blob)).convert('RGB');im.thumbnail((1000,1400));stream=io.BytesIO();im.save(stream,'WEBP',quality=85);out.append('data:image/webp;base64,'+base64.b64encode(stream.getvalue()).decode())
  return out
@@ -53,8 +57,8 @@ def parse(path,book):
      if not keys[last_key]:keys[last_key]=text
     elif text.startswith('PTS:'):last_key=None
     continue
-   if text.startswith('DIRECTIONS:'):
-    section={'id':len(sections),'instructions':text.replace('DIRECTIONS:','',1).strip(),'paragraphs':[],'images':[],'bank':[],'tables':[],'questions':[],'title':''};sections.append(section);question=None;continue
+   if text.startswith('DIRECTIONS:') or text.startswith('Match each claim with'):
+    section={'id':len(sections),'instructions':text.replace('DIRECTIONS:','',1).strip(),'paragraphs':[],'images':[],'imageCaptions':[],'bank':[],'tables':[],'questions':[],'title':''};sections.append(section);question=None;continue
    if section is None:continue
    m=re.match(r'^(?:_{2,}\s*)?(\d+)\.\s*(.+)$',text)
    if m:
@@ -68,7 +72,12 @@ def parse(path,book):
    elif text:
     if not section['title'] and not text.startswith('[') and len(text)<100:section['title']=text
     else:section['paragraphs'].append(text)
-   if question is None:section['images'].extend(images(n,doc))
+   if question is None:
+    extra=images(n,doc)
+    for image in extra:
+     caption=section['paragraphs'][-1] if section['paragraphs'] and re.match(r'^(?:Pie\s+)?(?:Chart|Figure|Diagram)\s*#?\s*\d+$',section['paragraphs'][-1],re.I) else ''
+     if caption:section['paragraphs'].pop()
+     section['images'].append(image);section['imageCaptions'].append(caption)
   elif n.tag==W+'tbl':
    opts=choices(Table(n,doc))
    if section is None:continue

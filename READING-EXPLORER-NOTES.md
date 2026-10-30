@@ -1,0 +1,15 @@
+# Reading Explorer supplements
+
+Imported the 48 DOCX files supplied in Drive's 010 Reading Explorer folder, divided into Reading Explorer 2 and Reading Explorer 3. Each book contains Units 1A through 12B, with 25 questions per unit, for 1,200 questions in total.
+
+The fourth home-page reading button italicizes Reading Explorer and opens the same inline packet interface as the existing supplements. The book label remains visible while scrolling. The main menu uses four columns on desktop and two on narrow screens.
+
+The practice interface supports the source formats: single-answer questions, multiple-answer questions, true/false, fact/speculation, word-bank and matching activities, and typed answers. Provided word banks become choice lists where applicable; open-response items remain typed. Answer positions are randomized while preserving the source key's option identity. Multiple-answer items require the complete correct selection for the source's one point. Typed answers accept the variants provided in the answer section and ignore case, redundant whitespace, quote typography, and common dash variants. A unit retains the shared 20-minute timer, submission feedback, flags, restart and saved-attempt behavior.
+
+Exercise sections have a selector so passages, vocabulary contexts and figures remain associated with their questions. Page view is a reformatted SVG rendering of the supplied passage and figures, rather than a claim to be an image of the original Word page. Text view reflows the same material. The original passage images in existing packets are unchanged. Teacher answer pages and answer metadata are excluded from the passage display.
+
+The importer resolves source answer labels against the corresponding options or bank. It handles answer keys continued onto following paragraphs, Word's older VML image format, ordinary DrawingML pictures, and the missing DIRECTIONS prefix before Reading Explorer 2 Unit 10A's final matching exercise. The latter must be a separate section so its evidence choices cannot replace the preceding vocabulary choices. Figure captions remain paired with their graphics.
+
+Verification exercised all 1,200 imported keys through the browser grading interface and decoded all 227 section page views, with additional checks for figures, multiple-answer and typed-answer persistence, mobile overflow, book/unit navigation, and italic title markup. The existing 172 B1-packet answer keys, vocabulary, timer expiry and saved-attempt checks also passed. Existing exam-group and inline-packet checks were updated for the fourth button and the additional books. This is a conversion and source-key consistency check, not a claim that every publisher question or source-era factual assertion has undergone an independent semantic/factual audit.
+
+Rebuild with `python build_reading_explorer.py` after placing the supplied files in `upload/reading-explorer/book2/` and `book3/`, named `unit-1a.docx` through `unit-12b.docx`. Run `node check-reading-explorer.cjs` with Playwright and a compatible Chromium executable at `/tmp/reading-chromium`.

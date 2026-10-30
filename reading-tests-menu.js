@@ -2,7 +2,8 @@
 (() => {
  const menus=[
   {trigger:'readingTestsButton',box:'readingTestsContents',group:'major-1',title:'Major 1'},
-  {trigger:'otherReadingButton',box:'otherReadingContents',group:'major-2-final',title:'Major 2 and Final Exam'}
+  {trigger:'otherReadingButton',box:'otherReadingContents',group:'major-2-final',title:'Major 2 and Final Exam'},
+  {trigger:'readingExplorerButton',box:'readingExplorerContents',group:'reading-explorer',title:'Reading Explorer Supplemental Materials'}
  ];
  const node=(tag,text,cls)=>{const e=document.createElement(tag);if(text!==undefined)e.textContent=text;if(cls)e.className=cls;return e;};
  let pending;
@@ -35,7 +36,7 @@
    const list=node('div',undefined,'grid reading-toc');
    readings.forEach(reading=>{
     const card=node('div',undefined,'panel card');
-    card.append(node('strong','Reading '+reading.id),node('small',reading.questions.length+' questions · 20 minutes'));
+    card.append(node('strong',reading.label||'Reading '+reading.id),node('small',reading.questions.length+' questions · 20 minutes'));
     const controls=node('div',undefined,'reading-controls');
     const test=node('a','Reading test');test.href='reading-practice.html?collection='+collection.id+'&reading='+reading.id;controls.append(test);
     if(reading.vocabulary?.length){const vocab=node('a','Vocabulary');vocab.href='reading-practice.html?collection='+collection.id+'&vocabulary='+reading.id;controls.append(vocab);}
@@ -65,7 +66,7 @@
     const card=node('button',undefined,'panel card packet-choice');
     card.type='button';card.id='packet-'+collection.id;card.setAttribute('aria-expanded','false');card.setAttribute('aria-controls',details.id);
     card.onclick=()=>selectPacket(m,collection,grid,details);
-    card.append(node('strong',collection.title),node('small',collection.count+' readings · 20 minutes each'));
+    card.append(node('strong',collection.title),node('small',collection.count+' '+(collection.itemLabel||'readings')+' · 20 minutes each'));
     if(collection.vocabulary)card.append(node('small','Vocabulary practice included'));
     card.append(node('span','Show readings','packet-action'));grid.append(card);
    });

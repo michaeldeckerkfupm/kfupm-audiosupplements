@@ -40,5 +40,23 @@
     "exam": "Major 2 and Final Exam",
     "dataFile": "other-3-student.json",
     "count": 13
+  },
+  {
+    "id": "reading-explorer-2",
+    "title": "Reading Explorer 2",
+    "group": "reading-explorer",
+    "exam": "Reading Explorer Supplemental Materials",
+    "dataFile": "explorer-data/book2.json",
+    "count": 24,
+    "itemLabel": "units"
+  },
+  {
+    "id": "reading-explorer-3",
+    "title": "Reading Explorer 3",
+    "group": "reading-explorer",
+    "exam": "Reading Explorer Supplemental Materials",
+    "dataFile": "explorer-data/book3.json",
+    "count": 24,
+    "itemLabel": "units"
   }
 ]
