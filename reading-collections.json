@@ -48,7 +48,7 @@
     "exam": "Reading Explorer Supplemental Materials",
     "dataFile": "explorer-data/book2.json",
     "count": 24,
-    "itemLabel": "units"
+    "itemLabel": "readings"
   },
   {
     "id": "reading-explorer-3",
@@ -57,6 +57,6 @@
     "exam": "Reading Explorer Supplemental Materials",
     "dataFile": "explorer-data/book3.json",
     "count": 24,
-    "itemLabel": "units"
+    "itemLabel": "readings"
   }
 ]

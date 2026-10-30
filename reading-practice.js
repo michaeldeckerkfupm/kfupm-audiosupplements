@@ -50,6 +50,7 @@ field.append(choices);if(state.submitted)field.append(el('p',correct(q,state.ans
  fetch('reading-collections.json').then(r=>{if(!r.ok)throw Error('Unable to load');return r.json();}).then(async catalog=>{
   const collection=catalog.find(c=>c.id===(collectionId||'reading-1-student'));
   if(!collection)throw Error('Unknown collection');
+  $('practiceTests').classList.toggle('explorer-tests',collection.group==='reading-explorer');
   const response=await fetch(collection.dataFile);if(!response.ok)throw Error('Unable to load collection');
   const readings=await response.json();
   tests=collection.legacyNumericIds?readings:readings.map(t=>({...t,number:t.id,id:collection.id+'-'+t.id}));
