@@ -48,6 +48,7 @@ button,.reading-controls a{min-height:44px;line-height:1.4}.question-nav button{
 .packet-action{display:block;margin-top:16px;font-size:14px;font-weight:600;color:#19594f}
 .packet-choice-active .packet-action{color:#17433f}
 .packet-contents{border-top:1px solid #b8cbc5;margin-top:22px;padding-top:20px}
-.packet-contents>h4{font-size:20px;margin:0 0 18px;color:#17433f}
+.packet-contents>h4{position:sticky;top:0;z-index:3;font-size:20px;line-height:1.4;margin:0 0 18px;padding:12px 0;color:#17433f;background:#eaf2ee;box-shadow:0 1px 0 #b8cbc5}
+.packet-contents .card,.packet-contents a{scroll-margin-top:80px}
 .packet-status{margin:0}
 @media(prefers-reduced-motion:reduce){.packet-choice{transition:none}}

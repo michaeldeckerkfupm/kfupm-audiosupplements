@@ -14,9 +14,20 @@ const {chromium}=require('playwright'),fs=require('fs'),http=require('http'),pat
    const href=await page.locator('#'+group+' .packet-contents a').first().getAttribute('href');assert.equal(href,'reading-practice.html?collection='+collection.id+'&reading=1');
    if(collection.vocabulary)assert.equal(await page.locator('#'+group+' .packet-contents').getByRole('link',{name:'Vocabulary',exact:true}).count(),18);
   }
+  const sticky=page.locator('#packet-contents-major-2-final>h4');
+  await page.locator('#packet-contents-major-2-final .card').nth(6).scrollIntoViewIfNeeded();
+  await page.evaluate(()=>window.scrollBy(0,120));
+  assert(Math.abs((await sticky.boundingBox()).y)<1);assert.equal(await sticky.innerText(),'Reading Tests 3-Student');
+  await page.screenshot({path:'/tmp/sticky-packet-desktop.png'});
   await page.locator('#packet-other-3-student').press('Space');assert(await page.locator('#packet-contents-major-2-final').isHidden());assert.equal(await page.locator('#otherReadingContents .packet-choice-dimmed').count(),0);
   await page.locator('#packet-other-2-teacher').press('Enter');await page.waitForSelector('#packet-contents-major-2-final .card');await page.screenshot({path:'/tmp/inline-packets-desktop.png',fullPage:true});
   await page.setViewportSize({width:390,height:844});await page.locator('#readingTestsButton').click();await page.waitForSelector('#packet-reading-1-student');await page.locator('#packet-reading-1-student').click();await page.waitForSelector('#packet-contents-major-1 .card');assert(await page.evaluate(()=>document.documentElement.scrollWidth<=innerWidth));await page.screenshot({path:'/tmp/inline-packets-mobile.png',fullPage:true});
+  const mobileHeading=page.locator('#packet-contents-major-1>h4');
+  await page.locator('#packet-contents-major-1 .card').nth(8).scrollIntoViewIfNeeded();
+  await page.evaluate(()=>window.scrollBy(0,120));
+  assert(Math.abs((await mobileHeading.boundingBox()).y)<1);assert.equal(await mobileHeading.innerText(),'Reading Tests 1-Student');
+  assert(await page.evaluate(()=>document.documentElement.scrollWidth<=innerWidth));
+  await page.screenshot({path:'/tmp/sticky-packet-mobile.png'});
   await page.locator('#packet-contents-major-1 .card').first().getByRole('link',{name:'Vocabulary',exact:true}).click();await page.waitForSelector('#vocabWord');assert(await page.locator('#practiceVocabulary').isVisible());
   await page.goto('http://localhost:8770/index.html');let attempts=0;await page.route('**/other-2-teacher.json',route=>++attempts===1?route.abort():route.continue());await page.locator('#otherReadingButton').click();await page.waitForSelector('#packet-other-2-teacher');await page.locator('#packet-other-2-teacher').click();await page.getByRole('button',{name:'Try again',exact:true}).click();await page.waitForSelector('#packet-contents-major-2-final .card');assert.equal(await page.locator('#packet-contents-major-2-final .card').count(),15);
   await page.locator('#packet-contents-major-2-final .card').first().getByRole('link',{name:'Reading test',exact:true}).click();await page.waitForSelector('#exam-q-0');assert(await page.locator('#practiceExam').isVisible());assert.deepEqual(errors,[]);
