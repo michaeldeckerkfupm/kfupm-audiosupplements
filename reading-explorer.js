@@ -53,7 +53,7 @@
   const box=$('explorerWordBanks');box.replaceChildren(make('p','Drag a word to a blank, or select a word and then select its blank. Use the part buttons above to revisit either reading.'));
   indices.forEach((index,n)=>{const p=active.passages[index],group=make('section');group.className='explorer-bank-group';group.append(make('h3','Activity '+(n+1)),make('p',p.instructions));
    if(p.gapBank){const bank=make('div');bank.className='explorer-bank';bank.setAttribute('aria-label','Word bank for activity '+(n+1));p.bank.forEach(word=>{const b=make('button',word.text);b.type='button';b.draggable=!hooks.state().submitted;b.disabled=hooks.state().submitted;b.dataset.section=index;b.onclick=()=>{selectedWord={section:index,text:word.text};window.explorerRefresh();$('explorerAnnouncement').textContent=word.text+' selected. Select a blank in activity '+(n+1)+'.';};b.ondragstart=e=>{e.dataTransfer.setData('text/plain',JSON.stringify({test:active.id,section:index,text:word.text}));e.dataTransfer.effectAllowed='copy';};bank.append(b);});group.append(bank);}
-   else group.append(make('p','Answer the questions on the right.'));
+   else group.append(make('p','Answer the questions in this activity.'));
    box.append(group);
   });window.explorerRefresh();
  }
