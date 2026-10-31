@@ -57,9 +57,10 @@ def parse(path,book):
      if not keys[last_key]:keys[last_key]=text
     elif text.startswith('PTS:'):last_key=None
     continue
-   if text.startswith('DIRECTIONS:') or text.startswith('Match each claim with'):
-    section={'id':len(sections),'instructions':text.replace('DIRECTIONS:','',1).strip(),'paragraphs':[],'images':[],'imageCaptions':[],'bank':[],'tables':[],'questions':[],'title':''};sections.append(section);question=None;continue
+   if re.match(r'^(DIRECTIONS|INSTRUCTIONS):',text) or text.startswith('Match each claim with'):
+    section={'id':len(sections),'instructions':re.sub(r'^(DIRECTIONS|INSTRUCTIONS):','',text).strip(),'paragraphs':[],'images':[],'imageCaptions':[],'bank':[],'tables':[],'questions':[],'title':''};sections.append(section);question=None;continue
    if section is None:continue
+   if re.match(r'^Reading Explorer [23]:? Unit \d+ Lesson [AB]$',text):continue
    m=re.match(r'^(?:_{2,}\s*)?(\d+)\.\s*(.+)$',text)
    if m:
     question={'number':int(m[1]),'stem':m[2],'options':[],'section':section['id']};section['questions'].append(question);allq.append(question)
@@ -109,6 +110,14 @@ def parse(path,book):
    q.pop('section',None)
   section['title']=section['title'] or ('Vocabulary' if 'word' in section['instructions'].lower() or 'vocabulary' in section['instructions'].lower() else 'Practice')
  unit=path.stem.replace('unit-','').upper()
+ # Source reading-skills activities may follow vocabulary in the Word files.
+ skill_sections={2:{'1A':2,'1B':2,'2A':2,'2B':3,'3A':5,'3B':5,'4A':3,'4B':2,'5A':2,'5B':2,'6A':4,'6B':3,'7A':2,'7B':2,'8A':2,'8B':4,'9A':2,'9B':2,'10A':5,'10B':3,'11A':2,'11B':4,'12A':4,'12B':4},3:{'1A':2,'1B':2,'2A':3,'2B':3,'3A':2,'3B':2,'4A':2,'4B':2,'5A':2,'5B':2,'6A':2,'6B':2,'7A':2,'7B':2,'8A':2,'8B':2,'9A':2,'9B':2,'10A':2,'11A':2,'12A':2,'12B':2}}
+ # In Book 3 Unit 2B the vocabulary precedes the second passage.
+ reading_sections=[0,2,3] if book==3 and unit=='2B' else [0,1]+([skill_sections[book][unit]] if unit in skill_sections[book] else [])
+ for i,section in enumerate(sections):
+  section['part']=reading_sections.index(i)+1 if i in reading_sections else 'vocabulary'
+  section['readingContext']=i if section['part'] in [1,2] else reading_sections[1]
+  section['gapBank']=bool(section['bank']) and any(re.search(r'_{2,}',q['stem']) for q in section['questions']) and not re.search(r'match|definition|meaning|purpose|order|heading|point of view|advantage',section['instructions'],re.I)
  assert len(allq)==len(keys),(path,'key count mismatch',len(allq),len(keys))
  return {'id':unit,'label':'Unit '+unit,'title':'Reading Explorer '+str(book)+' · Unit '+unit,'questions':allq,'vocabulary':[],'paragraphs':[],'passages':[{k:v for k,v in s.items() if k!='questions'} for s in sections]}
 if __name__=='__main__':
