@@ -3,6 +3,13 @@
  let active,section=0,token=0,hooks,parts=[],selectedWord=null,layoutObserver;
  const $=id=>document.getElementById(id),make=(tag,text)=>{const n=document.createElement(tag);if(text!==undefined)n.textContent=text;return n;};
  const escape=text=>String(text).replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&apos;'}[c]));
+
+ const raisedRanges=value=>active?.superscripts?.[value]||[];
+ function formatted(tag,value){
+  const element=make(tag),ranges=raisedRanges(value);let cursor=0;
+  ranges.forEach(([start,end])=>{element.append(document.createTextNode(value.slice(cursor,start)),make('sup',value.slice(start,end)));cursor=end;});
+  element.append(document.createTextNode(value.slice(cursor)));return element;
+ }
  function table(parent,rows){const wrap=make('div');wrap.className='table-scroll';const t=make('table');t.className='vocab-table';rows.forEach(row=>{const tr=make('tr');row.forEach(value=>tr.append(make('td',value)));t.append(tr);});wrap.append(t);parent.append(wrap);}
  window.explorerQuestionExtras=(parent,q)=>{(q.images||[]).forEach(src=>{const img=make('img');img.src=src;img.alt='Figure supplied with this question';img.className='explorer-figure';parent.append(img);});(q.tables||[]).forEach(rows=>table(parent,rows));};
  window.explorerClose=()=>{token++;layoutObserver?.disconnect();active=null;hooks=null;selectedWord=null;document.getElementById('explorerParts')?.remove();document.getElementById('explorerWordBanks')?.remove();$('practiceExam').classList.remove('explorer-exam');document.querySelector('.passage-header h2').textContent='Reading passage';document.querySelector('.passage-controls').hidden=false;$('examSubmit').textContent='Submit answers';$('passageImageButton').textContent='Original page';$('passageImageButton').title='Original layout with printed line numbers. Scroll this panel to find the referenced line.';};
@@ -56,7 +63,7 @@
   const header=make('div');header.className='explorer-activity-intro';header.append(title,make('p',p.instructions));
   const base=active.passages[p.readingContext]||p;
   const extras=p===base?[]:p.paragraphs.filter(text=>!base.paragraphs.includes(text));
-  (section==='vocabulary'?p.paragraphs:extras).forEach(value=>{const paragraph=make('p',value);paragraph.className='explorer-activity-text';header.append(paragraph);});
+  (section==='vocabulary'?p.paragraphs:extras).forEach(value=>{const paragraph=formatted('p',value);paragraph.className='explorer-activity-text';header.append(paragraph);});
   return header;
  };
  window.explorerGap=(legend,choices,q,i)=>{
@@ -81,7 +88,7 @@
   const base=test.passages[source.readingContext]||source;
   const p={...base,images:[...base.images],imageCaptions:[...(base.imageCaptions||[])],bank:[],tables:[]};
   source.images.forEach((src,i)=>{if(!p.images.includes(src)){p.images.push(src);p.imageCaptions.push(source.imageCaptions?.[i]||'');}});
-  const text=$('examPassage');text.replaceChildren(make('h3',p.title));p.paragraphs.forEach(value=>text.append(make('p',value)));
+  const text=$('examPassage');text.replaceChildren(formatted('h3',p.title));p.paragraphs.forEach(value=>text.append(formatted('p',value)));
   if(p.bank.length){const bank=make('p','Word bank: '+p.bank.map(o=>o.text).join(' · '));bank.className='explorer-word-bank';text.append(bank);}
   else p.tables.forEach(rows=>table(text,rows));
   p.images.forEach((src,i)=>{if(p.imageCaptions?.[i])text.append(make('h4',p.imageCaptions[i]));const img=make('img');img.src=src;img.alt='Figure supplied with this exercise';img.className='explorer-figure';text.append(img);});
@@ -92,8 +99,13 @@
   const targets=test.questions.filter(q=>partFor(q.passage)===section&&q.target).map(q=>q.target);
   const escaped=targets.map(t=>t.replace(/[.*+?^${}()|[\]\\]/g,'\\$&'));
   const targetPattern=escaped.length?new RegExp('(?<![\\p{L}\\p{N}_])('+escaped.join('|')+')(?![\\p{L}\\p{N}_])','giu'):null;
-  const markup=value=>targetPattern?value.split(targetPattern).map((part,i)=>i%2?'<tspan font-weight="bold">'+escape(part)+'</tspan>':escape(part)).join(''):escape(value);
-  function lines(value,size,bold=false){ctx.font=(bold?'bold ':'')+size+'px Georgia';let line='';const rows=[];for(const word of String(value).split(/\s+/)){const next=line?line+' '+word:word;if(ctx.measureText(next).width>820&&line){rows.push(line);line=word;}else line=next;}if(line)rows.push(line);rows.forEach(row=>{parts.push('<text x="40" y="'+y+'" font-family="Georgia,serif" font-size="'+size+'"'+(bold?' font-weight="bold"':'')+'>'+markup(row)+'</text>');y+=size*1.55;});y+=14;}
+  function markup(value,ranges,offset){
+   const boldRanges=[];if(targetPattern){targetPattern.lastIndex=0;for(const match of value.matchAll(targetPattern))boldRanges.push([match.index,match.index+match[0].length]);}
+   const raised=ranges.map(([a,b])=>[Math.max(0,a-offset),Math.min(value.length,b-offset)]).filter(([a,b])=>a<b);
+   const bounds=[...new Set([0,value.length,...boldRanges.flat(),...raised.flat()])].sort((a,b)=>a-b);
+   return bounds.slice(0,-1).map((a,i)=>{const b=bounds[i+1],bold=boldRanges.some(([x,y])=>a>=x&&b<=y),sup=raised.some(([x,y])=>a>=x&&b<=y);return '<tspan'+(bold?' font-weight="bold"':'')+(sup?' baseline-shift="super" font-size="65%"':'')+'>'+escape(value.slice(a,b))+'</tspan>';}).join('');
+  }
+  function lines(value,size,bold=false){ctx.font=(bold?'bold ':'')+size+'px Georgia';let line='';const rows=[],ranges=raisedRanges(value);for(const word of String(value).split(/\s+/)){const next=line?line+' '+word:word;if(ctx.measureText(next).width>820&&line){rows.push(line);line=word;}else line=next;}if(line)rows.push(line);let offset=0;rows.forEach(row=>{offset=String(value).indexOf(row,offset);parts.push('<text x="40" y="'+y+'" font-family="Georgia,serif" font-size="'+size+'"'+(bold?' font-weight="bold"':'')+'>'+markup(row,ranges,offset)+'</text>');offset+=row.length;y+=size*1.55;});y+=14;}
   lines(p.title,25,true);p.paragraphs.forEach(value=>lines(value,19));
   if(p.bank.length)lines('Word bank: '+p.bank.map(o=>o.text).join(' · '),19);else p.tables.forEach(rows=>rows.forEach(row=>lines(row.join(' | '),18)));
   for(let i=0;i<p.images.length;i++){const src=p.images[i];if(p.imageCaptions?.[i])lines(p.imageCaptions[i],20,true);const img=new Image();img.src=src;try{await img.decode();}catch(_){continue;}const width=Math.min(820,img.naturalWidth),height=width*img.naturalHeight/img.naturalWidth;parts.push('<image x="40" y="'+y+'" width="'+width+'" height="'+height+'" href="'+escape(src)+'"/>');y+=height+24;}

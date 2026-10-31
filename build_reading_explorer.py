@@ -12,6 +12,28 @@ A='{http://schemas.openxmlformats.org/drawingml/2006/main}'
 V='{urn:schemas-microsoft-com:vml}'
 OUT=Path('explorer-data');OUT.mkdir(exist_ok=True)
 def norm(s):return re.sub(r'\s+',' ',s).strip()
+def superscript_ranges(paragraph):
+ # Keep source run formatting as offsets into the same whitespace-normalized text.
+ raw=''.join(run.text for run in paragraph.runs)
+ if norm(raw)!=norm(paragraph.text):
+  assert not any(run.font.superscript and run.text.strip() for run in paragraph.runs), 'Unsupported formatted hyperlink'
+  return []
+ flags=[]
+ for run in paragraph.runs:flags.extend([bool(run.font.superscript)]*len(run.text))
+ normalized=[];raised=[]
+ for match in re.finditer(r'\S|\s+',raw):
+  if match[0].isspace():
+   if normalized:normalized.append(' ');raised.append(False)
+  else:normalized.append(match[0]);raised.append(flags[match.start()])
+ if normalized and normalized[-1]==' ':normalized.pop();raised.pop()
+ assert ''.join(normalized)==norm(paragraph.text)
+ result=[]
+ for i,flag in enumerate(raised):
+  if flag:
+   if result and result[-1][1]==i:result[-1][1]=i+1
+   else:result.append([i,i+1])
+ return result
+
 def images(n,doc):
  out=[]
  seen=set()
@@ -42,11 +64,14 @@ def choices(table):
  return pairs
 
 def parse(path,book):
- doc=Document(path);sections=[];section=None;question=None;answer=False;keys={};alternatives={};last_key=None;allq=[]
+ doc=Document(path);sections=[];section=None;question=None;answer=False;keys={};alternatives={};last_key=None;allq=[];formats={}
  for n in doc.element.body:
   if n.tag==W+'sectPr':continue
   if n.tag==W+'p':
    p=Paragraph(n,doc);text=norm(p.text)
+   if not answer:
+    ranges=superscript_ranges(p)
+    if ranges:formats[text]=ranges
    if text=='Answer Section':answer=True;continue
    if answer:
     m=re.match(r'^(\d+)\.\s*ANS:\s*(.*?)(?:\s*PTS:.*)?$',text)
@@ -119,7 +144,7 @@ def parse(path,book):
   section['readingContext']=i if section['part'] in [1,2] else reading_sections[1]
   section['gapBank']=bool(section['bank']) and any(re.search(r'_{2,}',q['stem']) for q in section['questions']) and not re.search(r'match|definition|meaning|purpose|order|heading|point of view|advantage',section['instructions'],re.I)
  assert len(allq)==len(keys),(path,'key count mismatch',len(allq),len(keys))
- return {'id':unit,'label':'Unit '+unit,'title':'Reading Explorer '+str(book)+' · Unit '+unit,'questions':allq,'vocabulary':[],'paragraphs':[],'passages':[{k:v for k,v in s.items() if k!='questions'} for s in sections]}
+ return {'id':unit,'label':'Unit '+unit,'title':'Reading Explorer '+str(book)+' · Unit '+unit,'questions':allq,'vocabulary':[],'paragraphs':[],'superscripts':formats,'passages':[{k:v for k,v in s.items() if k!='questions'} for s in sections]}
 if __name__=='__main__':
  errors=[]
  for book in [2,3]:
